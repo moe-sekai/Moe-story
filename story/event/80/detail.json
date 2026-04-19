@@ -1,0 +1,74 @@
+{
+  "event_id": 80,
+  "title_jp": "弓引け、白の世界で",
+  "title_cn": "挽弓,于纯白的世界",
+  "outline_jp": "ある日の弓道部。雫はひょんなことから、まふゆの表情に陰りを感じ取る。そしてそれは、雫とまふゆが出会って間もない頃に見た、ある表情に似ていて……？",
+  "outline_cn": "某日在弓道部,雫偶然察觉到真冬的表情中掠过一丝阴霾。那副神情,竟与两人刚相识不久时雫曾见过的某种表情十分相似……？",
+  "summary_cn": "日野森雫在弓道部察觉朝比奈真冬神情阴郁，这让她回想起两人初识的往事。当年，真冬不仅以完美的姿态令雫折服，更在雫因偶像工作受挫时，教导她通过射箭“整理内心”，帮她走出了自卑与焦虑。然而，雫也曾偶然见过真冬压抑痛苦的模样。如今，面对因母亲施压要求退部而内心寒冷的真冬，雫受KAITO启发，在雪天强行邀请真冬练习，试图传达想成为其力量的心意。虽然真冬试图掩饰真实烦恼，但在比试中因母亲催促而心神大乱时，雫用真冬曾经的教导引导她专注于当下，找回了平静。最终两人在雪中归途共享温暖，雫也为终于能回报真冬曾经的给予而感到欣慰。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "いつか見た顔",
+      "title_cn": "曾见过的面容",
+      "summary_cn": "在弓道部,日野森雫指导后辈训练后与朝比奈真冬闲聊。谈及未来升学与真冬志愿考取医科大学的话题时,真冬露出了一瞬间的阴霾神情,这让雫觉得与两人初识时真冬的表情十分相似。回家后,雫对此难以释怀。此时KAITO和初音未来现身寻求演出服装的建议,雫虽提出方案,却因联想到真冬而走神。察觉到雫有心事的KAITO主动提出愿意倾听她的烦恼。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "完璧になりたくて",
+      "title_cn": "渴望完美",
+      "summary_cn": "回忆中，偶像时期的雫因未能扮演“完美”形象而苦恼，听从前辈建议决定尝试社团活动。高中体验弓道部时，雫遇到了朝比奈真冬。真冬无论在待人接物还是弓道技巧上都表现得无懈可击，令雫深感自卑，认为真冬才是真正的“完美”。在雫因缺乏自信犹豫是否入部时，真冬主动肯定了她的潜质。受到真冬鼓励，雫最终决定加入弓道部。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "この一瞬のためだけに",
+      "title_cn": "只为这一瞬",
+      "summary_cn": "入部数月后，雫因兼顾偶像工作导致练习滞后，加之好友爱莉退出事务所一事令她倍感无力，因无法回应期待而陷入自我厌恶，甚至萌生退意。某日晨练时雫偶遇真冬，面对雫的自卑，真冬坦言自己并不完美，只是通过射箭来“整理内心”，通过摒弃杂念来获得平静。在真冬的引导下，雫试着放下焦虑，只专注于眼前的一箭，终于成功中靶。真冬鼓励她只要静心便能继续前行，这番话深深打动了雫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "雪の弓道場で",
+      "title_cn": "雪中的弓道场",
+      "summary_cn": "雫回忆起真冬曾在新人赛中表现优异却难掩疲惫。某雪日，雫因工作取消折返道场，偶然目击了真冬独自射箭时那拼命压抑自我的痛苦神情与自言自语，但真冬面对雫时瞬间恢复了常态。回到“世界”听完讲述后，KAITO建议雫不必深究对方的烦恼，只需像偶像对待粉丝那样直率地传达“为你应援”的心意即可。受此启发，雫决定尝试向真冬传达这份支持。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "伝えるために",
+      "title_cn": "为了传达给你",
+      "summary_cn": "真冬回家后,母亲以备考为由暗示她应退出弓道部,这让真冬感到即便喝着热茶内心也依旧寒冷。次日大雪,真冬为了逃避回家,拒绝了母亲的接送提议,谎称留校自习,内心甚至期盼大雪能将一切掩埋。此时雫突然现身,尽管当天并无社团活动,她仍强硬地请求真冬一起练习射箭。面对雫罕见的坚持,正不想回家的真冬最终答应了邀请。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "力になりたい、けれど",
+      "title_cn": "想要成为你的力量,可是",
+      "summary_cn": "二人在弓道场练习时忆起往昔,雫感激真冬曾教导她通过射箭平复内心,帮她度过了艰难时刻。以此为契机,雫提起最近察觉到的阴霾及当年雪天目击的真冬的脆弱模样,坦率地表示希望能像当年真冬帮助自己那样,成为真冬的力量。真冬内心虽有触动,表面却加以掩饰,谎称只是因备考压力和比赛悔恨所致,随后转移话题借故离开。雫虽暂时接受了解释,但心中对真冬那副痛苦的神情仍难以释怀。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "今はただ、この一射を",
+      "title_cn": "此刻,只专注这一箭",
+      "summary_cn": "两人约定进行每人四射的比试。雫暗下决心要通过弓道磨练内心,以便日后能支撑真冬。起初真冬表现完美,但在收到母亲催促回家的消息后心神大乱,导致脱靶且动作变得僵硬。看着仿佛冻结般的真冬,雫没有追问缘由,而是提醒她调整呼吸,像当初真冬教导自己那样只专注于眼前的一箭。在雫的鼓励下,真冬重新找回平静并漂亮地中靶,比赛得以继续。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "少しあたたかい雪",
+      "title_cn": "有些温暖的雪",
+      "summary_cn": "弓道比试以平局告终。面对感叹雪兔终将消融的真冬,雫表示只要不遗忘,珍贵的回忆便会长存心中,并借机告诉真冬,请记住自己也是愿成为其力量的人之一。归途中雫因滑倒弄坏了伞,真冬主动提出共撑一把伞,并因雫脸上的雪而露出了久违的自然笑容。回家后,面对志步的询问,雫欣慰地表示,自己终于能将曾经从真冬那里获得的东西,回报给对方一点点了。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_kyudo_2022/event_kyudo_2022_08.webp"
+    }
+  ]
+}

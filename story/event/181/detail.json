@@ -1,0 +1,74 @@
+{
+  "event_id": 181,
+  "title_jp": "Our Golden Days",
+  "title_cn": "我们的金色时光",
+  "outline_jp": "アメリカ滞在中の補習や課題が一段落し、ようやく一息ついた杏。そんな矢先、高校生アーティストを対象とした離島での音楽フェスの依頼が舞い込んできて——？",
+  "outline_cn": "杏终于搞定了留美期间的补习和作业，好不容易松了口气。就在此时，一份面向高中生艺人的离岛音乐节邀请函却突然寄到了——？",
+  "summary_cn": "杏收到离岛音乐节邀请，各组合成员齐聚海岛，开启兼顾演出与游玩的旅程。杏与瑞希、笑梦、遥、咲希组成特别小队，通过集章观光和烧烤派对加深了跨越组合的友谊。面对“快乐时光易逝”的感伤，杏以积极的态度鼓舞大家：只要全力奔跑，未来会有更多快乐。音乐节当日，各组合轮番献上精彩表演，Vivid BAD SQUAD作为压轴震撼全场。庆功宴的烟花下，众人许愿全力以赴，让每一个“当下”都成为最闪耀的金色时光。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "フェスへの誘い",
+      "title_cn": "音乐节的邀约",
+      "summary_cn": "杏完成了补习作业，在与瑞希聊天时收到了离岛音乐节的邀请。瑞希所在的组合虽婉拒出演，但瑞希为了动漫圣地巡礼决定以兼职身份前往。杏随后在“世界”中与同伴商议，彰人等人认为这是积累经验的好机会，全员决定参加。得知行程中有自由时间，大家对这次兼顾演出与游玩的旅程充满期待。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "リハーサルの後は",
+      "title_cn": "排练之后",
+      "summary_cn": "众人抵达离岛，被美丽的景色吸引，并与实乃里、志步等其他组合成员汇合。在兼职做工作人员的瑞希引导下，大家得知笑梦也兼任了运营工作。排练顺利结束后，瑞希和笑梦组织了名为“海岛散步集章拉力赛”的观光活动，旨在促进出演者间的交流。通过抽签，杏与遥、咲希分到了同一组，原本负责工作的瑞希和笑梦也获准加入，五人组成了特别小队一同出发。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "巡るスタンプラリー",
+      "title_cn": "巡游集章拉力赛",
+      "summary_cn": "五人小队开始了集章活动。在第一站神社,杏试图展示盖章技巧却不慎盖错位置,引得众人发笑；瑞希和笑梦则展现了作为运营人员对岛屿民俗的了解。随后在动物园,杏与咲希因对水豚的共同喜爱而意气相投。最后,众人在一家怀旧的粗点心店休息,咲希吃冰棍幸运中奖。遥热情邀请年迈的店主观看演出,店主看着充满活力的众人,感慨青春易逝并嘱咐她们珍惜当下,这番话让笑梦陷入了沉思。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "思い出の１ページ",
+      "title_cn": "回忆的一页",
+      "summary_cn": "集章活动结束后,众人在海边举办了热闹的烧烤派对。大家分工合作生火备菜,享受着美食与跨组合交流的乐趣。期间,遥与彰人探讨健身话题,实乃里因烤了太多肉而向瑞希和宁宁求助,冬弥则努力撮合志步接受雫亲手烤的棉花糖,现场气氛其乐融融。休息时,初音未来现身感叹大家收获了珍贵的回忆,杏与心羽也决心要让明天的音乐节更加精彩。最后,笑梦拿出烟花,众人一同在欢声笑语中享受夜晚。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "きっと、今が一番",
+      "title_cn": "一定是现在最快乐",
+      "summary_cn": "烧烤结束后，瑞希独自在夜色中的海边与“25时”的成员们视频通话，展示剩下的线香花火和蛇形烟花，希望能让很少出门的大家也能感受夏日氛围。绘名提议等瑞希回来后全员一起放烟花，奏和真冬也表示赞同，这让瑞希十分感动。挂断电话后，杏散步偶遇瑞希，感叹瑞希变得更加开朗自在，瑞希也坦言此刻或许是自己最快乐的时光。随后，同样难以入睡的遥、咲希和笑梦也相继出现，五人小队在深夜的海边再次团聚。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "続いていくもの",
+      "title_cn": "延续下去的事物",
+      "summary_cn": "深夜,难以入睡的五人聚在一起聊天。瑞希提议讲鬼故事被驳回后,话题转到了白天的经历。笑梦因糖果店奶奶的话感叹快乐时光飞逝,正忙于实现梦想的咲希和遥也深有同感。咲希希望能永远停留在快乐的当下,这让气氛变得有些伤感。但杏认为只要全力奔跑,未来一定会有更多快乐在等待。这番话让大家重拾期待,约定要让明天的音乐节成为最棒的一天。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最高の盛り上がりを",
+      "title_cn": "献上最棒的狂欢",
+      "summary_cn": "音乐节正式开幕，现场人声鼎沸。瑞希在拍摄素材时，大屏幕播放了“25时”的MV并广受好评。随后，Wonderlands×Showtime以独特的戏剧形式完成了精彩的开场表演，Leo/need紧随其后用乐队演奏进一步炒热了气氛。在后台，遥向作为压轴的杏发起挑战，表示MORE MORE JUMP!绝不会输。看着遥她们在舞台上大放异彩，杏与Vivid BAD SQUAD的伙伴们深受鼓舞，决心要超越这份热度，为大家献上最棒的压轴演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "全力の“今”を",
+      "title_cn": "全力以赴的“当下”",
+      "summary_cn": "MORE MORE JUMP!结束演出后，Vivid BAD SQUAD作为压轴登场。尽管观众起初并不熟悉他们，但在杏的歌声引领下，四人爆发出的能量瞬间震撼全场，让初音未来和台下的伙伴们惊叹不已。杏向观众宣告，他们将不断超越极限，奔向更高的顶点。庆功宴上，众人在海边举杯庆祝音乐节圆满成功，此时夜空绽放起盛大的烟花。望着绚丽的景色，意犹未尽的杏内心坚定地许愿：要全力奔跑下去，创造出比此刻更加闪耀的未来，让每一个“当下”都是最棒的时光。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_golden_2025/event_golden_2025_08.webp"
+    }
+  ]
+}

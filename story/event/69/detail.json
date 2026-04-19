@@ -1,0 +1,74 @@
+{
+  "event_id": 69,
+  "title_jp": "Don't lose faith!",
+  "title_cn": "坚守信念！",
+  "outline_jp": "自分達の音楽性を証明すると啖呵を切ってしまった志歩は、Leo/needのみんなと共に１カ月後のライブに向け猛特訓をすることに。そこで伸び悩んだみんなに志歩が提案したのは、セカイでの集中特訓で……！？",
+  "outline_cn": "志步放出豪言要证明乐团的音乐性，便与Leo/need的众人为了一个月后的演出开始了猛烈特训。面对陷入瓶颈的大家，志步提议在“世界”中进行集中特训……！？",
+  "summary_cn": "为了反击Live House工作人员朔对乐团的轻视，志步誓言要在演出中证明Leo/need的真正实力。众人在“教室的世界”展开了为期一个月的高强度特训。面对成员间的技术差距，志步本欲保留实力以配合团队，但一歌等人拒绝妥协，决心拼命追赶志步的全力演奏。最终，全员在舞台上火力全开，以震撼人心的演出赢得了观众的喝彩与朔的认可，成功证明了她们的音乐信念。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "音楽性の証明",
+      "title_cn": "音乐性的证明",
+      "summary_cn": "志步因Live House工作人员朔将Leo/need评价为“典型的女高中生乐团”而感到不甘，誓言在一个月后的演出中用咲希的新歌证明她们的音乐能打动人心。次日众人来到“教室的世界”，一歌展示了以咲希内心的痛苦与光芒为灵感所作的歌词，令咲希深受感动，认为这首歌真正成为了属于大家的歌。随后志步告知了大家朔的评价，成员们虽受打击但燃起了斗志，决心全力以赴证明自己。为了在短时间内掌握这首高难度乐曲，志步为每个人制定了特训计划，大家团结一致开始了练习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "一皮剥けるために",
+      "title_cn": "为了脱胎换骨",
+      "summary_cn": "志步独自全神贯注练习的模样令成员们惊叹，也让大家意识到她平时为了配合乐团有所保留。然而在随后的合奏中，众人的技术与配合仍无法驾驭高难度的新曲。志步意识到仅靠目前的练习计划远远不够，便提议向虚拟歌手们寻求帮助。在“世界”中，志步请求Miku等人进行一对一指导，并提出了平日课后练习、周末留宿的“合宿”式特训计划。虚拟歌手们欣然答应，为了在演出前实现蜕变，大家决定从次日开始这场高强度的联合特训。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "集中特訓、開始",
+      "title_cn": "集中特训开始",
+      "summary_cn": "志步制定了前两周由虚拟歌手轮流指导个人技术、后两周进行合练的特训计划。她强调若这次无法打动观众便无下次机会,咲希则希望能享受演奏。练习中,KAITO的指导让志步茅塞顿开,两人通过贝斯合奏心意相通,目睹此景的一歌深受鼓舞,众人也在虚拟歌手的针对性指导下全力苦练。数日后,志步与咲希外出时偶遇朔,朔透露她的乐团将参加同一场演出并在后台检视她们的成果,这让咲希感到十分震惊和动摇。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "不安を蹴散らして",
+      "title_cn": "驱散不安",
+      "summary_cn": "得知将与朔所在的乐团同台,一歌等人感到紧张不安。志步鼓励大家通过练习建立自信来驱散不安,MEIKO也提醒大家不忘初心,专注于演奏能打动人心的音乐。在虚拟歌手们的指导下,成员们各自进行了高强度的个人特训。练习结束后,咲希与穗波被志步充满快乐与活力的贝斯演奏深深震撼,决心要追赶她的步伐。深夜,一歌为了巩固手感仍独自坚持练习,MEIKO与巡音流歌在一旁守护,坚信大家的努力定会有所回报。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "全力の音",
+      "title_cn": "全力之音",
+      "summary_cn": "次日，志步感到练习渐入佳境。镜音铃因记错排班误入，向志步转述了成员们的拼命状态：咲希拒绝休息、穗波苛求节奏、一歌苦练高音。备受鼓舞的志步展示了特训成果，铃虽被其全力的演奏震撼，却欲言又止地感叹“太厉害了”。随后KAITO赶到接手指导，铃未及解释便离开。尽管志步对铃的反应感到在意，但在KAITO的鼓励下，她决定专注于明天的合练，誓要发挥出全部实力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "約束の日",
+      "title_cn": "约定的日子",
+      "summary_cn": "到了合练之日,众人紧张又期待。合奏中,志步发现虽然成员们进步显著,但水平差距导致整体音响不平衡,便打算降低自身水准来迁就大家。一歌立刻叫停,不仅拒绝了这份顾虑,更与咲希、穗波一同表态:哪怕牺牲睡眠也要追赶志步的全力演奏,只求她不要妥协。被大家想要并肩同行的决心所打动,志步为自己的轻视道歉,决定不再保留实力。在虚拟歌手的注视下,全员为了能配得上志步的全力演奏,再次投入了极限特训。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "私達の全力",
+      "title_cn": "我们的全力",
+      "summary_cn": "演出当天，朔临时调整歌单展现实力。Leo/need登台前发现特训化为了自信，不再紧张。演出开始，观众起初不以为意，但很快被她们显著的进步惊艳。特别是演奏咲希的新曲时，全场被深深打动。志步在合奏中感受到成员们的全力与观众的热情，确信自己深爱着与大家共度的时光。演出结束后，朔的队友惊叹Leo/need的蜕变，朔也终于认可了她们的实力，给出了“干得不错”的评价。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "鳴りやまない残響",
+      "title_cn": "经久不息的残响",
+      "summary_cn": "演出大获成功,观众对Leo/need的进步与咲希的新曲赞不绝口,虚拟歌手们也发来祝贺。虽然众人深知技术上仍未超越朔的乐团,但已无悔于全力以赴。赛后,朔主动前来搭话,不仅认可了她们的实力与风格,更盛赞咲希的新曲直击人心,甚至提出希望能再次同台。这份来自对手的肯定让咲希感动不已,大家也坚定了继续前行的信念。与此同时,台下一名神秘人士似乎对Leo/need产生了兴趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_faith_2022/event_faith_2022_08.webp"
+    }
+  ]
+}

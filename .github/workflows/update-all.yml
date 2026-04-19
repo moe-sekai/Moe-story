@@ -1,0 +1,104 @@
+name: Update Story
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Check upstream for changes
+        id: check_upstream
+        run: |
+          UPSTREAM_HASH=$(git ls-remote https://github.com/ci-ke/ProjectSekai-story.git HEAD | awk '{print $1}')
+          STORED_HASH=$(cat .upstream-hash 2>/dev/null || echo "")
+          echo "upstream_hash=$UPSTREAM_HASH" >> $GITHUB_OUTPUT
+          echo "stored_hash=$STORED_HASH" >> $GITHUB_OUTPUT
+          if [ "$UPSTREAM_HASH" = "$STORED_HASH" ]; then
+            echo "Upstream hash unchanged ($UPSTREAM_HASH), skipping update"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Upstream hash changed: $STORED_HASH -> $UPSTREAM_HASH"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Pull latest story from upstream
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: |
+          git clone --depth 1 https://github.com/ci-ke/ProjectSekai-story.git upstream
+          # Copy upstream story files, overwriting existing ones
+          for dir in story_unit story_event story_card story_area story_self story_special; do
+            if [ -d "upstream/$dir" ]; then
+              rm -rf "$dir"
+              cp -r "upstream/$dir" .
+              echo "Copied $dir from upstream"
+            fi
+          done
+          rm -rf upstream
+
+      - name: Run migrate_story_paths.py
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: python migrate_story_paths.py
+
+      - name: Clean old directory structure
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: |
+          for dir in story_unit story_event story_card story_area story_self story_special cn jp; do
+            if [ -d "$dir" ]; then
+              echo "Removing old directory: $dir"
+              rm -rf "$dir"
+            fi
+          done
+
+      - name: Download story summaries from MoeSekai-Hub
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: |
+          git clone --depth 1 https://github.com/moe-sekai/MoeSekai-Hub.git moesekai-hub
+
+          # Copy event story detail JSONs to story/event/{id}/detail.json
+          if [ -d "moesekai-hub/story/detail" ]; then
+            for json_file in moesekai-hub/story/detail/event_*.json; do
+              if [ -f "$json_file" ]; then
+                # Extract event id from filename: event_001.json → 1
+                fname=$(basename "$json_file" .json)  # event_001
+                num_part="${fname#event_}"              # 001
+                event_id=$((10#$num_part))              # 1 (force base-10, strip leading zeros)
+                target_dir="story/event/$event_id"
+                mkdir -p "$target_dir"
+                cp "$json_file" "$target_dir/detail.json"
+                echo "Copied $(basename "$json_file") → $target_dir/detail.json"
+              fi
+            done
+          fi
+
+          # Copy area story files from moesekai-hub/story/area to story/area
+          if [ -d "moesekai-hub/story/area" ]; then
+            mkdir -p story/area
+            cp -r moesekai-hub/story/area/* story/area/
+            echo "Copied area stories from MoeSekai-Hub"
+          fi
+
+          rm -rf moesekai-hub
+
+      - name: Commit and push changes
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: |
+          # Store the new upstream hash
+          echo "${{ steps.check_upstream.outputs.upstream_hash }}" > .upstream-hash
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update story (upstream ${{ steps.check_upstream.outputs.upstream_hash }})"
+          git push

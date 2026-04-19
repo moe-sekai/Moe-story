@@ -1,0 +1,117 @@
+{
+  "event_id": 200,
+  "title_jp": "残照のInside Direction",
+  "title_cn": "残照中的内在方向",
+  "outline_jp": "修行と休養を終え、次に進むべき道を考え始めるワンダーランズ×ショウタイム。そんな時、かつて映画撮影で関わった大原監督から連絡が。監督はなんと、類に役者としてドラマCMへの出演を希望しており……！？",
+  "outline_cn": "结束修行与休整后，Wonderlands×Showtime开始思考下一步。这时，曾在电影拍摄中合作过的大原导演联系了他们，竟希望类以演员身份出演电视剧广告……！？",
+  "summary_cn": "完成修行后，Wonderlands×Showtime开始思考未来方向。此时类受大原导演邀请，临时参演电视剧广告，搭档演技生涩却背负粉丝期待的偶像永峰。拍摄因客户内定演员与现场限制屡生波折，类一边观察问题、一边直面永峰的痛苦，最终在终场戏中以精密引导与临场设计，帮助对方成功完成关键表演。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "道を決めるその前に",
+      "title_cn": "在决定道路之前",
+      "summary_cn": "在乃乃木公园，司召集大家开“超级决定会议”，讨论WS今后的方向。类表示，经历三家剧团修行及Arcland的工作坊、公演后，大家虽已成长，但接下来必须自己选路。宁宁和笑梦也赞成不再总依赖他人。类提出可继续客演、参加工作坊磨练，或以WS名义办自主公演，正要说第三条路时，司接到了电话。",
+      "character_ids": [
+        15,
+        16,
+        14,
+        13
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ドラマに出るなら",
+      "title_cn": "如果要出演电视剧",
+      "summary_cn": "类在房间里阅读大原导演紧急重写的剧本，称赞其结构完整、画面感强。拍摄当天在海边，他休息时收到MEIKO联络；MEIKO听司说他要出演电视剧，想来旁观准备情况，又担心时间紧。类表示正好在休息，欢迎她来。MEIKO说自己最近迷上了电视剧，起初是陪司用订阅平台看剧、想寻找能用于舞台表演的灵感，后来发现各类作品都很有看头，尤其喜欢侦探题材，因为既有有趣的侦探角色，也常包含格斗、悬疑、动作和恋爱元素。",
+      "character_ids": [
+        16,
+        25,
+        13,
+        14,
+        15
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "大人の事情",
+      "title_cn": "大人的苦衷",
+      "summary_cn": "类问“大人的苦衷”是指什么。大原导演解释，这个广告案原本是看中他擅长拍出吸引年轻人的氛围画面，连剧本和演出都交由他负责；但按客户意向，主演和配角从一开始就已内定，因此剧本必须围绕演员来写，这在广告里本不罕见。可真正启动后却很棘手，因为这些客户指定的演员说难听点演技都有问题。笑梦直接问是不是不太会演，宁宁忙提醒她，并表示既然是客户推荐的演员……导演则语带保留。",
+      "character_ids": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "波乱の幕開け？",
+      "title_cn": "波澜的开幕？",
+      "summary_cn": "类在海边停车场寻找永峰佳人，发现客户为炒热话题开放中签粉丝观摩，现场粉丝众多。永峰一边呼吁别打扰周围，一边熟练回应粉丝。类上前自我介绍，说明自己将代演主角朋友浅井渚；永峰得知他是代役后，表示听说类不太常拍影像作品，自己也不算熟练，希望一起努力。可永峰又因想和粉丝握手，让催他去做妆发的工作人员继续等待；而今天拍摄场地许可时间本就紧张，类因此担心进度。另一边，笑梦、宁宁和司来观摩拍摄，宁宁注意到旁边摆着不少椅子。",
+      "character_ids": [
+        16,
+        14,
+        15,
+        13
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "迫るものを撮るには",
+      "title_cn": "要拍下逼近之物",
+      "summary_cn": "次日拍摄中，类饰演的渚说起拓海帮祖父整修营地与民宿，永峰饰演的拓海则抱怨总被使唤做体力活。大原导演先指出永峰动作太漂亮，不像被迫做不愿做的事、应更显得嫌麻烦、脚步更沉；数小时后拍两人边走边回忆常一起走这条路、还约好去钓鱼的戏时，导演又指出永峰回头时脖子太僵、动作生硬。永峰请求重来，导演则决定连镜头追拍范围与切换侧脸镜头的方式也一并调整。",
+      "character_ids": [
+        14,
+        13,
+        15,
+        16
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "生の感情",
+      "title_cn": "真实的感情",
+      "summary_cn": "类告诉司等人拍摄将进入较长休息，因为永峰拍到后来已明显疲惫；宁宁说前半还能与角色状态贴合，但到了会说错台词的程度就很难继续。类分析大原导演已尽量按演员长处与剧情时间线拍摄，能做的基本都做了，正苦思还能从演出上帮什么。MEIKO提议让永峰睡一会儿恢复体力，类表示他已去休息，但恐怕仍不够，于是想听大家对永峰演技的观察。司觉得他终究很笨拙，宁宁也认为问题还是在演技本身。",
+      "character_ids": [
+        16,
+        13,
+        15,
+        14,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ファンのために",
+      "title_cn": "为了粉丝",
+      "summary_cn": "在民宿里，类向连续多日拍摄的永峰慰问，问他是否已经很疲惫。永峰逞强表示还好，称演唱会更耗体力；类认可他边唱边跳还要照顾每位到场粉丝的视线，确实辛苦。永峰则说为了想看到自己闪耀模样的粉丝，这点程度必须轻松做到。类先笑着称赞，随即话锋一转，直言他明明演技拙劣，却还得在粉丝面前暴露这样的丑态，处境实在痛苦。",
+      "character_ids": [
+        16,
+        15,
+        13,
+        14,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "残照の中で",
+      "title_cn": "残照之中",
+      "summary_cn": "拍摄赶在日落前进入最后冲刺，类为关键终场戏主动向永峰细致讲解大原导演的意图、走位与表情，还让他想象被老粉离开时的打击来抓住悲伤。正式开拍时，司、笑梦和宁宁在旁观看夕阳海景。类通过精准站位借夕阳让渚看似半透明，帮助永峰自然演出“发现渚是幽灵”的反应；又在台词后顺势倒入脚边沙地，以只留下拓海身影的画面强化效果。类先前还叮嘱永峰无论发生什么都要稳住视线看向一点五秒，于是永峰成功接住渚消失后的震惊与呼喊。",
+      "character_ids": [
+        16,
+        13,
+        14,
+        15
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_direction_2026/event_direction_2026_08.webp"
+    }
+  ]
+}

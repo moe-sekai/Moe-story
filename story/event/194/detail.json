@@ -1,0 +1,74 @@
+{
+  "event_id": 194,
+  "title_jp": "粉砕せよ！アンヴァレンタインの復讐",
+  "title_cn": "粉碎吧！反情人节的复仇",
+  "outline_jp": "バレンタインが近づいたある日、神山高校でリアルゲームイベントが開催される。勇者一行に扮して魔王を倒すそのゲームで、司は勇者になることを願うが、割り振られた役職は思いもよらないもので……！？",
+  "outline_cn": "情人节临近，神山高校举办了一场真人游戏活动。在这个扮演勇者一行打倒魔王的游戏中，司希望能成为勇者，却被分配到了意想不到的职业……！？",
+  "summary_cn": "神山高校举办情人节真人RPG，司与类集结彰人、冬弥、瑞希组队挑战。彰人勉强担任勇者，司则拿到隐藏身份“魔王军干部”。战斗中需靠羞耻的演技输出，司在“背叛”与“合作”间挣扎。最终战面对魔王“反情人节”，司自爆身份化身“暗黑天马”，却选择倒戈攻击魔王以传达爱的心意。尽管因超时未通关，但这出精彩的即兴反转剧赢得了赞赏与特别奖巧克力。复盘时得知类早已看穿真相，五人最终在一片欢声笑语中分享了战利品。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "リアルゲームをしよう！",
+      "title_cn": "来玩真人游戏吧！",
+      "summary_cn": "司和类被校内举办的“真人RPG游戏”吸引，该活动需五人组队打倒魔王“反情人节”以赢取巧克力，类还曾协助制作游戏道具。因人数不足，两人邀请偶遇的瑞希、冬弥和彰人组队。彰人起初拒绝，但在瑞希指出奖品是稀有的名牌巧克力、冬弥补充其适合搭配咖啡后，彰人最终被说服加入。五人集结前往报名，而流歌也在暗处饶有兴致地观察着这一切。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "美味しい役職",
+      "title_cn": "绝妙的角色",
+      "summary_cn": "同好会说明规则：限时一小时，且“投入的演技”能提升伤害。角色分配中，类是魔法师，瑞希是盗贼，冬弥是神官，彰人虽不情愿却抽中了勇者。司本想成为勇者，却被分配为隐藏身份的“伪装成游手好闲者的魔王军干部”。司虽对外宣称自己是游手好闲者，但意识到这个能通过“背叛”指令左右结局的角色其实非常绝妙。暗中观察的流歌建议司像即兴表演一样随局势决定是否背叛。最终，司领到了武器“铃鼓”，五人正式开始讨伐魔王。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "くりだせ！カッコイイ技",
+      "title_cn": "使出吧！帅气的绝招",
+      "summary_cn": "众人来到作为“初始之村”的空教室，发现布景简陋，连出现的“魔物”也只是穿着贴了纸板的制服。但在司的热情带动下，众人开始战斗教程。规则要求攻击时必须大喊“原创绝招名”并配合动作。作为勇者的彰人被推选示范，起初因只喊“攻击”被判定无效，被迫羞耻地喊出“火焰斩”才击倒魔物。虽然不知所谓，但冬弥和司对他大加赞赏。魔物提示下一战在三楼，司一边思考着帅气的招式名，一边完全沉浸在了游戏中。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "モヤモヤする気持ち",
+      "title_cn": "郁闷的心情",
+      "summary_cn": "众人遭遇更强的魔物，司试图帅气攻击却被告知“游手好闲者”只有睡觉和跳舞指令。他尝试“睡眠之舞”却因嗓门太大失效，反倒是瑞希帅气地击败了敌人。得知需击败“四天王”后，类和冬弥分别利用属性克制和净化魔法击败了火与暗之四天王。全程毫无活跃表现且只能跳舞的司感到无比郁闷，内心开始在“为了出风头而背叛同伴”的念头中动摇。此时流歌再次与其搭话，而众人也抵达了最后的四天王所在的教室。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "最後の四天王",
+      "title_cn": "最后的四天王",
+      "summary_cn": "众人遭遇最后的“光之四天王”Pikapira，对方凭借精湛演技和帅气招式重创勇者一行。身为魔王军干部的司见众人残血，内心一度在“趁机背叛独赢”和“与同伴共进退”间挣扎，最终为了帅气地享受游戏而选择掩盖身份。在冬弥耗尽法力治疗拖延时间后，司通过舞蹈为彰人助威，迫使彰人喊出羞耻的必杀技“真·龙王烈火斩”击败了强敌。然而四天王退场前留下了“小心叛徒”的警告，令队友们困惑不已，也让司惊慌失措。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "裏切り者は誰だ？",
+      "title_cn": "谁是叛徒？",
+      "summary_cn": "四天王留下的警告让众人意识到队内可能存在叛徒。瑞希提议互相查看设备确认身份,却被工作人员以违反规则为由制止。随后瑞希与类开始互相怀疑,彰人认为两人都很可疑,唯独信任不会撒谎的冬弥。当冬弥询问司时,身为真正叛徒的司虽心怀愧疚,但为了不暴露身份只能坚决否认。为了转移视线,司提出这可能是敌方为了消耗时间的心理战。眼看剩余时间不多,众人决定暂且将其视为虚张声势,继续向魔王进发。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "愛は全てを超えて",
+      "title_cn": "爱能超越一切",
+      "summary_cn": "众人抵达体育馆挑战魔王“反情人节”，魔王因未收到公主巧克力而怨恨，封印了众人的物理攻击并吸取生命。危急关头，司发动“背叛”指令化身魔王军干部“暗黑天马”，却反手攻击魔王，并以此教导魔王“爱需要主动传达心意”。虽然魔王被打动，但因时间耗尽导致游戏失败。尽管如此，同伴们仍认为若非司的“背叛”早已全灭，对这场精彩的演出表示赞赏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "エンディングはいつも",
+      "title_cn": "结局总是如此",
+      "summary_cn": "同好会会长盛赞众人表现,特别是司最后的反转。虽因超时未通关,但众人获得了特别奖——巨大的魔王造型巧克力。复盘时,类坦言为了戏剧效果虽看穿司是叛徒却未揭穿,冬弥则被司拯救魔王的选择感动。看着伙伴们的笑容,司对结局感到满足。暗中观察的流歌也感到欣慰。最后,意犹未尽的五人快步前往家政教室分食巧克力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revenge_2026/event_revenge_2026_08.webp"
+    }
+  ]
+}

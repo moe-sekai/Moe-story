@@ -1,0 +1,74 @@
+{
+  "event_id": 74,
+  "title_jp": "カーテンコールに惜別を",
+  "title_cn": "惜别于谢幕之时",
+  "outline_jp": "次で宣伝公演が最終回！？　驚くワンダーランズ×ショウタイムだったが、さらにそこに日本一のショーをすると名高いテーマパークから合同公演の申し入れが。てんやわんやの練習の中、類はとある人物に声をかけられ——。",
+  "outline_cn": "下次宣传公演竟是最后一回！？Wonderlands×Showtime对此惊讶不已，此时却又收到了来自以日本第一演出闻名的主题乐园的联合公演邀请。在手忙脚乱的练习中，类被某个人搭话了——。",
+  "summary_cn": "Wonderlands×Showtime迎来了最后的宣传公演，并与顶级乐园Arkland展开联合演出。期间，Arkland的天才领队玄武旭向神代类抛出橄榄枝，邀请他加入以实现“连接世界”的导演梦。面对优越环境与珍视伙伴间的抉择，类陷入了深深的迷茫。然而在公演中，目睹司等人的精彩演绎与成长，类意识到自己最渴望的仍是作为导演推动伙伴们的梦想。最终，类婉拒了挖角，决心在毕业前继续与大家同行，探索一条既能实现个人梦想又能维系团队羁绊的未来之路。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "宣伝公演終了！？",
+      "title_cn": "宣传公演结束！？",
+      "summary_cn": "神代类开发出了便携式投影装置，并决心在大家因追梦而分离的那天到来前全力以赴。次日，凤笑梦的哥哥们宣布下次宣传公演将是最后一次，原因在于宣传目标已超额达成，且游客更希望能在大本营看到他们的演出。众人接受后，哥哥们又提议与顶级主题乐园“Arkland”进行联合公演以交流学习。出于对成长的渴望，成员们一致同意，并决定在即将开馆的“近未来博物馆”前举办这场最后的宣传公演。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "玄武 旭",
+      "title_cn": "玄武旭",
+      "summary_cn": "在奇幻的世界，虚拟歌手们因无法满足玩偶想要在“飞天火车”上表演的危险愿望而苦恼，类对此产生了共鸣，并表示愿意帮忙。回到现实，WxS与Arkland的演员汇合，领队是备受瞩目的天才演员玄武旭。出人意料的是，旭竟是WxS的狂热粉丝，性格十分热情。针对“近未来博物馆”的场地，类提议演出科幻名作《两个仿生人》，并指名由旭与司担任双主演，希望借此激发成员们的成长。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ふたりの主演",
+      "title_cn": "两位主演",
+      "summary_cn": "类说明新剧本将由司与旭担任双主演，饰演两名仿生人，具体角色分配将在练习中决定。朗读会上，旭通过对手戏展示了高超演技，他不仅调整语调，还深入揣摩了角色的制造理念，这让司意识到了实力差距并决心追赶。Arkland的其他演员也展现出极高的专业素养，对宁宁和笑梦提供了建议。朗读结束后，为了营造开场袭击戏份的紧张感，类竟提出要大家“来真的”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "食べよう！同じ釜の飯",
+      "title_cn": "开动吧！同吃一锅饭",
+      "summary_cn": "类提议利用路灯进行高空突袭的危险演出,旭与Arkland成员不仅果断尝试还积极完善方案。练习中,Arkland成员悉心指导宁宁等人,旭更以精湛演技震撼了司。聚餐时,旭指出类的风格受名导汤姆·格雷影响,并吐露自己儿时曾陷战乱,正是格雷在避难所的演出给了他希望。旭表示Arkland旨在像格雷那样用演出连接世界,类意识到彼此梦想相通,旭甚至半开玩笑地邀请类担任他们的演出家。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "思いがけない言葉",
+      "title_cn": "意料之外的话语",
+      "summary_cn": "练习中,类指导成员互换角色并加入夸张的动作进行尝试。最终,类决定由旭饰演核心角色仿生人,司则饰演其搭档,司承认差距并决心演好自己的角色。公演前日,类激励对自己演技感到不安的司,建议他通过抑制情感来爆发张力。司离开后,旭突然邀请类加入Arkland,表示希望能与类一同创作连接世界的演出,这突如其来的挖角令类十分震惊。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "どちらも大事な",
+      "title_cn": "两者皆为珍视",
+      "summary_cn": "面对旭的挖角与“制作连接世界的演出”这一宏大愿景，类虽向往Arkland的优越环境，却因不舍同伴而陷入挣扎。宁宁察觉到类的异样，体贴地表示愿等待他倾诉。在“奇幻的世界”，类遇到了一位虽因独自表演感到寂寞、却因实现愿望而无比满足的玩偶。初音未来告诉类，想要追梦与想要留下的心情同样珍贵。带着这份感悟，类回到房间，重新审视这关乎未来的重大抉择。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最後の宣伝公演",
+      "title_cn": "最后的宣传公演",
+      "summary_cn": "在近未来博物馆前，最后的宣传公演拉开帷幕。尽管宁宁和笑梦对心事重重的类感到担忧，但大家仍全情投入。剧中，司饰演的仿生人阿尔弗雷德用自己的记忆拯救了旭饰演的敌对机体，司以精湛的演技完美诠释了拥有“心”的瞬间。看着伙伴们的成长与笑容，类确信自己最爱的就是作为导演推动众人的梦想。演出大获成功，旭对司赞赏有加。散场后，类主动叫住旭，表示已准备好回答他的挖角邀请。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "僕の想いは",
+      "title_cn": "我的心意",
+      "summary_cn": "类向旭坦白，尽管Arkland的环境更有利于导演发展，但他仍选择留下。旭看穿了类对WxS伙伴的深厚羁绊，表示会在世界舞台等待类高中毕业后的到来。归途电车上，司感叹此次合作受益良多，却在乐园职责与个人梦想间感到迷茫，类借用初音的话鼓励他珍视所有心情。看着熟睡的伙伴们，类决心要“贪心”地寻找一条既能实现自己导演梦想，又能与大家继续同行的未来之路。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_curtaincall_2022/event_curtaincall_2022_08.webp"
+    }
+  ]
+}

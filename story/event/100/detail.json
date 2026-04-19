@@ -1,0 +1,74 @@
+{
+  "event_id": 100,
+  "title_jp": "仮面の私にさよならを",
+  "title_cn": "告别戴着面具的自己",
+  "outline_jp": "パソコンを奪われた上、母親の干渉が強まり、日に日に精神が摩耗していくまふゆ。\nそんな中、期末テストの返却が近付くが……。",
+  "outline_cn": "真冬不仅被没收了电脑,母亲的干涉也变本加厉,精神日益消磨。在这种情况下,期末考试的成绩即将公布……",
+  "summary_cn": "真冬因母亲变本加厉的干涉与学业压力精神濒临崩溃,试图隐瞒成绩下滑却被识破。母亲没收并损坏其手机,切断了她与外界的联系。在虚拟歌手的鼓励下,真冬鼓起勇气向母亲坦白想要继续创作音乐的心愿,却遭母亲全盘否定与情感勒索,甚至将矛头指向奏。绝望的真冬最终逃离家中,被赶赴现实的奏找到并温柔接纳,两人虽暂时相依,但母亲的压迫并未就此终结。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "摩耗する心",
+      "title_cn": "磨损的心",
+      "summary_cn": "真冬在家复习时因母亲的过度关心与无形施压而难以集中,倍感焦虑。次日领取期末试卷,真冬发现成绩大幅下滑,面对老师的关切只能强作镇定。回家后,面对母亲关于成绩的询问,恐惧的真冬撒谎称试卷尚未批改。为了掩盖失利,她决定在下次模拟考挽回成绩后再一并坦白。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "予兆",
+      "title_cn": "预兆",
+      "summary_cn": "奏告知大家,真冬因成绩下滑为免母亲担心,决定暂停社团活动专心学习。Miku与其他虚拟歌手前往现实探望,发现真冬为了挽回成绩以保住活动机会,正强迫自己复习,但内心焦虑导致无法集中。Luka指出她当前效率低下,建议暂时放下学习去见奏等人转换心情。面对这突如其来的提议,被逼入绝境的真冬陷入了犹豫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "崩れていく仮面",
+      "title_cn": "崩坏的面具",
+      "summary_cn": "真冬为转换心情短暂登录25时,大家的声音让她感到久违的安心,便答应尽量参加明天的歌曲发布。然而,真冬母亲突访学校,意外得知试卷早已发还,识破了真冬的谎言。随后母亲又致电补习班发现真冬缺勤,确信女儿因隐瞒实情而无法专心备考,认定绝不能放任现状继续下去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "決壊",
+      "title_cn": "决堤",
+      "summary_cn": "真冬在家苦读时,母亲突然询问试卷下落。真冬试图隐瞒,却被母亲告知已与老师沟通,不仅知晓成绩下滑,还查出她曾谎称生病缺席补习班。母亲认定手机是阻碍学习的诱惑并强行没收,真冬激烈反抗,母亲却归咎于奏并透露已调查过她。争执中手机意外落入水槽损坏,母亲承诺考后重买便不再理会,彻底切断了真冬与外界的联系。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "見えない心、確かな想い",
+      "title_cn": "看不见的心，确切的心意",
+      "summary_cn": "真冬意识到母亲已知晓一切，感到谎言已无意义。虽面临退团压力，但她不愿失去伙伴，面对损坏无法运行软件的手机，她回想起母亲“为你好”的言论与KAITO关于“扼杀心意”的质问，陷入深深的矛盾。另一边，25时众人因失联倍感担忧，Miku表示无法进入真冬手机，MEIKO推测手机已坏。奏决定去现实寻找真冬，绘名与瑞希分头前往学校和车站搜寻，KAITO也决定一同行动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "心を守るために",
+      "title_cn": "为了守护内心",
+      "summary_cn": "绘名与瑞希四处寻找真冬未果。不愿回家的真冬独自在公园徘徊,在母亲的期望与想要创作音乐的心愿间痛苦挣扎。此时KAITO与Miku现身,得知了手机损坏的经过。KAITO警告真冬若此刻不反抗将彻底失去自我,并以此鼓励她宣泄真情,Miku也承诺会全力支持。在众人的支撑与奏的誓言鼓舞下,真冬终于下定决心,准备向母亲坦白自己的真实心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "仮面を捨てて",
+      "title_cn": "舍弃面具",
+      "summary_cn": "真冬回家后向母亲道歉，承诺在兼顾学习的前提下请求继续与大家创作音乐。母亲虽表面体谅，却坚持认为备考医大才是正途，拒绝了请求。真冬鼓起勇气坦白自己对成为医生感到迷茫，希望能寻找属于自己的梦想。母亲闻言却归咎于奏的“不良影响”，并声泪俱下地强调一切皆是为了真冬的幸福。面对母亲的眼泪，真冬因愧疚险些动摇，但在KAITO的喝止与Miku的鼓励下，她重新坚定了守护真实心意的决心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "手を伸ばす、そのさきは",
+      "title_cn": "伸出的手,通向何方",
+      "summary_cn": "真冬向母亲坦白真实心意,表示不愿失去音乐与伙伴,并承诺会兼顾学业。然而母亲全盘否定,认定她是受人蛊惑,并强调只有自己才真正爱她。面对母亲令人窒息的施压,真冬在内心挣扎中回想起伙伴们的支持,最终无法忍受而逃离了家。另一边,奏在KAITO的指引下冲出家门,找到了崩溃痛哭的真冬。面对深陷自责与混乱的真冬,奏温柔地安抚了她,而真冬的母亲则在电话中冷静地低语,似乎并未善罢甘休。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_persona_2023/event_persona_2023_08.webp"
+    }
+  ]
+}

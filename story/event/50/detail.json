@@ -1,0 +1,74 @@
+{
+  "event_id": 50,
+  "title_jp": "あの日、空は遠かった",
+  "title_cn": "那一天,天空遥不可及",
+  "outline_jp": "チケットノルマを達成し、ライブでも一体感のある演奏を披露できた志歩は、充足感で胸がいっぱいになる。\nそんな中、かつてひとりで過ごしていた中学時代のことが頭をよぎり——",
+  "outline_cn": "达成了售票目标,并且在演出中展现了充满一体感的演奏,志步心中充满了充实感。然而此时,曾经独自度过的中学时代的记忆却掠过脑海——",
+  "summary_cn": "Leo/need演出成功后,志步回想起曾独自度过的中学时代。彼时为了不连累朋友被孤立,她狠心疏远了一歌等人,独自在屋顶练琴,却意外结识了名为未羽的女生。未羽在转学前看穿了志步渴望伙伴的真心,鼓励她不要放弃。如今,志步向成员坦白了这段往事,解开了彼此的心结。众人在街头偶遇正在歌唱的未羽,见证彼此都未放弃音乐且迈向了新的未来,志步心中释然,决心更加珍惜此刻与伙伴共度的时光。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "『今』を噛み締めて",
+      "title_cn": "细细品味『现在』",
+      "summary_cn": "Leo/need在Live House准备演出,看到众多好友前来捧场,大家庆幸达成了售票目标并决心全力以赴。演出中,志步感受到成员间前所未有的默契与快乐,不禁回想起曾经孤独的自己,对如今能与儿时玩伴再次组队感到无比幸福。演奏结束后,成员们都沉浸在成功的喜悦中。但在撤场时,志步似乎看到了熟悉的身影并冲出场外,却一无所获,最终她向追来的伙伴解释说是因回忆往事而看错了人。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "あの頃の私は",
+      "title_cn": "那时的我",
+      "summary_cn": "次日,众人在「教室的世界」举办庆功会。志步注意到不习惯热闹的KAITO,两人谈起习惯独处的共鸣。志步感叹曾疏远大家的自己如今能组建乐队简直像做梦一样。提到中学独自度过的时光,一歌和穗波面露愧色,而当时因病缺席的咲希表示想了解那时的志步。在虚拟歌手们的鼓励下,志步决定向大家讲述那段往事。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "私が選んだ孤独",
+      "title_cn": "我所选择的孤独",
+      "summary_cn": "时间回到两年前的中学时代。志步听到同学们不仅排挤自己，还因自己而恶意议论一歌和穗波。为了不连累朋友们被孤立，志步决定独自承担，狠心拒绝了关心自己的穗波，又对追来的一歌放狠话让其别再靠近。她认为只要自己主动远离，温柔的朋友们就能免受牵连。志步独自在屋顶通过拼命练习贝斯来坚定“孤单”的选择，此时，某人听到了她的琴声。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "音が結ぶ出会い",
+      "title_cn": "因声音连结的相遇",
+      "summary_cn": "志步在屋顶练习贝斯时,偶遇了一位被其琴声吸引的陌生女生,对方此后便常来屋顶吃午饭。另一方面,志步虽然目睹了一歌和穗波因担心自己而苦恼,内心感到愧疚,但为了保护朋友免受流言牵连,她仍狠心避开二人。一周后,那位神秘女生主动搭话,询问志步为何不组乐队以及独自演奏是否寂寞。志步表示为了成为职业乐手必须练习,并坦言虽然不知道是否孤独,但只要沉浸在音乐中就会感到安心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "淡い期待",
+      "title_cn": "淡淡的期待",
+      "summary_cn": "一周后,志步在屋顶再次遇到受自己影响开始练吉他的高木未羽,两人互通姓名。虽指导未羽,但志步见到路过的一歌时仍否认彼此的朋友关系。不久,志步受邀加入学姐组建的乐队参加文化祭,怀着期待告别了未羽。然而,学姐们对待演奏态度敷衍,满足于现状并拒绝了志步增加练习的提议,只顾玩乐。面对毫无长进且缺乏热情的乐队,志步心中原本淡淡的期待转为了失望与迷茫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "黄昏に隠した願い",
+      "title_cn": "藏于黄昏的愿望",
+      "summary_cn": "一周后,志步因无法忍受轻音部前辈们敷衍的练习态度而与其发生争执,最终被踢出乐队。深受打击的她来到屋顶,向未羽坦言自己或许注定不适合与人组队。未羽却敏锐地指出志步其实非常寂寞,内心深处渴望着与昔日好友在一起。未羽透露自己即将转学,并表示即使遭遇挫折也会在新环境中继续尝试,鼓励志步不要放弃。望着未羽离去的背影,志步虽感叹自己无法轻易迈出脚步,但也承认无法彻底斩断对朋友的思念,只能在进退两难中继续独自弹奏贝斯。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "諦めきれない願いがあったから",
+      "title_cn": "因为有着无法放弃的心愿",
+      "summary_cn": "志步讲完往事,一歌等人对未能察觉她的苦衷感到自责。在KAITO的点拨下,志步坦言正是因为当时忍受孤独、没有放弃与大家在一起的心愿,才有了如今重组乐队的机会,她庆幸自己坚持了音乐和友情。大家感动落泪,并谈起那位曾鼓励志步的女生,虽然未留联系方式,但在初音未来的鼓励下,志步希望能再次相遇。回到现实后,众人在路边听到吉他弹唱,志步惊讶地发现那个身影正是当年的那位女生。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "進んだ先にあった『今』",
+      "title_cn": "迈步向前后的『现在』",
+      "summary_cn": "众人听完街头演出，被温暖的歌声深深打动。志步确认表演者正是当年的未羽，看到未羽如今被朋友簇拥且未放弃音乐，她感到欣慰，决定不去打扰，只在心中默默祝福。未羽也注意到了离去的志步，认出那是自己“最初的朋友”，见志步如今有伙伴相随，同样为她感到高兴。次日，大家在「教室的世界」中热情投入练习。看着严厉又充满干劲的志步，KAITO感叹道，正是因为经历了过去的痛苦，志步才能如此强烈地感受到此刻的幸福。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_peaky_2022/event_peaky_2022_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 155,
+  "title_jp": "Show your shine",
+  "title_cn": "展现你的光芒",
+  "outline_jp": "穴が空いたアウターを新調するため、ショッピングモールへ向かった奏。その途中で出会った咲希と、ひょんなことからお茶をすることに。そこでファッションコーディネートのモデルを頼まれて……！？",
+  "outline_cn": "奏为了换掉破洞的外套前往购物中心。途中遇到了咲希,阴差阳错下两人一起去喝茶。结果在那里被拜托担任时尚搭配的模特……！？",
+  "summary_cn": "宵崎奏外出购买外套时偶遇天马咲希，咲希不仅帮其解围还协助选购，两人因此结缘。为报答恩情，奏答应担任咲希以“光芒”为主题的美术作业模特。起初拍摄并不顺利，咲希感到未能完美表现主题。奏在“无人的世界”受启发后，主动约咲希深谈，坦诚自己作曲是为了“拯救他人”。咲希从中领悟到了奏身上那份如同音乐般想拯救他人的温柔光芒。最终，咲希结合这份理解重新完成了妆造与拍摄，作业大受好评，两人的友谊也随之加深。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "新しい服を求めて",
+      "title_cn": "寻找新衣服",
+      "summary_cn": "奏因网购的外套不够保暖,决定去实体店买新外套。前往购物中心途中,她被美容师纠缠,幸得天马咲希假装熟人解围。聊天中得知咲希也要去买围巾,且两人约定互称名字。当奏表示自己不擅长挑衣服、希望能有人帮忙推荐时,热爱时尚的咲希便主动提出要陪奏一起挑选外套。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "いざ、ショッピングへ",
+      "title_cn": "出发去购物",
+      "summary_cn": "咲希根据奏对保暖、轻便且易打理的需求,推荐了兼具实用与美观的户外品牌,并帮奏选到了心仪的外套。奏想回礼致谢,咲希表示自己也很开心,只希望能和奏再次聊天,两人便交换了联系方式。回到家后,奏在语音通话中告诉25时成员是咲希帮自己选了外套。此时奏收到咲希发来的消息,邀请她和一歌三人一起去喝茶。真冬等人指出带上熟人是咲希的体贴之处,奏听后欣然回复,开始期待这次聚会。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "予想外なお願い",
+      "title_cn": "意料之外的请求",
+      "summary_cn": "数日后，咲希邀请奏和一歌在咖啡厅聚会。大家先聊起了作曲的话题，奏提到自己会从电影和美术作品中获取灵感，这让两人深受启发。接着一歌提到了美术课上以“光芒”为主题的自由创作作业。一歌打算画初音未来，而咲希想挑战时尚穿搭和妆造，但苦于没有合适的模特。看着奏，咲希突然觉得她非常符合自己想表现的形象，便请求奏担任模特。虽然奏对自己没信心，但为了报答咲希之前的帮助，她答应了请求。一歌也表示想去旁观拍摄。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "おしゃれは楽しく",
+      "title_cn": "享受时尚",
+      "summary_cn": "数日后，奏和一歌来到咲希家。咲希为了展现奏的“光芒”，准备了大量时尚杂志，并通过将奏的照片拼贴在模特身上的方式预演了多种穿搭风格。随后咲希提出想先试着帮奏弄头发，她一边梳理一边称赞奏的发质。咲希提到自己是因为想改善自然卷才开始学习编发，并表示打扮得体能让人觉得“今天会是美好的一天”，这番话让奏对时尚有了新的感悟。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "力になりたい",
+      "title_cn": "想要助你一臂之力",
+      "summary_cn": "咲希带奏去化妆室试妆，并连线身在美国的心羽请教摄影技巧。拍摄结束后，尽管照片效果自然，咲希却觉得未能完全表现出“光芒”这一主题而感到迷茫。奏联想到自己作曲时也会有类似的瓶颈，认为咲希的感觉是正确的。为了回应这份追求，奏主动提出愿意继续配合拍摄，直到咲希拍出满意的作品为止，决心助她一臂之力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "視点を変えれば",
+      "title_cn": "转换视角的话",
+      "summary_cn": "25时的语音通话结束后，奏因迟迟未收到咲希的消息而感到担忧。此前咲希曾表示未能完美表现出奏身上的“光芒”，需要重新思考表现手法。无法集中精神工作的奏前往“无人的世界”散心，偶遇佩戴着瑞希所赠胸针的铃。奏向铃倾诉了咲希的创作瓶颈及自己无力帮忙的苦恼。铃指出这与奏平时作曲的情况相反，提醒她在迷茫时总是会试图去了解对方。这番话点醒了奏，她意识到应该主动去了解咲希的想法，谢过铃后决心采取行动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "もっと話を",
+      "title_cn": "再多聊聊吧",
+      "summary_cn": "翌日，奏在家庭餐厅约见咲希。奏认为咲希之所以陷入瓶颈，是因为两人还不够了解彼此，于是提议让咲希通过提问来了解自己。在闲聊了饮食习惯和学校生活后，咲希得知奏为了作曲投入了所有精力。当被问及音乐对自己的意义时，奏坦言那是为了拯救他人而必须不断创作的存在。随后咲希认真聆听了奏的乐曲，感受到了其中深沉却温柔的力量，终于领悟到了自己想要表现的“光芒”究竟为何。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "たどり着いた答え",
+      "title_cn": "得出的答案",
+      "summary_cn": "咲希根据对奏的深入了解，自信地完成了搭配与妆造。她向奏解释道，自己终于找到的“光芒”，正是奏那如同音乐般想要拯救他人的温柔。看着镜中焕然一新的自己，奏虽不通时尚也感叹其美丽，并因心意被理解而露出了自然的微笑，咲希趁机抓拍下了完美的瞬间。数日后，奏收到咲希的消息，得知作业大受好评。面对咲希希望能再次为她搭配衣服的请求，奏看着照片，温和地回复答应了对方。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yourshine_2025/event_yourshine_2025_08.webp"
+    }
+  ]
+}

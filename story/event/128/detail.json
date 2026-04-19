@@ -1,0 +1,74 @@
+{
+  "event_id": 128,
+  "title_jp": "Parallel Harmonies",
+  "title_cn": "平行和声",
+  "outline_jp": "ついにLeo/needはデビュー曲制作へ！しかし真堂からは、咲希と一歌のふたりで共作をしてほしいと告げられる。最高の曲を作ろうと意気込む咲希達だったが、なかなかいい曲はできず……。",
+  "outline_cn": "Leo/need终于要开始制作出道曲了！然而真堂却提出希望由咲希和一歌两人共同创作。虽然咲希等人干劲十足地想要创作出最棒的歌曲，却迟迟无法顺利完成……",
+  "summary_cn": "Leo/need即将制作出道曲,制作人真堂提议由星乃一歌与天马咲希共同创作,意图融合两人的风格以寻求突破。然而在合宿期间,两人因对乐曲印象的巨大分歧而陷入僵局。关键时刻,MEIKO等虚拟歌手引导她们回归创作初衷。一歌意识到应全心接纳咲希的心意,将其转化为音乐。最终,两人互相理解,成功创作出兼具温柔与力度的佳作。该曲不仅获得制作人高度评价,发布后更为乐团赢得了广泛好评。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "Leo/needのデビュー曲",
+      "title_cn": "EP1: Leo/need的出道曲",
+      "summary_cn": "Leo/need在事务所等待时偶遇Starry Music的制作人清水，对方意外透露了乐团将参加“Jam Fes”的消息。真堂随后确认了参演一事，肯定了望月穗波的进步与乐团实力。紧接着，真堂宣布开始制作出道曲，但提出了一个特别要求：这首歌不能照旧分工，而要由天马咲希和星乃一歌两人共同创作乐曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ふたつの才能",
+      "title_cn": "两种才能",
+      "summary_cn": "回家路上，大家谈论起真堂的意图。真堂透露Leo/need是事务所本期的最优先项目，且已获得Starry Music在街头大屏和社交媒体上的大规模宣发支持。为了抓住这难得的成名良机，真堂希望她们能展现出“领先一步”的音乐。他指出，若将咲希温暖人心的曲风与一歌直率且具穿透力的风格相结合，定能产生化学反应，打动更多听众。尽管一歌有些忐忑，但咲希对两人的合作充满信心，决心制作出最棒的出道曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "曲作り、開始！",
+      "title_cn": "开始创作！",
+      "summary_cn": "咲希和一歌在“教室的世界”尝试创作，但无论维持原有风格还是追求新潮，都无法达成“领先一步”的目标。志步建议改变方法，两人决定各自编写和弦后交换。回家后咲希独自创作仍感困难，哥哥天马司见状，提议趁父母外出，邀请一歌来家里进行“作曲合宿”。咲希认为转换环境能激发灵感，欣然接受并决心借此机会创作出最棒的歌曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "作曲合宿！",
+      "title_cn": "作曲合宿！",
+      "summary_cn": "一歌来到咲希家开始作曲合宿。互相交换和弦后，一歌表示想创作让人想起“与重要之人的联系”的曲子，咲希则希望传达“即使烦恼也要向前看”的心意。为了互不干扰，两人分房间各自编写旋律。不久后，志步和穗波带着零食和亲手做的海鲜咖喱来访慰问。大家一起享用了晚餐，穗波还特意根据两人的喜好调整了咖喱口味。感受到同伴的体贴与支持，一歌和咲希恢复了元气，决心继续努力创作。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "重ならない音",
+      "title_cn": "无法重合的乐音",
+      "summary_cn": "晚饭后，咲希和一歌完成了各自的旋律，但互听后发现彼此的印象存在巨大分歧。咲希试图通过略带伤感的旋律表现“贴近人心”，一歌却认为过于悲伤，主张更直率积极的风格；而一歌创作的明快旋律又被咲希认为过于流行，无法承载细腻的情感。尽管两人反复调整，仍无法理解对方的意图，音乐迟迟无法融合。僵持之下咲希甚至气馁地提议全盘推翻，一歌无奈外出冷静。独留咲希陷入自我怀疑与绝望时，突然听到了某人的呼唤。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "導かれる想い",
+      "title_cn": "被引导的心意",
+      "summary_cn": "MEIKO现身安慰陷入迷茫的咲希，并邀请她与刚回来的一歌前往“教室的世界”转换心情。Miku和Luka听了两人未完成的曲子，虽然指出风格不统一，但也肯定了其中蕴含的心意。在大家的引导下，咲希阐述了想表达“即使烦恼也要向前”的初衷，Luka指出这让人想起乐团成立之初。咲希随即意识到可以用更具动感的旋律来表现“跨越悲伤后的奔跑”，从而配合一歌的和弦。看着在虚拟歌手引导下灵感涌现的咲希，一歌开始反思此前的沟通。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "受け止めて、音に",
+      "title_cn": "接纳心意,化作乐音",
+      "summary_cn": "一歌意识到此前失败是因为只顾表达自我,未能像虚拟歌手那样真正接纳咲希的心意,咲希也承认自己有过强的自我坚持。MEIKO指出这是创作者特有的执着。为了打破僵局,一歌主动提出由自己来全心接纳咲希的想法并将其转化为音乐,以此回报虚拟歌手们一直以来的支持,并将咲希的心意传达给听众。咲希深受感动,两人重归于好。MEIKO感慨虚拟歌手只能辅助将心意化为乐音,很高兴能帮到两人,并鼓励她们创作出最棒的歌曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "交わる音",
+      "title_cn": "交融的乐音",
+      "summary_cn": "一歌听了咲希的旋律后提出建议,通过副歌起手与乐器叠加来表现乐队成员汇聚并一同前行的感觉。在互相接纳中,两人顺利完成了歌曲,并深感这是依靠虚拟歌手的帮助才诞生的作品。咲希提议同时发布该曲的虚拟歌手版本,并与一歌约定未来要创作真正融合两人心意的歌曲。真堂听后虽感意外,但高度评价了这首结合了咲希温柔与一歌力度的佳作,将其定为出道曲并批准发布双版本。两个月后,歌曲广为流传,Leo/need因此收获大量好评。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_parallel_2024/event_parallel_2024_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 125,
+  "title_jp": "The first concerto",
+  "title_cn": "第一协奏曲",
+  "outline_jp": "RAD WEEKEND超えを目指し、謙の出した課題と向き合うVivid BAD SQUAD。\n冬弥は『イベントで自分達が歌う曲、そのすべてを作ること』を課題として言い渡され、渾身の曲を作ろうとするが——。",
+  "outline_cn": "为了超越RAD WEEKEND，Vivid BAD SQUAD直面谦提出的课题。冬弥接到了“创作出团队在活动中演唱的所有歌曲”的任务，虽然他试图倾尽全力去创作，但是——。",
+  "summary_cn": "为了超越RAD WEEKEND，冬弥接下了创作承载VBS全员情感乐曲的任务。起初他因缺乏自信，被父亲严厉指出乐曲中缺少“自尊”。在MEIKO的点拨下，冬弥意识到自己一直因背弃古典乐而深感愧疚，这正是他迷茫的根源。最终，在与父亲的深谈中，冬弥明白了那段拼命努力的过去并非污点而是荣耀。解开心结的他将这份自豪融入创作，完成了震撼人心的乐曲，决心与伙伴们共同跨越传说之壁。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "すべてを乗せた曲",
+      "title_cn": "承载一切的乐曲",
+      "summary_cn": "冬弥苦恼于无法创作出超越RAD WEEKEND热度的歌曲，回想起谦分配的任务。谦要求彰人负责煽动观众，指派冬弥独自创作活动所需的所有曲目。谦指出当年的成功源于曲中承载了全员的情感，因此冬弥也需创作出承载VBS一切的歌曲。谦认为冬弥受过古典乐训练，能将复杂情感统合进音乐中。在队友的信任与鼓励下，冬弥决心接下这一重任。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "冬弥のノート",
+      "title_cn": "冬弥的笔记本",
+      "summary_cn": "为了创作出承载VBS一切的歌曲，冬弥在“世界”中详细询问伙伴们的过去与心愿，并制作了记录全员经历的笔记本。他希望借此将队友的情感内化为自己的感悟。KAITO看到笔记后，对冬弥的认真态度表示赞赏并提出协助。回到现实，冬弥确立了构思，但深感作曲知识不足。为了弥补技术短板，他借阅了父亲书房的古典乐书籍彻夜研读，却未察觉父亲正注视着这一幕。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "誇り",
+      "title_cn": "自尊",
+      "summary_cn": "冬弥虽然完成了乐曲雏形，却感到作品平庸，缺乏RAD WEEKEND那种震撼人心的热度。陷入瓶颈的他偶遇回家的父亲，为了回应队友的期待，冬弥放下隔阂，恳请身为专业音乐人的父亲听歌并给予指导。父亲起初以道路不同为由拒绝，随后却透露其实早已听到过，并严厉地指出冬弥的曲中感受不到“自尊”，根本不值一评。冬弥意识到可能是自己的迷茫或缺乏自信体现在了曲中，但他决定振作精神，重新探索创作方向。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "俺はもう二度と",
+      "title_cn": "我绝不再",
+      "summary_cn": "冬弥虽然听取了伙伴与KAITO的建议不断改进,却始终觉得曲子缺乏超越RAD WEEKEND的热度。陷入瓶颈的他回想起曾经逃避父亲期待的自己,决心绝不再重蹈覆辙。为了回应大家的信任,冬弥开始废寝忘食地投入创作,甚至为了节省时间而在房间闭门不出。看到冬弥为了目标将自己逼入极限、甚至不惜牺牲生活的模样,原本严厉的父亲陷入了沉默。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "書かれていない想い",
+      "title_cn": "未被记录的心意",
+      "summary_cn": "冬弥被昔日受压迫的噩梦惊醒，为不让母亲担心，他前往“世界”继续创作。因睡眠不足感到晕眩时被MEIKO照顾，冬弥倾诉曲子始终缺乏热度。MEIKO查看记录了队友心愿的笔记本后，指出唯独缺少冬弥自己的心意。尽管回顾过去会勾起痛苦回忆，但在MEIKO的建议下，冬弥意识到那些难以启齿的情感或许正是关键，决定尝试直面并记录下自己的真实心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "消えない負い目",
+      "title_cn": "无法消除的亏欠",
+      "summary_cn": "受MEIKO启发，冬弥开始审视内心深处难以启齿的情感。他回想起幼时对父亲琴音的憧憬以及随之而来的严苛训练，最终因无法承受压力，为了追求自我而背弃父亲的期待选择了逃离。冬弥意识到，这份“临阵脱逃”的负罪感至今仍束缚着他，让他觉得自己无法拥有像谦那样的觉悟，这也是乐曲中缺乏“自尊”的根本原因。绝望于无法改变过去，冬弥在房内痛苦呐喊，却引来了门外的父亲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "変わらない過去こそが",
+      "title_cn": "正因那不变的过去",
+      "summary_cn": "冬弥再次恳求父亲指导,坦白自己因曾经背弃古典乐而心存愧疚,觉得自己无法匹敌谦等人的觉悟。父亲却指出,尽管冬弥选择了离开,但他全身心投入古典乐的那十二年并非虚度,而是美丽且值得自豪的经历。父亲的肯定让冬弥意识到,那段拼命面对音乐的过去并非污点,而是属于他无法磨灭的荣耀。重拾自信的冬弥终于明白,正是这份不变的过去赋予了他与传说抗衡的资格与力量。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "この曲で",
+      "title_cn": "凭借这首乐曲",
+      "summary_cn": "一个月后,冬弥展示了倾注全员情感的乐曲。杏与彰人从中感受到了媲美RAD WEEKEND的震撼热度,谦也给予了高度评价。冬弥坦言,正是过去在古典乐中的拼搏赋予了他力量。随后,冬弥前往医院探望飒真,播放乐曲并表明超越传说的决心。乐曲唤起了飒真对昔日约定的感动与泪水,他承诺定会去观看演出。VBS全员确信,凭借这首承载过去的乐曲,定能跨越那道高墙。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_concerto_2024/event_concerto_2024_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 12,
+  "title_jp": "Period of NOCTURNE",
+  "title_cn": "夜曲的乐章",
+  "outline_jp": "Vivid BAD SQUADとして、ストリート音楽を歌っていくことを決めた冬弥。\nしかしある事をきっかけに、自分がまだクラシック音楽に囚われているのではと感じ、悩み始めてしまい……。",
+  "outline_cn": "冬弥决心作为Vivid BAD SQUAD的一员演唱街头音乐。然而,以某件事为契机,他感觉到自己似乎仍旧被古典音乐所束缚,并开始为此烦恼……",
+  "summary_cn": "青柳冬弥因深受父亲古典乐教育的束缚，歌声显得拘谨且缺乏自由，父子关系也因此陷入僵局。在目睹队友心羽成功化解家庭误解后，冬弥在伙伴与虚拟歌手的启发下，意识到应贯彻自己对音乐与幸福的信念。他鼓起勇气再次面对父亲，坦诚了对街头音乐的热爱及对父亲栽培的感激。最终，冬弥在演出中彻底打破心结，实现了歌声的蜕变。虽然父亲嘴上依然严厉，但其实际到场观看的举动让冬弥倍感温暖，那只重获新生的“裂痕杯子”也见证了他与其歌声的真正解放。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "五線譜は交わらない",
+      "title_cn": "五线谱不再交汇",
+      "summary_cn": "街头世界中，初音未来因一只产生裂痕的杯子而感到不安。现实中，冬弥回家后遭到父亲的严厉斥责，父亲坚持他应投身古典乐而非“堕落”的街头音乐，冬弥激烈反驳并宣称要坚持自己的道路。次日练习时，心羽苦恼于父母反对她出入Live House，杏提议邀请其父母观看演出以消除误解。看着重燃希望的同伴，冬弥内心暗自羡慕心羽的父母尚有沟通余地，却只能将这份对自身家庭关系的无力感深埋心底。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "縛られた旋律",
+      "title_cn": "被束缚的旋律",
+      "summary_cn": "VBS在WEEKEND GARAGE偶遇杏父亲的旧识并受邀表演。演出后，客人称赞众人各有千秋，却指出冬弥因受古典乐影响，歌声虽精准却显得拘谨刻板。冬弥独自回看录像，发现同伴们的歌声自由奔放，而自己却深陷父亲要求“严格遵照乐谱”的阴影中，意识到自己依然未能摆脱古典乐的束缚。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "欠けているもの",
+      "title_cn": "第3章【缺失之物】",
+      "summary_cn": "次日，冬弥在WEEKEND GARAGE看着录像，依旧觉得自己深受古典乐束缚，歌声缺乏自由感。面对迟到的彰人，冬弥罕见地坦诚了自己的苦恼。杏的父亲谦加入对话，指出既然彰人认可冬弥的歌声，那么让他感到“缺失”的或许并非音乐技巧，而是内心深处对背离父亲仍存有愧疚。冬弥意识到自己虽已表明决心，却未真正释怀。此时杏与心羽赶到，心羽开心地宣布父亲同意来看演出，面对与家人关系破冰的同伴，冬弥再次陷入沉默。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "届かない言葉",
+      "title_cn": "无法传达的话语",
+      "summary_cn": "冬弥决心直面父亲，试图通过对话消除误解，却因父亲发现演出传单并将街头音乐贬低为“毫无价值的杂音”而爆发激烈争吵，最终不欢而散。次日，深受打击的冬弥在练习中状态低迷，在彰人的助推与同伴的关切下，他坦承了沟通失败的经过，并透露母亲与兄长也都站在父亲一方。面对冬弥在家庭中孤立无援的处境，想要帮忙的队友们也一时感到束手无策。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "お互いの信じるもの",
+      "title_cn": "第5章【各自坚信之物】",
+      "summary_cn": "众人为转换心情前往“街头世界”，恰逢初音未来正尝试利用那个产生裂痕的杯子。谈及冬弥父亲的顽固，心羽推测父亲或许是因为深信古典乐能带来幸福，才如此强硬。冬弥恍然大悟，意识到父亲是在贯彻其信念，而自己也有着通过街头音乐结识伙伴、找到梦想的坚定信念。在彰人的点拨与众人的鼓励下，冬弥明白了双方是对“幸福”的定义不同，决心再次鼓起勇气，向父亲传达自己真正坚信的道路。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "背を押す言葉",
+      "title_cn": "第6章[推一把的话语]",
+      "summary_cn": "在涩谷十字路口,彰人鼓励准备再次与其父交谈的冬弥,指出冬弥在逃离严苛训练后依然选择音乐,足以证明他对音乐的热爱,这番话让冬弥深受感动。回家后,冬弥向父亲坦白自己其实喜欢古典乐,也尊敬父亲传授的音乐乐趣,但他因遇到伙伴而真正爱上了街头音乐。冬弥递出演出门票,表示街头音乐对自己而言就如同古典乐对父亲一样无可替代。最后,他感谢父亲赋予的音乐基础让他得以遇到现在的梦想,并在传达完所有真心话后,决心为明天的演出全力以赴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "夜の終わりのカンタービレ",
+      "title_cn": "第7章[夜尽时的如歌]",
+      "summary_cn": "演出即将开始,心羽的父亲带着相机笨拙地前来应援。面对彰人的关切,冬弥坦言虽给了父亲门票,但这已不再困扰他,现在的他只想专注于歌唱。杏与心羽也表示信赖冬弥的歌声。演出开始后,冬弥摆脱了过往的束缚,不再依赖理论而是凭感觉与伙伴完美融合,其全力以赴的演唱震撼了原本不看好的观众。结束后,彰人指出这并非偶然,而是冬弥彻底解开与父亲的心结后的蜕变,对此冬弥由衷地向伙伴致谢。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "その手に掴みとった光",
+      "title_cn": "第8章【亲手抓住的光芒】",
+      "summary_cn": "演出结束后，心羽送别了理解自己的父亲。冬弥虽以为父亲未到场，但仍坚定地表示将贯彻自己的道路，伙伴们也对他在演出中的蜕变赞叹不已。回家后，父亲别扭地抛出一句“无法理解那种音乐的好”，让冬弥意识到父亲其实去看了演出，心中顿时充满感激。随后众人前往“街头世界”，初音未来展示了将有裂痕的杯子改造成种有象征“勇气”的百里香盆栽。看着这只重获新生的杯子，冬弥深有感触，在温馨的氛围中与大家一同歌唱。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nocturne_2021/event_nocturne_2021_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 102,
+  "title_jp": "ドタバタ cafe ●REC!!",
+  "title_cn": "忙乱 cafe ●REC!!",
+  "outline_jp": "MORE MORE JUMP！に飛び込んできた新たな仕事は、テレビ番組のワンコーナーの話題のお店紹介ロケだった！しかし撮影場所は、みのりがバイトしているカフェで……！？",
+  "outline_cn": "MORE MORE JUMP！接到的新工作是电视节目的热门店铺介绍外景！然而拍摄地点竟然是实乃里打工的咖啡店……！？",
+  "summary_cn": "MORE MORE JUMP!受邀前往实乃里打工的咖啡店拍摄外景，却遭遇店铺人手严重不足。爱莉紧急邀请瑞希临时打工，与负责指导的咲希一同支援后厨。拍摄中途，大胃王团体的突袭令厨房濒临崩溃。危急时刻，爱莉机智发起全员变身店员的紧急企划，通过成员们的完美配合成功化解危机。最终拍摄大获成功，节目播出后反响热烈，众人在庆功中加深了羁绊，并决定在“世界”中也举办咖啡店活动。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "新たな依頼は……",
+      "title_cn": "新的委托是……",
+      "summary_cn": "爱莉在管理日益繁忙的日程时,收到了电视节目介绍涩谷热门店铺的外景委托。数日后众人在「舞台的世界」讨论此事,实乃里赶来透露拍摄地正是她打工的咖啡店。但因拍摄当日老员工缺席,人手严重不足,店长可能被迫取消期待已久的拍摄。爱莉提出可以找一位有经验且手巧的朋友来临时帮忙,实乃里闻言决定立刻向店长请示。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "救済の臨時バイト！",
+      "title_cn": "救急的临时打工！",
+      "summary_cn": "瑞希因想购买昂贵的视频素材而陷入财政危机,恰逢爱莉来电询问是否愿意去实乃里打工的咖啡店做一日临时工。得知能穿可爱的制服且工资日结,瑞希欣然接受。拍摄当日,瑞希换上制服受到MORE MORE JUMP!众人的称赞。随后,负责指导工作的店员天马咲希到场,瑞希发现她是司的妹妹且两人同龄,便迅速熟络起来。得知工作内容包含擅长的甜点装饰后,瑞希对打工充满信心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "トレンドにサーフィン！",
+      "title_cn": "乘上流行的浪潮！",
+      "summary_cn": "MORE MORE JUMP!正式开始录制节目,介绍店里的招牌巨型草莓圣代。雫和遥给出了专业的食评,爱莉更是展示了久违的必杀技「Happy Perori」,让在一旁围观的临时店员瑞希和咲希大饱眼福。瑞希兴奋地表示自己常看这个节目,并感叹这份工作既轻松又能近距离看偶像实在太幸运。然而,正当两人以为今天客人很少能轻松度过时,一组8人的预约团体客人突然到店,预示着忙碌即将到来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "予想外のお客様",
+      "title_cn": "意外的来客",
+      "summary_cn": "拍摄间隙,预约的团体客人抵达,实乃里认出领头者是拥有百万粉丝的大胃王女子摔角手。她们惊人的点单量令后厨陷入苦战。忙乱中瑞希试图忽略摆盘瑕疵,却被咲希制止并告知「对顾客而言这就是唯一的一盘」。瑞希对此产生共鸣,决定追求完美。然而面对追加的巨额订单,两人不禁发出惨叫。听到声音的爱莉灵机一动,打算利用拍摄环节提供援助。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "キッチンはパンク寸前！",
+      "title_cn": "后厨濒临崩溃！",
+      "summary_cn": "摔角手团体追加了大量订单,令后厨的瑞希和咲希陷入混乱。爱莉见状带领MORE MORE JUMP!成员通过采访摔角手来争取时间,两人趁机完成了积压的订单。此时凤笑梦和姐姐日向来店,点了两个特大号圣代。刚松一口气,接受完采访的摔角手们却因说话消耗体力,又追加了更惊人的订单量,令瑞希和咲希再次发出惨叫。为了挽救局面,实乃里提议体验店员工作,爱莉顺势宣布紧急企划,让组合全员换上制服协助店铺运营。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "緊急企画、モモジャンカフェ！",
+      "title_cn": "紧急企划,MOMO JUMP咖啡店！",
+      "summary_cn": "爱莉和遥开始接待客人,随后雫身穿男装帅气登场,引得店内一片欢呼。一名从练习生时期就支持爱莉的粉丝请求合影,爱莉感动应允,现场随即演变成热闹的摄影会。得益于成员们在前厅吸引顾客注意力,后厨的订单压力得以缓解,实乃里向瑞希和咲希表达了谢意。瑞希将制作好的特大号圣代端给笑梦,笑梦对精美的装饰赞不绝口。得知这是瑞希亲手制作后,笑梦表示会格外珍惜地品尝,瑞希也因手艺被认可而感到开心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ごちそうさま",
+      "title_cn": "多谢款待",
+      "summary_cn": "凤笑梦和姐姐对圣代的口味与服务赞不绝口,拍摄在欢乐的氛围中圆满结束。导演对节目效果十分满意,特别盛赞了爱莉如同资深艺人般的临场反应,令爱莉深受感动。打烊后的庆功宴上,店长向众人致谢,尤其夸奖了瑞希在忙碌中仍坚持完美摆盘的职业精神。店长表示被众人的努力打动,成为了组合的粉丝,并温暖地鼓励了实乃里。最后,在店长的提议下,大家决定一同下厨,享受快乐的烹饪派对。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "オンエアの行方は……",
+      "title_cn": "播出的结果是……",
+      "summary_cn": "数周后,MORE MORE JUMP!与虚拟歌手们在「舞台的世界」一同观看节目录像。此前因摔角手夺冠后的宣传,咖啡店已人气爆棚。观看中大家发现节目时长破例延长,证明了拍摄内容的精彩。受到视频启发,爱莉提议在「世界」中举办咖啡店活动,令虚拟歌手们兴奋不已。爱莉将拍摄成功归功于全员的默契配合,大家互相鼓励,决心在未来的工作中继续努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_recording_2023/event_recording_2023_08.webp"
+    }
+  ]
+}

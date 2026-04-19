@@ -1,0 +1,90 @@
+{
+  "event_id": 124,
+  "title_jp": "星を目指して、ヨーソロー！",
+  "title_cn": "目标是巨星，全速前进！",
+  "outline_jp": "それぞれの夢に向かって、修行を続けるワンダーランズ×ショウタイム。そんなある日、リン達に呼び出されセカイへ行くと、そこには今まで見たことがない場所が広がっていて——！？",
+  "outline_cn": "Wonderlands x Showtime为了各自的梦想持续修行。某天，他们被镜音铃等人叫到了“世界”，那里竟然出现了一片从未见过的景象——！？",
+  "summary_cn": "Wonderlands x Showtime应邀来到“奇幻的世界”，发现象征司内心变化的新港口与大船。为了找回被“凤凰”带走的通往“星之岛”的海图，众人展开冒险。途中，类、宁宁和笑梦通过共鸣自身的经历，分别帮助丧尸、海龟和狮子布偶克服了孤独、恐惧与自我否定。最终，司协助狮子挑战凤凰，凭毅力取回了海图。众人领悟到大船象征着通往梦想的轨迹，虽因时机未到尚无法启航，但大家决心在现实中继续磨练，向着成为巨星的目标共同成长。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "冒険の幕開け",
+      "title_cn": "冒险的序幕",
+      "summary_cn": "WxS众人应虚拟歌手之邀来到“奇幻的世界”，惊讶地发现竟多出了一座港口与大船。KAITO推测这是受司内心变化的影响。众人在船上探索时发现了一张通往“幻之岛·星之岛”的海图，这或许是解开世界变化之谜的关键。然而突如其来的大风将海图吹飞，并挂在了一只传说生物“凤凰”的身上。为了找回海图，司带领众人决定对凤凰展开追逐，一场冒险就此拉开序幕。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "はぐれもののぬいぐるみ",
+      "title_cn": "离群的玩偶",
+      "summary_cn": "众人在港口搜寻凤凰未果，转而前往旅馆打听。类发现那里的布偶形象对应着他们曾演出的角色，推测是受司的经历影响。期间，初音等人注意到一群被孤立的丧尸布偶。旅馆老板解释它们因“咬人”的特殊问候方式常被误解，导致性格变得孤僻。尽管类主动接受“咬人”以示友好，但丧尸布偶们仍认定大家只是假装和善，拒绝透露凤凰的线索并愤然离去。看着它们的身影，类不禁想起了自己的过去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "再演・ゾンビショー！",
+      "title_cn": "再演・僵尸秀！",
+      "summary_cn": "类在被孤立的丧尸布偶身上看到了曾经孤独的自己，决定通过演出来帮助它们。众人合作上演了《土豆幽灵》的改编版，通过剧情向观众传达了“咬人”其实是丧尸们友好的问候方式。演出成功消除了误解，其他布偶纷纷接受了丧尸并与之互动。类为此感到欣慰，坚信演出能跨越隔阂。作为回报，丧尸布偶告知众人，港口有人知晓关于凤凰的线索。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "気持ちがわかるから",
+      "title_cn": "因为我懂那种心情",
+      "summary_cn": "众人得知知晓凤凰线索的人住在河对岸,却苦于没有桥梁,随后发现当地依靠海龟布偶摆渡。在寻找空闲海龟无果时,宁宁遇到一只独自凝视河面的海龟,请求帮忙却被拒绝。知情的海龟透露,那只海龟虽梦想载人,却因曾目睹洪水而对水产生了心理阴影。宁宁联想到自己曾经既恐惧舞台又无法放弃梦想的经历,对此感同身受。在流歌的温言鼓励下,宁宁决定再次去找那只海龟,试图传达这份共鸣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "憧れを思い浮かべて",
+      "title_cn": "想起憧憬的身影",
+      "summary_cn": "宁宁向海龟坦白,自己虽梦想成为音乐剧演员,但也曾因失误恐惧舞台,至今仍会对未知感到害怕。她分享自己克服恐惧的方法是回想起心中憧憬之人的身影,并鼓励海龟一起努力。在宁宁和流歌的陪伴下,海龟受到触动,终于鼓起勇气踏入水中,成功克服了心理阴影。重获自信的海龟主动提出载众人过河,宁宁看着它的背影,也再次坚定了怀抱憧憬、勇敢迈向梦想的决心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "叶わない夢",
+      "title_cn": "无法实现的梦想",
+      "summary_cn": "众人根据线索找到了名为里昂的狮子布偶。得知大家见过凤凰，里昂十分激动，告知凤凰栖息于传说中的“星之岛”，并滔滔不绝地科普起相关传说。当被问及原因时，里昂坦言自己因笨拙迟钝而憧憬威风凛凛的凤凰。在笑梦的追问下，他羞涩地透露了自己的梦想——想和凤凰一起在空中飞翔。但随即他又自我否定，认为身为狮子布偶无法飞行，且周围人都说这不可能实现。这番话让笑梦联想到自己曾被哥哥们否定梦想的经历，于是她坚定地鼓励里昂不要放弃。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "きっと一緒なら",
+      "title_cn": "只要在一起的话",
+      "summary_cn": "面对认为梦想遥不可及而痛苦想要放弃的里昂，笑梦结合自身经历，告诉他只要有伙伴支持，就能找到实现梦想的方法。在众人的鼓励与协助下，里昂重燃希望。经过商讨，大家计划请求凤凰让里昂骑在背上飞翔。此时里昂透露，他通过研究推测出了凤凰在港口必去的“中意之地”。众人随即决定前往该地寻找凤凰，连与MEIKO看着这一幕，不禁感叹笑梦那份能让他人重展笑颜的成长。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "捕獲作戦！？",
+      "title_cn": "捕获作战！？",
+      "summary_cn": "众人根据线索在山丘用司的大嗓门引来了凤凰。凤凰起初拒绝了里昂想骑背飞翔的请求，但随即提出条件：若能在日落前抓住她便答应。司为了实现里昂的梦想接受挑战。连提议使用捕获网，类则将宁宁机器人改造成能进行三次“超级跳跃”的装备。里昂决心亲手抓住梦想主动请缨，司因共鸣其志向决定与其一同骑上机器人负责投网，其余伙伴在地面准备安全垫，一场“凤凰捕获作战”就此展开。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_08.webp"
+    },
+    {
+      "chapter_no": 9,
+      "title_jp": "何度でも",
+      "title_cn": "无论多少次",
+      "summary_cn": "司与里昂搭乘宁宁机器人试图捕捉凤凰,首战因风向失利。面对仅剩的机会,里昂因自责想要退缩,司鼓励他正视软弱,将悔恨化为前进的动力。在众人的声援下,两人再次跃起,虽未能生擒凤凰,却凭毅力触碰到了它的羽毛。凤凰被这份执着打动,归还了此前被吹飞的海图,并许诺未来若能成功捕获便实现里昂的愿望。里昂重拾自信决心继续追梦,而目睹司成长的KAITO也再次坚定了守护大家梦想的决心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_09.webp"
+    },
+    {
+      "chapter_no": 10,
+      "title_jp": "星を目指して",
+      "title_cn": "以星为目标",
+      "summary_cn": "众人取回海图，发现图上的岛屿对应着他们过去的演出经历。KAITO推测这艘船象征着司与伙伴们以“星之岛”为目标、共同成长的轨迹。大家决定立刻驾船前往星之岛，却因水流阻挡屡次被推回。KAITO解释这是因为司尚未真正成为“巨星”，目前的时机未到。司领悟到只有在现实中继续成长才能开辟道路，便决心与伙伴们继续携手追梦。最后，虚拟歌手们在港口发现了一株象征成长的新芽，微笑着决定继续守护大家。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_yosoro_2024/event_yosoro_2024_10.webp"
+    }
+  ]
+}

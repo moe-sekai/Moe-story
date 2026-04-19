@@ -1,0 +1,122 @@
+{
+  "event_id": 140,
+  "title_jp": "キミと、セカイの始まりで",
+  "title_cn": "与你，在世界的起点",
+  "outline_jp": "セカイの狭間から一歌達を見守るミク達。するとそんなミク達の元へ、謎の欠片が現れる。欠片に導かれた先には、\"本当の想い\"が生まれる前の一歌達がいて——。",
+  "outline_cn": "初音未来等人从“世界的夹缝”中守护着星乃一歌等人。此时，神秘的碎片出现在了她们面前。而在碎片的指引下，前方竟是催生出“真正的心愿”之前的一歌等人——。",
+  "summary_cn": "初音未来等虚拟歌手在“世界的夹缝”中发现神秘碎片，借此回顾了五个团体“真正心愿”诞生的起点。歌手们见证了星乃一歌等人从儿时誓言到疏远后的重聚渴望；偶像少女们在挫折中重拾传递希望的梦想；街头少年少女为超越传说而结下的热血羁绊；天马司为笑容而生的初心与迷失后的等待；以及朝比奈真冬在绝望中通过歌声寻找自我的挣扎。这些回忆揭示了各个“世界”诞生的契机与歌手们守护的初衷。最终，看着象征少年少女们奋斗成果的心意之树茁壮成长，虚拟歌手们誓言将继续温柔地守望并指引他们迈向未来。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "セカイの想いに触れて",
+      "title_cn": "触碰世界的心愿",
+      "summary_cn": "虚拟歌手们在“世界的夹缝”中欢迎玩家的到来，并感谢玩家一直以来的守护。大家讨论起各个“世界”近期发生的如萌发新芽般的变化，认为这是少年少女们历经磨练、向着梦想迈进的成长证明，是他们积累的“心愿”影响了“世界”。此时，镜音连发现了一个不同寻常的闪耀碎片。初音未来推测这是“世界”想要传达某种信息，于是邀请玩家与歌手们一同触碰这枚碎片，去见证其中蕴含的内容。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "流星の夜に",
+      "title_cn": "流星之夜",
+      "summary_cn": "巡音流歌置身于碎片展现的回忆中,见证了年幼的星乃一歌等人共赏流星雨的时刻。咲希许下了希望能永远和大家在一起的心愿,这份纯粹的情感正是她们羁绊的起点。随后场景变换,流歌看着她们快乐地演奏自己的歌曲,也不禁一同哼唱。画面转至初中时期,住院的咲希在朋友们离开后陷入了孤独的寂静。流歌虽知声音无法传达,仍温柔地唱起歌,希望能以此抚慰咲希的心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "教室から想いを寄せて",
+      "title_cn": "寄托于教室的心意",
+      "summary_cn": "巡音流歌目睹了初中时期四人渐行渐远的过往：志步与穗波选择疏远，咲希独自忍受寂寞，但众人内心皆渴望“想在一起”。随后画面转至刚诞生的“教室的世界”，初音未来与巡音流歌感受到了充盈其中的强烈心愿，尤其是寄宿在乐器中的思念。尽管少女们因过分在意彼此而回避，但歌手们决心守护这份无可替代的心意，立誓成为指引她们找回真心的路标。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "キラキラしたステージから",
+      "title_cn": "来自闪耀的舞台",
+      "summary_cn": "镜音铃在碎片中目睹了桐谷遥、桃井爱莉和日野森雫的过去，她们初登舞台时都怀揣着“想要传递希望”的闪耀梦想。然而回忆随后变得沉重：爱莉受困于综艺工作，雫遭受队友的嫉妒与指责，遥则面对同伴崩溃的控诉。这些挫折让承载心愿的碎片几近消失。就在此时，花里实乃里的声音传来，尽管落选却依然誓言要成为像遥那样的偶像。这份不屈的决心让原本黯淡的碎片再次绽放出耀眼的光芒。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "希望を届ける歌で",
+      "title_cn": "用传递希望的歌声",
+      "summary_cn": "镜音铃置身于刚诞生的“舞台的世界”，感受到了其中蕴含的“想要传递希望”的强烈心愿。她目睹了该世界的铃与初音未来在巨大的舞台上相遇。两位虚拟歌手感叹于少女们对偶像的热爱，决心通过歌舞守护这份心意，成为传递希望的存在，并期待着未来能与少女们同台演出。看着舞台上两人充满活力的Live，铃深受鼓舞，为即将指引少女们的另一个自己和未来加油助威。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "熱狂の夜に",
+      "title_cn": "在狂热之夜",
+      "summary_cn": "MEIKO与镜音连在碎片中见证了传说活动“RAD WEEKEND”的狂热现场，那是白石杏等人梦想的起点。随后画面转至初中时期的杏，她憧憬着凪，立誓要举办超越那晚的活动。尽管杏在歌唱比拼中获胜，但她拒绝了妥协的组队邀请。看着渴望拥有共同梦想的“最佳搭档”却独自挣扎的杏，MEIKO温柔地守护着她，确信这以超越传说为目标的歌声，终将撼动未来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなの居場所に",
+      "title_cn": "成为大家的容身之所",
+      "summary_cn": "MEIKO在碎片中置身于刚诞生的“街头的世界”，看到该世界的MEIKO正身处一间空荡的咖啡店。感受到其中充盈着“想要超越RAD WEEKEND”的强烈心愿，MEIKO意识到这是杏等人创造的场所。此时初音未来现身，品尝咖啡后建议MEIKO经营此地。MEIKO决心将这里打造成一个能让为了高远目标而努力、感到疲惫或烦恼的少年少女们放松休息的“容身之所”。看着正在构思菜单的另一个自己，MEIKO确信这里终将成为大家无可替代的依靠。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "あの夜を超える歌を",
+      "title_cn": "唱出超越那晚的歌声",
+      "summary_cn": "镜音连在碎片中见证了东云彰人与青柳冬弥的相遇。中学时期的彰人虽刻苦练习，却深感难以企及“RAD WEEKEND”的高度。某日，他被冬弥那精准却又充满拼命感的歌声所吸引，主动邀请其一同歌唱。合唱瞬间，冬弥感受到了内心的躁动，彰人则确信对方是能提升自己的存在。随着配合日益默契，彰人正式邀请冬弥组队，立誓共同超越传说的那晚。看着两人因歌声相互吸引并结下羁绊，连不禁感叹这便是这对最佳搭档梦想的起点。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_08.webp"
+    },
+    {
+      "chapter_no": 9,
+      "title_jp": "みんなのために！",
+      "title_cn": "为了大家！",
+      "summary_cn": "镜音连置身于刚诞生的“街头的世界”，被涂鸦艺术和“RAD WEEKEND”的传单吸引。他目睹了该世界的连与镜音铃为了在彰人等人为歌唱烦恼时能提供帮助，决心磨练歌技。看着两人默契的合唱，连确信他们能成为众人的支柱。随后连来到咖啡店与MEIKO汇合，两人交流了分别见证的过往，感叹尽管少年少女们当时尚未深交，但强烈的共同心愿促成了这个世界的诞生。两人决心在此守望并支持他们迈向世界。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_09.webp"
+    },
+    {
+      "chapter_no": 10,
+      "title_jp": "ショーで笑顔を",
+      "title_cn": "用演出带来笑容",
+      "summary_cn": "KAITO置身于碎片展现的回忆中，发现自己来到了医院。他目睹了年幼的天马司为了逗病床上的天马咲希开心，正如火如荼地进行着英雄角色的扮演表演。感受到司内心“想要让咲希绽放笑容”的强烈心愿，KAITO看到了那闪耀的心愿碎片正在逐渐成形。随后，面对咲希由衷的感谢与快乐的笑颜，深受鼓舞的司立誓要成为“世界第一的明星”，创作出能让所有人展露笑容的演出。看着这纯粹而宏大的梦想让碎片光芒倍增，KAITO温柔地守望着这份心意的成长。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_10.webp"
+    },
+    {
+      "chapter_no": 11,
+      "title_jp": "想いを見守って",
+      "title_cn": "守望这份心意",
+      "summary_cn": "KAITO在碎片中回顾了“奇幻的世界”的过往。初音未来与玩偶们重现了天马司的演出，渴望能与他同台。然而回顾过去，每当未来试图通过“Untitled”呼唤年幼的司时，总因各种意外未能传达。随着时间流逝，司逐渐将目标转向成为“世界第一的明星”，却遗忘了“想让咲希绽放笑容”的初心。为了唤醒司，未来提议寻找拥有相似心愿的伙伴。KAITO意识到这将是司与笑梦等人相遇的契机，确信在伙伴们的帮助下，司终将找回创造了这个世界的纯粹心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_11.webp"
+    },
+    {
+      "chapter_no": 12,
+      "title_jp": "本当の自分を",
+      "title_cn": "真正的自己",
+      "summary_cn": "初音未来在碎片中目睹了朝比奈真冬的过往。在母亲为了让她成为医生而施加的期待下，真冬不断压抑自我，逐渐失去了味觉，甚至不知道自己真正喜欢什么，觉得自己仿佛在扮演另一个人。迷茫中，她发现只有K创作的阴郁歌曲能触动内心，并从K口中得知那是“寂静堆积的白色绝望”。随着这份渴望“找到真正的自己”的心愿，空无一物的“无人的世界”诞生了。初音未来降临于此，面对这因迷失自我而荒芜的空间，决心尽己所能去帮助真冬。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_12.webp"
+    },
+    {
+      "chapter_no": 13,
+      "title_jp": "静かに、あたたかく",
+      "title_cn": "静谧地，温暖地",
+      "summary_cn": "初音未来在碎片中回顾了与朝比奈真冬的初遇。真冬通过“Untitled”来到“无人的世界”，因无法找到真实的心意且不堪现实中母亲与老师的期待，渴望永远逃避于此。初音未来不知如何安抚绝望的真冬，却发现空无一物的世界中仅存一首K（宵崎奏）创作的乐曲。意识到K或许是寻找真冬的关键，初音未来决定前往现实寻找K。看着这段过往，现在的初音未来感到了一丝久违的温暖。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_13.webp"
+    },
+    {
+      "chapter_no": 14,
+      "title_jp": "大きく育つ想い",
+      "title_cn": "茁壮成长的心意",
+      "summary_cn": "虚拟歌手们回到“世界的夹缝”，感叹于各个世界的自己一直在默默守护着少年少女们。此时，世界的嫩芽伴随光芒变大，众人被传送至一个由大家心意重叠而生的神秘空间。初音未来向大家展示了一棵由人类与歌手们的心意共同培育的树，树上的果实映现出各团体的CD、海报等奋斗成果。看着比以往更加茂盛的树木，歌手们意识到这象征着孩子们的成长，决心未来也将继续温柔地守护这份茁壮成长的心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beginning_2024/event_beginning_2024_14.webp"
+    }
+  ]
+}

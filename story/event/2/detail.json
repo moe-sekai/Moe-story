@@ -1,0 +1,74 @@
+{
+  "event_id": 2,
+  "title_jp": "囚われのマリオネット",
+  "title_cn": "被囚禁的提线木偶",
+  "outline_jp": "まふゆとの『約束』を果たすため、もっとまふゆのことを知りたいと思う奏。\nそんな時、サークルの4人で訪れた人形展でまふゆに異変が……。",
+  "outline_cn": "为了履行与真冬的『约定』，奏希望能进一步了解真冬。就在这时，社团四人一同造访的人偶展上，真冬身上却发生了异变……",
+  "summary_cn": "为了履行拯救真冬的承诺，奏试图深入了解真冬却感到隔阂。在穗波的建议下，25时全员前往人偶展，真冬目睹受线操纵的提线木偶后，联想到自身被母亲支配的处境，产生了强烈的生理排斥与恐慌。奏意识到这份“厌恶”正是真冬真实的情感，鼓励她将其写成歌词。真冬通过作词感受到了久违的痛楚与实感，初音也暗示了摆脱束缚的可能。最终，真冬开始尝试直率地表达感受，虽言辞犀利引发争吵，却让团队充满了前所未有的生气。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "感じていること",
+      "title_cn": "感受到的事物",
+      "summary_cn": "奏完成新曲Demo后，回想起曾对真冬许下“不停创作直到救赎你”的承诺，却仍怀疑这首歌能否真正救赎她。25时众人在语音中集合，绘名和瑞希对新曲赞赏有加，但当奏询问真冬的感想时，真冬坦言虽然不讨厌，却也没有“喜欢”的感觉，无法产生共鸣。真冬离线后，绘名抱怨现在的真冬像机器人般难以捉摸。奏意识到自己确实还不够了解真冬，为了创作出能真正救赎她的歌曲，必须更深入地去了解真冬内心的感受。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "手渡されたチケット",
+      "title_cn": "递来的入场券",
+      "summary_cn": "奏苦恼于创作救赎真冬的歌曲,负责家政的穗波察觉其低落。闲聊中,奏询问如何帮助无法表达心愿的人,穗波建议通过深入交流去了解对方的内心与烦恼,这让奏坚定了要进一步了解真冬的想法。临别时,穗波将一张人偶展的门票赠予奏,认为这或许有助于创作,奏便收下了门票。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "もっと知りたくて",
+      "title_cn": "想要更加了解",
+      "summary_cn": "25时工作中，奏审视真冬的歌词，发觉虽文采依旧，却无法像过去那样从中窥见其真心。休息闲聊时，奏拿出了人偶展的门票，瑞希兴致勃勃地提议四人同行，绘名为了寻找灵感也勉强答应。回想起穗波的建议，奏主动邀请真冬，希望能借此加深对她的了解，真冬淡然应允。周六出门前，真冬告知母亲要去人偶展，母亲却暗示看画展更能培养“感性”。真冬表面顺从，内心却自嘲无论看什么自己都无法产生感觉。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "籠の中のマリオネット",
+      "title_cn": "笼中的提线木偶",
+      "summary_cn": "25时全员集合前往人偶展，瑞希和绘名热烈讨论，奏则感叹人偶仿佛拥有自己的世界。期间，奏敏锐地捕捉到真冬表情的一丝变化，尽管真冬仍称无感兴趣之物。随后真冬独自离队，偶然看见一只被线操纵的提线木偶。这只人偶瞬间勾起了母亲夸赞她是“好孩子”的幻听，导致真冬产生强烈生理反应，呼吸急促地陷入恐慌，前来寻找的奏发现了她的异状。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "同族嫌悪",
+      "title_cn": "同族厌恶",
+      "summary_cn": "奏发现真冬面对提线木偶感到极度恶心且呼吸困难,但真冬无法解释原因。为顾及真冬身体,众人中止话题,真冬独自回家。奏为探寻真冬产生强烈情感的原因前往「无人的世界」询问初音未来。虽初音也无法确切知晓真冬当下的感受,但在听闻那是关在鸟笼般的提线木偶后,初音指出或许是因为那个人偶与真冬十分相似。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "夢見る人形",
+      "title_cn": "做梦的人偶",
+      "summary_cn": "真冬梦见自己变成了展览上的提线人偶，心想若只需听命行事、无需思考，或许反而更好。梦中奏突然出现追问她的感受，真冬惊醒后发现自己在Nightcord语音中睡着了。她向奏讲述了梦境，面对奏再次关于“感受”的询问，真冬痛苦地表示自己虽活着却毫无实感，无法用语言表达内心缺失了什么。奏意识到常规对话无法触及真冬内心，于是提议让她不必寻求理解或解释，直接将当下的感受写成歌词。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "嫌なのも、痛いのも",
+      "title_cn": "厌恶也好,痛苦也好",
+      "summary_cn": "奏建议真冬试着描写那个让她感到恶心的提线木偶,以此代替无法直接表达的自身情感,真冬勉强答应。在「无人的世界」,初音告诉真冬痛苦与厌恶也是构成她自我的重要部分,并非毫无意义,并展示了被剪断线的木偶,暗示摆脱束缚后的自由。现实中,瑞希向绘名解释真冬或许因过度听从母亲而感到自己像被操纵的人偶。最终,真冬带着写好的歌词回到了语音中。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "わからない、けど",
+      "title_cn": "虽然不明白，但是",
+      "summary_cn": "瑞希和绘名惊讶于真冬写出的歌词充满生气，奏决定立刻为其谱曲。一周后曲子完成，真冬虽表示“不明白”，但也感到胸口有一种不同于以往的痛楚。奏指出能写出歌词证明真冬拥有情感，瑞希建议真冬在大家面前直率地表达感受，真冬决定尝试。次日，真冬开始“直率”地批评绘名的画作颜色脏、瑞希的MV刺眼，引发了争吵却也带来了活力。奏笑着表示很开心，真冬也觉得自己或许有着同样的心情。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_jackpod_2020/event_jackpod_2020_08.webp"
+    }
+  ]
+}

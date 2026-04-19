@@ -1,0 +1,74 @@
+{
+  "event_id": 1,
+  "title_jp": "雨上がりの一番星",
+  "title_cn": "雨后初星",
+  "outline_jp": "幼馴染み4人でバンドを結成し、楽しい日々を送る咲希。\nある日、天文台のイベントポスターを見つけ、4人で遊びに行こうと計画するが……。",
+  "outline_cn": "咲希与三位青梅竹马组成了乐队,过着快乐的每一天。某天,她发现了天文台的活动海报,便计划四人一起去玩,然而……",
+  "summary_cn": "曾经长期住院的天马咲希，如今康复并与青梅竹马们组成了乐队Leo/need。为了弥补过去错失的时光，咲希渴望与伙伴们制造更多回忆，兴奋地策划了天文台出游计划。然而，急于填补空白的她不顾身体透支，甚至隐瞒发烧坚持练习。当被志步责备“游玩随时都能去”时，咲希情绪爆发，坦露了对再次失去陪伴的恐惧。计划因雨天和病情告吹后，咲希陷入自责。一歌等人意识到她的不安，在「教室的世界」找到了她，承诺未来会一直在一起，不必急于一时。最终，大家在「世界」中举办了专属的星空派对，咲希释怀了焦急与恐惧，决定与伙伴们一步步慢慢创造属于她们的未来。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "ひとりぼっちの雨模様",
+      "title_cn": "孤身一人的雨天",
+      "summary_cn": "咲希梦见了曾经住院时的孤单雨天,醒来后在哥哥司的催促下匆忙赶往学校。面对一歌的关心,咲希隐瞒了梦境内容,因为不想让曾因没能常去探病而愧疚的一歌担心。放学后,咲希表现得格外兴奋,与伙伴们汇合后前往「教室的世界」。在与初音未来和巡音流歌会合后,咲希在心中告诉自己,现在已经不再孤单,要努力夺回过去没能和大家共度的时光。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "みんなと一緒に",
+      "title_cn": "和大家在一起",
+      "summary_cn": "放学后,咲希兴致勃勃地赶去打工。一歌看着她的背影,回想起过去探病时咲希寂寞却故作坚强的样子,感慨如今能一起组建乐队真好。打工结束后的咲希看着排满的日程表感到充实,但仍觉得不够,想要更多地和大家在一起。此时她偶然发现了天文台开放的海报,便兴奋地制定了一个包含购物、美食和看星星的充实计划,希望能和大家一起制造更多美好的回忆。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "星よりベース",
+      "title_cn": "比起星星更爱贝斯",
+      "summary_cn": "咲希提议大家周六一起去天文台，虽然志步起初认为不如练习，甚至被一歌调侃是“比起星星更爱贝斯”，但在流歌建议通过共同体验来增进默契后，志步最终同意。咲希表现得干劲十足，即便身兼社团和打工仍坚持高强度练习。流歌敏锐地察觉到咲希似乎在勉强自己，便私下提醒志步多加留意。志步听后决定密切关注咲希，并通过打赌请客的方式激励她练习，而穗波关于物价的天然呆发言则让大家在轻松的氛围中开始了合奏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "デートの日まで",
+      "title_cn": "直到约会那天",
+      "summary_cn": "咲希在家挑选出游衣物，被哥哥司误会是要去约会，解开误会后司叮嘱父母外出期间要注意安全。随后，穗波察觉咲希脸色潮红，咲希虽感身体不适但并未在意，只打算早睡。次日，打工处因突发状况人手不足，为了保住周六去天文台的行程，咲希隐瞒病情接下了当天的替班工作。工作结束后咲希发烧加重，但想起志步曾说“练习偷懒就取消活动”，为了不搞砸约定，她决定强撑病体坚持下去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "いつでもなんて",
+      "title_cn": "哪有什么随时",
+      "summary_cn": "练习时咲希面色潮红，面对大家的担心，她为了不取消明天的天文台之行谎称只是过于兴奋。虽然合奏顺利，但结束后穗波发现咲希其实发着高烧。志步生气地责问她为何乱来，表示游玩随时都能去，身体才最重要。咲希听后激动地反驳“哪有什么随时”，因为曾经长期住院的她根本无法“随时”和大家在一起。随后三人送咲希回家照顾，面对咲希的道歉，志步欲言又止，最终只让她先好好休息。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "雨と夕暮れ",
+      "title_cn": "雨与黄昏",
+      "summary_cn": "周六是个雨天,咲希虽然烧退了但因无法去天文台而失落,也对照顾自己的哥哥感到抱歉。她在「教室的世界」向流歌倾诉,自责因任性搞砸了行程,承认是因为太渴望那段时光才勉强自己。另一边,一歌提议探望咲希,并向疑惑的志步讲述了往事:过去探病时,咲希曾流露出目送朋友离开后的落寞。意识到咲希比大家想象的更怕寂寞,三人决定一同前往咲希家。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ゆっくり進もう",
+      "title_cn": "慢慢前行吧",
+      "summary_cn": "一歌一行人探望咲希,哥哥司向大家致谢。众人发现咲希不在房内,一歌猜测她去了「世界」。在那里,咲希向流歌吐露心声,坦言因恐惧像住院时那样失去与大家共度的时光,才急于制造回忆而勉强自己,流歌温柔地劝导她不必焦急。随后伙伴们赶到,志步为自己的迟钝和失言道歉,一歌承诺大家未来会一直在一起,提议慢慢建立回忆,咲希感动地接受了大家的心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "アタシ達の星空",
+      "title_cn": "属于我们的星空",
+      "summary_cn": "咲希因低烧未退需回家休息,大家遗憾无法去天文台,但穗波受「世界」中晴朗星空的启发想到了新点子。数日后,四人与虚拟歌手在「教室的世界」举办了模拟天文馆派对,由穗波担任解说。虽然咲希因穗波温柔的声音差点睡着,但在未来的提议下,大家决定通过合奏来醒神。合奏前,咲希向伙伴们表达了感激,内心终于释怀,告诉自己不再需要焦急或恐惧,未来要慢慢地和大家一起创造属于她们的时光与回忆。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_stella_2020/event_stella_2020_08.webp"
+    }
+  ]
+}

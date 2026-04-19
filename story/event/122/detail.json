@@ -1,0 +1,74 @@
+{
+  "event_id": 122,
+  "title_jp": "刻まれた傷は、やがて",
+  "title_cn": "铭刻伤痕，终将……",
+  "outline_jp": "MORE MORE JUMP！の活動拠点として『モアモアハウス』を設立すべく、様々な物件を見ることに決めたみのり達。しかし、条件にあう物件を見つけるのはなかなか難しく——。",
+  "outline_cn": "为了设立MORE MORE JUMP！的活动据点“More More House”，实乃里等人决定开始查看各种房产。然而，要找到符合条件的房子却并非易事——。",
+  "summary_cn": "为了设立活动据点“More More House”，MORE MORE JUMP!看中了一间入住审查严格的房产。面试当天，她们临时接到电视节目录制工作，途中实乃里帮助了一位受伤的老奶奶。录制现场突发设备故障，实乃里不仅提出补救方案，更暖心照顾疲惫的观众，展现了真正的偶像精神。虽因坚持送别观众而错过面试时间，但房东正是那位老奶奶。她被众人的善意与梦想打动，认可她们是“能实现梦想的人”，正式将房子租给了MORE MORE JUMP!。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "ドキドキ打ち合わせ！",
+      "title_cn": "EP1：心跳不已的商谈！",
+      "summary_cn": "实乃里等人为了寻找活动据点“More More House”，与房产中介川西进行了商谈。为应对日益增加的工作，大家希望租一处集练习、直播和会议功能于一体的房子。中介展示了一套拥有地下练功房和露天浴池的顶级房产作为参考，实乃里因幻想与遥的同居生活而兴奋不已，但爱莉冷静地指出了租金过高的问题。经过筛选，大家明确了具体需求并剔除了不必要的设施，约定日后去实地看房。尽管爱莉强调要以工作为重，实乃里仍对能与成员们朝夕相处充满期待。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "内見！モアモアハウス候補！",
+      "title_cn": "看房！More More House候选地！",
+      "summary_cn": "一周后，实乃里一行人带着通过手机同行的虚拟歌手们开始实地看房。然而过程并不顺利：第一间房内有巨大柱子妨碍直播，第二间太过老旧恐无法承受舞蹈练习，第三间虽户型完美但坡道太陡难以通勤。正当大家受挫考虑增加预算时，中介川西提到还有一处符合条件但稍显“特殊”的房产。尽管众人猜测可能闹鬼或有恶邻，大家还是决定前往一探究竟。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "期待の４件目は……",
+      "title_cn": "令人期待的第四间……",
+      "summary_cn": "众人来到第四间房，发现外观复古可爱，内部采光良好。实乃里在查看练习室时，初音未来现身，指出地板上的划痕是历代租客努力练习的证明，这让实乃里深受感动。汇合后，大家一致决定租下这间房。中介川西透露，该房租金低廉是因为房东想支持追梦人，但审查极为特殊且严格：房东只会把房子租给“能实现梦想的人”。尽管之前的申请者都失败了，但为了这间充满回忆与希望的房子，大家仍决定接受挑战，申请入住审查。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "思いがけぬ電話",
+      "title_cn": "EP4:意料之外的电话",
+      "summary_cn": "看房后确认房东面试定于后天晚上。此时斋藤来电,称有电视节目急需替补,录制虽在同天但下午便结束,众人决定接受并立即赶往电视台开会。途中偶遇一位鞋跟折断扭伤脚的老奶奶,实乃里让队友先走,自己留下帮忙。得知老奶奶也要去电视台后,实乃里背起她赶路,却惊讶地发现未曾自我介绍的老奶奶竟叫出了她的名字。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "お仕事報告！",
+      "title_cn": "工作汇报！",
+      "summary_cn": "实乃里向虚拟歌手汇报老奶奶已平安赶上录制。随后大家讨论即将参加的综艺节目，这是组合至今最大的工作，不仅需策划环节，录制后还得赶去房屋面试。录制当天，实乃里在时尚对决环节表现出色并获胜。然而休息时，她听到观众议论MORE MORE JUMP！只是名为“LiLia”的组合的替补并对此感到失望。实乃里因未顾及观众想看原嘉宾的心情而低落时，那位老奶奶再次现身。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "再会の先に",
+      "title_cn": "重逢之后",
+      "summary_cn": "实乃里在电视台偶遇之前帮助过的老奶奶。老奶奶察觉到实乃里因被观众视为“替补”而失落，便温柔地开导她。实乃里重拾信心，决心即使无法完全替代原嘉宾，也要为观众带去希望。回到现场后，实乃里表现活跃，带动了气氛。然而就在一切顺利时，摄影师突然叫停，告知大家休息结束后的40分钟内容因失误完全没有录进去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "まさかのトラブル！？",
+      "title_cn": "EP7: 意想不到的麻烦！？",
+      "summary_cn": "录制因器材故障导致40分钟内容丢失，且原定介绍的特产已被吃光，无法重拍。制作人打算改为旅行话题，但实乃里为了不辜负MYU的准备并让观众开心，提议改为介绍现成的“电视台特产”，该方案获得采纳。等待重置布景时，实乃里主动跑腿购买道具，并额外买来零食分发给疲惫的观众。这一举动打破了演职人员的界限，感动了有村等人。大家一同向观众派发零食，化解了尴尬的等待时间，随后拍摄顺利重启。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "撮影を終えて",
+      "title_cn": "拍摄结束后",
+      "summary_cn": "拍摄结束后，为了回应观众的期待，众人决定放弃赶去面试，坚持送别观众并感谢工作人员。虽错过了约定时间，但这份偶像精神赢得了业界的高度评价。次日，房东意外提出见面，众人前往致歉时发现房东竟是实乃里曾帮助过的老奶奶。老奶奶认可她们是“能实现梦想的人”，正式将房子租给她们。MORE MORE JUMP！终于拥有了据点“More More House”，实乃里决心在此与伙伴们共同刻画属于她们的未来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_graven_2024/event_graven_2024_08.webp"
+    }
+  ]
+}

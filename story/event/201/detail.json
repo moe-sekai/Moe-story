@@ -1,0 +1,142 @@
+{
+  "event_id": 201,
+  "title_jp": "Show 'em what's up！",
+  "title_cn": "让他们见识一下！",
+  "outline_jp": "RUSH BEATSに向けて、実践を積みながら腕を磨くVivid BAD SQUAD。しかし、杏を中心に言葉の壁に躓いてしまう。焦る中、予選の日は刻一刻と近づき——！？",
+  "outline_cn": "为了RUSH BEATS，Vivid BAD SQUAD通过不断实践来磨练技艺。然而，以杏为中心，他们遇到了语言表达的障碍。在焦躁之中，预选赛的日子正一刻刻逼近——！？",
+  "summary_cn": "Vivid BAD SQUAD为参加RUSH BEATS预选赛而加紧练习，却因语言表达和现场表现力不足而陷入瓶颈。在目睹强队Ways的震撼演出并落败后，他们备受打击，但将不甘化为动力。通过观察学习、调整唱法，并在巡音流歌的鼓励下，杏回忆起童年纯粹享受音乐的快乐，最终通过MC Battle的极限练习，成功抛开束缚，找回了情感迸发的说唱力量。预选赛当天，面对嘘声与强敌，他们以爆发性的表演逆转局势，击败Ways获胜，深刻体会到音乐直击人心的共鸣，并决心继续前进。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "予選は目前",
+      "title_cn": "预选赛就在眼前",
+      "summary_cn": "在美国纽约州，Vivid BAD SQUAD的成员们为即将到来的RUSH BEATS预选赛进行街头表演练习。距离预选赛还有两周多时间，杏决心通过实战来提升。表演开始后，他们充满活力的演唱吸引了越来越多的路人驻足观看，甚至有人认出了他们并给予好评，这让心羽感到鼓舞。",
+      "character_ids": [
+        10,
+        12,
+        9,
+        11
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "つのる焦燥",
+      "title_cn": "日益加剧的焦躁",
+      "summary_cn": "第二天，Vivid BAD SQUAD观看了其他参赛队伍的表演，尤其是上届冠军Ways的即兴说唱，其精湛技艺和现场掌控力让他们深感震撼。尽管杏决心在预选赛前的最后一场活动中全力以赴，以胜利鼓舞士气，并希望不辜负前来观战的朋友们，但表演结束后，他们仍落败于Ways。杏感到自己的表演未能完全打动观众，对即将到来的大赛预选赛充满焦虑。此时，一个声音打断了她的思绪。",
+      "character_ids": [
+        10,
+        9,
+        11,
+        12,
+        175,
+        176,
+        134,
+        135
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "悔しさをバネに",
+      "title_cn": "以不甘为动力",
+      "summary_cn": "Ways的成员们对杏等人出言不逊，而杏却无法反驳，内心充满不甘。随后，朋友埃琳娜和丽贝卡因连累她们被嘲讽而道歉，心羽安慰她们不必自责，杏也坚定地表示不需要道歉。",
+      "character_ids": [
+        10,
+        175,
+        176,
+        9,
+        134,
+        11,
+        12,
+        135
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "はやる気持ち",
+      "title_cn": "躁动的心情",
+      "summary_cn": "Vivid BAD SQUAD在街头观察并学习其他音乐人的表演，杏注意到他们省略辅音、不刻意发“a”音等自由唱法，以及根据观众反应即兴发挥的技巧。冬弥提议将部分歌词换成“Fire up”以增强气势。随后，他们开始尝试演唱，杏努力在保持发音自然与节奏感之间寻找平衡。观众反应有所改善，但冬弥和心羽仍感到在歌词的犀利度上，与illys、Embers乃至Ways相比仍有差距。巡音流歌和镜音铃也前来观看，认为团队状态比之前好。",
+      "character_ids": [
+        9,
+        10,
+        11,
+        12,
+        21,
+        24,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "見えた光明",
+      "title_cn": "看见的光明",
+      "summary_cn": "在巡音流歌的帮助下，杏在街头的世界练习英语说唱，反复琢磨发音和节奏，但总觉得自己只是在模仿，无法将情感完全投入。休息时，流歌带来了MEIKO特制的超大份朗姆葡萄干甜点为她打气。杏一边听音乐参考，一边回忆起童年和父亲凪以及朋友们单纯享受音乐节奏、不在意歌词含义的快乐时光。如今虽然更懂语言和表达技巧，却感到词不达意、情感受阻，无法畅快地“倾吐一切”。她向流歌倾诉了这种焦躁与不甘。",
+      "character_ids": [
+        10,
+        24,
+        96,
+        36,
+        90,
+        9,
+        11,
+        12,
+        175,
+        176,
+        135,
+        134
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "掴んだ音は",
+      "title_cn": "抓住的声音",
+      "summary_cn": "杏向埃琳娜和丽贝卡提出通过MC Battle的形式进行练习，希望能在极限状态下抛开对发音和技巧的顾虑，纯粹地倾泻情感。朋友们欣然同意并全力协助。在激烈的即兴说唱对决中，Vivid BAD SQUAD的成员们逐渐摆脱束缚，冬弥舍弃了过度纠结的发音，心羽找到了犀利的回应词汇。杏在近乎缺氧的忘我状态下，脑海中突然回响起童年与父亲及朋友们共同聆听的熟悉旋律，她将其融入说唱，迸发出惊人的力量与感染力，赢得了大家的热烈赞赏。",
+      "character_ids": [
+        175,
+        176,
+        10,
+        135,
+        12,
+        9,
+        134,
+        11,
+        36,
+        96,
+        90
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "準備は万端",
+      "title_cn": "准备万全",
+      "summary_cn": "RUSH BEATS预选赛当天，Vivid BAD SQUAD抵达了预选会场。杏发现会场虽是一个普通的Live House，但参赛者们氛围十足。彰人注意到街头表演过的队伍和上届参赛队Valx也在场，冬弥意识到竞争激烈，决心不能输。心羽提到仅该会场就有30支队伍，彰人推算四个会场总计约120队，而冬弥指出最终只有8队能晋级，若在此失败，将无缘与Embers或illys对决。杏鼓舞大家，表示只需像往常一样，让会场气氛比任何人都热烈即可。心羽也决心为了能给朋友们带来好消息而一定要胜出。最后，冬弥提议去看贴在对面走廊的对战表。",
+      "character_ids": [
+        10,
+        11,
+        12,
+        9,
+        177
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "歌を、言葉を",
+      "title_cn": "歌声与言语",
+      "summary_cn": "在RUSH BEATS预选赛现场，Vivid BAD SQUAD目睹了Valx和Ways等强队的精彩表演，感受到了大赛的激烈氛围。轮到他们出场时，却遭到Ways成员和部分观众的嘘声与质疑，现场气氛对他们极为不利。然而，杏以充满爆发力的说唱强势开场，瞬间扭转了局势。随后，彰人、冬弥和心羽也相继投入，四人默契配合，用极具感染力的歌声彻底点燃了全场。观众从最初的轻视转为惊叹与狂热，最终Vivid BAD SQUAD成功击败Ways，赢得了该会场的预选赛胜利。赛后，Ways的领队虽心有不甘，但也承认了他们的实力并送上祝福。杏等人沉浸在胜利的喜悦中，体会到通过音乐与观众直接共鸣的畅快感，并决心继续前进。",
+      "character_ids": [
+        10,
+        9,
+        12,
+        11,
+        177
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_show_2026/event_show_2026_08.webp"
+    }
+  ]
+}

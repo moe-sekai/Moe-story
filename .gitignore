@@ -1,0 +1,16 @@
+assets
+misc
+crawler
+
+
+
+*.log
+__pycache__
+.vscode
+.venv
+pyproject.toml
+uv.lock
+
+*.ps1
+*.lnk
+sync.ffs_db

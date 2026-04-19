@@ -1,0 +1,74 @@
+{
+  "event_id": 121,
+  "title_jp": "導く勇気、優しさを胸に",
+  "title_cn": "指引的勇气，铭记温柔",
+  "outline_jp": "真堂に問われた『目指す音楽』について考える穂波。しかし、なかなか答えが出せず焦りを感じ始めてしまう。一方、真堂はソリス・レコードの社長にLeo/needの様子について尋ねられ——。",
+  "outline_cn": "穗波思考着真堂所问的“想要追求的音乐”，却因迟迟找不到答案而开始焦躁。另一方面，真堂面对Solis Record社长关于Leo/need近况的询问——。",
+  "summary_cn": "穗波因苦恼于“想要追求的音乐”而焦躁，最终领悟到自己想要“成为众人的力量”。真堂认可这份心意，任命具有守护之心的穗波为队长，并带来了音乐节出演的考核机会。然而，成员们各自确立的目标导致演奏缺乏默契，强行统一又失去了气势。为了在保持爆发力的同时统合音色，穗波接受了真堂的严苛特训，决心成为乐队的“指挥者”。最终，穗波在考核中通过鼓声成功引导了成员们的演奏，赢得了社长的认可及正式出道的机会。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "わたしの目指すもの",
+      "title_cn": "我所追求之物",
+      "summary_cn": "穗波因无法回答真堂关于“想要追求的音乐”的提问而感到焦虑。练习中，她发觉确立了目标的伙伴们演奏更有气势，自己却因心事重重而失误，虽被一歌关心但她选择了掩饰。另一边，真堂向社长盛赞Leo/need拥有坚韧的内心，社长随即透露有一份重要的工作机会。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "嬉しいことから",
+      "title_cn": "从喜悦之事开始",
+      "summary_cn": "穗波因苦思“想要追求的音乐”而失眠，一歌察觉后建议她试着从“令自己开心或喜欢的事”入手寻找答案。放学后穗波来到“教室的世界”，发现咲希正与铃、KAITO讨论旧曲改编，却在保留原曲氛围还是改为热闹风格间犹豫不决。穗波建议咲希思考“希望听众产生怎样的心情”，帮助咲希确立了新的改编方向。看着开心的咲希，穗波意识到“能成为他人的力量”令自己感到喜悦，从而找到了答案，此时其他人也正好赶到。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "力になりたい",
+      "title_cn": "想要成为力量",
+      "summary_cn": "穗波告诉大家，自己的答案是“想要成为Leo/need众人的力量”，因为帮助大家实现愿望令她感到喜悦。虽然她担心这与其他人直接通过音乐传达心意不同，但在虚拟歌手的鼓励下，大家接纳了这份心意。面对四人看似分散的目标，Miku和流歌指出，无论是给予元气、连接彼此还是提供支持，最终都殊途同归，汇聚于“想让音乐响彻人心”这一共同愿望。理清了这一核心目标后，四人决定以此去回复真堂。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "新たな役割",
+      "title_cn": "新的角色",
+      "summary_cn": "真堂认可了大家“想要让音乐响彻人心”的答案，并指出穗波想要支持成员的心意是乐队的幸事。随后，真堂提出为了应对专业活动需要决定队长人选，并提名穗波。他认为队长最重要的职责是支撑和守护乐队，而穗波曾坚定地维护乐队的核心价值，展现了韧性。成员们纷纷表示赞同，穗波也决心接下这一重任。此时，事务所社长现身，表示考虑推荐Leo/need参加一个大型音乐节，但前提是需要现场聆听她们的演奏以确认实力。穗波代表乐队接受了这一挑战。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "バラバラな音",
+      "title_cn": "不协调的乐音",
+      "summary_cn": "为了争取音乐节的出演机会，众人在“教室的世界”加紧练习。虽然穗波不再迷茫且全员气势十足，但志步指出演奏缺乏默契，音色支离破碎。KAITO意识到，这正是因为大家各自确立了“想要追求的音乐”，导致演奏时无意识地优先表达个人风格，使得整体方向不统一。MEIKO指出乐队需要统合心意，KAITO和流歌建议大家在演奏时针对具体段落统一想要传达的情感。穗波作为队长号召大家尝试这种磨合，为了呈现震撼人心的演奏而共同努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "同じ方向を向いて",
+      "title_cn": "朝着同一个方向",
+      "summary_cn": "穗波带领成员逐一分析乐谱，试图统一对乐曲情感的理解。大家意识到此前过于强调个人风格，经过激烈的讨论与磨合，终于让心意“朝向同一个方向”。然而在实战练习中，虽然演奏变得默契，穗波却发觉乐曲失去了之前的气势。正当她苦恼于如何在保持整体感的同时保留爆发力时，真堂打来了电话。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最高の演奏をするために",
+      "title_cn": "为了呈现最好的演奏",
+      "summary_cn": "真堂通知审查定于下周末，并针对穗波关于演奏虽整齐却失去气势的烦恼，指出乐队需要一位能引导全员音色的“指挥者”。为了实现大家的愿望，穗波决心承担此任。真堂虽言明这需要高超技术，但见其意志坚定便提议进行特训。次日，真堂展示了深厚的乐器功底，对穗波进行了严苛的节奏与击打指导。为了能引导大家呈现最好的演奏，穗波忍受着极度的疲惫，咬牙坚持特训。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "導く音",
+      "title_cn": "指引之音",
+      "summary_cn": "穗波在特训中忍痛坚持，决心通过演奏真正成为众人的力量。审查当日，在虚拟歌手的声援下，穗波承诺会引导大家发挥出最佳水平。演奏中，穗波通过鼓声将成员们各自的音乐愿望统合，指引着乐曲的情感流向，呈现出前所未有的默契。真堂与社长被这份基于深厚羁绊的演奏打动，社长不仅对参加音乐节表示认可，真堂更宣布了乐队正式出道的日期。确立了自身定位的穗波，决心从此作为“引导者”带领Leo/need前行。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lead_2024/event_lead_2024_08.webp"
+    }
+  ]
+}

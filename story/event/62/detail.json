@@ -1,0 +1,74 @@
+{
+  "event_id": 62,
+  "title_jp": "絶体絶命！？アイランドパニック！",
+  "title_cn": "绝体绝命！？孤岛危机！",
+  "outline_jp": "音楽堂での公演が大成功を収め、次なる宣伝公演の場所へクルーザーで向かうことになったワンダーランズ×ショウタイム。しかしその旅の途中、嵐に見舞われ、目を覚ますと無人島に漂着していて……！？",
+  "outline_cn": "Wonderlands×Showtime在音乐堂的公演大获成功,随后乘游艇前往下一个宣传公演地点。然而途中遭遇风暴,醒来时发现竟漂流到了无人岛上……！？",
+  "summary_cn": "Wonderlands×Showtime在前往公演途中遭遇风暴,漂流至无人岛。面对困境,成员们乐观开展生存挑战。期间,宁宁在同伴与虚拟歌手的鼓励下克服恐惧,众人更发挥特长,利用演技巧妙化解了猴群抢食的危机。夜谈中,大家虽意识到追求梦想终将导致分离,但决心更加珍惜当下的羁绊。经历此次历练,团队默契达到新高度。最终救援到来,众人带着在绝境中获得的成长与勇气,自信地奔赴下一场舞台。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "見慣れぬ海岸で",
+      "title_cn": "在陌生的海岸",
+      "summary_cn": "宁宁在海边醒来,与笑梦、司、类及宁宁机器人汇合。众人回忆起原本是乘坐笑梦二哥晶介的游艇前往冲绳进行宣发公演,途中却遭遇风暴遇难。此时,虚拟歌手们通过司仅存的手机联系上众人表示担忧。随后大家在海滩上发现了被海藻缠住的晶介,虽人无大碍,但类检查后发现游艇引擎已损坏,众人无法离开。面对被困无人岛的现状,笑梦兴奋地宣布开始荒岛求生,司则陷入了绝望。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "無人島サバイバル！",
+      "title_cn": "无人岛生存挑战！",
+      "summary_cn": "众人面对无法通讯且游艇引擎损坏的现状感到不安，晶介安慰大家外界发现失联后定会派来救援，并承诺无论如何都会设法举办公演，随后便去检查无线电。类决定优先确保衣食住行。此时虚拟歌手们现身，连提议躲进“世界”，但类因不能丢下晶介而拒绝。在MEIKO的鼓励下，大家决定将此视为难得的冒险并积极面对。因缺乏淡水和食物，加上宁宁机器人出现故障需留守协助晶介，类带领众人进入森林寻找水源和食材，虚拟歌手们也一同随行协助警戒。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "未開の森へ",
+      "title_cn": "深入原始森林",
+      "summary_cn": "众人深入森林寻找食材,宁宁对环境感到害怕,其他人却兴致勃勃。司险些误食毒蘑菇被类制止,笑梦则带回了浆果。搜寻中类察觉草丛有异样但未深究。随后大家发现了能充饥的香蕉,因位置过高无法跳跃摘取,在连和类的提议下,众人决定搭起类似叠罗汉的人梯,由宁宁担任顶层去采摘。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "届かないバナナ",
+      "title_cn": "够不到的香蕉",
+      "summary_cn": "宁宁在由众人搭建的人梯顶端尝试采摘香蕉,途中司突然想打喷嚏引发惊险一幕,但在大家的鼓励与保护承诺下,宁宁鼓起勇气成功摘得了香蕉。然而还没来得及庆祝,一群猴子突然出现抢走了香蕉并对众人进行挑衅。为了夺回赖以生存的主食,司愤怒地带头追赶,而在追逐过程中,类表示想到了一个能夺回香蕉的秘策。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "猿、捕獲作戦！",
+      "title_cn": "猴子捕获作战！",
+      "summary_cn": "司试图抓捕猴子夺回香蕉却屡屡失败，还遭到猴群嘲弄。类随即提出利用大家擅长的演技实施“秘策”：假装放弃香蕉，转而向猴子强调桶里采集的坚果野菜是唯一的“生命线”，诱导贪婪的猴子前来抢夺，再用藤蔓与旧渔网制成的网将其捕获。计划由曾被抢夺过的宁宁担任诱饵手持水桶，司负责假装放弃，类与笑梦负责撒网。起初宁宁对面对野生动物感到恐惧，但在MEIKO等虚拟歌手的鼓励下，她将此与克服舞台紧张相类比，最终鼓起勇气配合演出，成功引诱猴群靠近。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "思いがけない贈り物",
+      "title_cn": "意想不到的礼物",
+      "summary_cn": "捕获作战大获成功,众人顺利抓住了所有猴子。在虚拟歌手的夸奖下,宁宁对自己能克服恐惧感到欣慰。笑梦推测猴子因饥饿才抢食,提议分享坚果,宁宁便释放猴群并赠予食物。出乎意料的是,猴群折返并送来大量水果回礼,类推测它们其实只是把抢夺当成游戏。告别猴群后,众人回到海边与收集了海鲜的宁宁机器人汇合。得知晶介仍在船上修理无线电,大家决定不打扰他,齐心协力搭建大本营准备给他一个惊喜。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなで一緒に",
+      "title_cn": "大家在一起",
+      "summary_cn": "众人在类和司搭建的豪华营地共进晚餐,宁宁感慨在同伴身边不再感到恐惧。席间大家谈及各自的梦想:司渴望成为世界巨星,类希望能做出让所有人展露笑容的演出,宁宁则立志成为世界级音乐剧演员。晶介的一句话让众人意识到追逐梦想终将导致分别,气氛一度沉重。此时宁宁鼓起勇气表示,正因未来可能分离,才更要珍惜当下四人共度的时光,大家随即重拾决心,约定继续携手前行。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "最高のチームワークで！",
+      "title_cn": "展现最棒的团队合作！",
+      "summary_cn": "次日清晨，司率先开始发声练习，众人决定为了随时可能到来的公演进行排练。合练中大家发现彼此的默契达到了前所未有的高度，类特别称赞宁宁表现出的恐惧感十分逼真。宁宁意识到经过荒岛求生的历练，曾经对舞台的恐惧已不算什么，正如MEIKO所言，艰难的经历终将成为养分。此时晶介修好了无线电引来了救援直升机，并告知大家明天就能替补因风暴取消的活动进行公演。尽管身体疲惫，但大家士气高昂，一同喊出“Wonderhoy”为明天的舞台鼓劲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_island_2022/event_island_2022_08.webp"
+    }
+  ]
+}

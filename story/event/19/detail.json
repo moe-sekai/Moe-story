@@ -1,0 +1,74 @@
+{
+  "event_id": 19,
+  "title_jp": "シークレット・ディスタンス",
+  "title_cn": "秘密距离",
+  "outline_jp": "スランプに陥ってしまった奏に気晴らしをしてもらおうと、瑞希はミステリーツアーを計画する。\nそして、25時、ナイトコードで。のメンバーで初めての小旅行に出かけることになるのだが……？",
+  "outline_cn": "为了让陷入创作瓶颈的奏转换心情，瑞希策划了一场“神秘之旅”。于是，25时，在Nightcord。的成员们就这样踏上了初次的小旅行，然而……？",
+  "summary_cn": "因奏陷入创作瓶颈，瑞希提议全员进行“灵异地点神秘之旅”以寻找灵感并增进了解。旅途中，成员们在惊吓与互动中展现了不同的一面，奏也成功找回了作曲思路。在终点的樱花树下，瑞希深感与同伴共度的时光弥足珍贵，萌生了想要长久在一起的愿望。然而，内心深处的秘密让瑞希对此感到恐惧与矛盾，认为坦白只会导致关系破裂。最终，面对绘名敏锐的关心，瑞希选择掩饰真心并匆匆逃离，独自背负着无法言说的沉重秘密。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "もっと知りたい",
+      "title_cn": "想要了解更多",
+      "summary_cn": "25时全员完成新曲制作后，绘名积极展示了新作草图，但奏表示下一首曲子的构思受阻，需要更多时间。瑞希意识到成员们虽然经常共事却互不了解，为了增进关系，瑞希想要策划一次灵异地点巡游，但正苦恼于如何说服大家。次日，奏罕见地主动召集大家前往“无人的世界”。瑞希担心地赶到后，奏一脸严肃地向大家道歉，坦白自己没能做出下一首曲子的Demo。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "奏のスランプ",
+      "title_cn": "奏的瓶颈",
+      "summary_cn": "奏确认陷入创作瓶颈，真冬对此表示不满，绘名则出言维护。初音和铃建议尝试新事物，此时MEIKO突然现身，虽态度冷淡表示只在旁观察，瑞希仍热情介绍了成员。顺应尝试新事物的建议，瑞希提议去“一日神秘之旅”来激发灵感。为了能继续作曲，奏接受了提议，真冬和绘名也表示同意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "いざ、ミステリーツアー！",
+      "title_cn": "出发，神秘之旅！",
+      "summary_cn": "瑞希带领大家踏上“神秘之旅”，目的地竟是深山的灵异隧道。虽然绘名十分抗拒，但在真冬为了帮奏突破创作瓶颈的坚持下，全员还是进入了隧道。途中瑞希讲述了“长发女鬼喊痛”的传说，绘名更是被一只狸猫吓得不轻。随后大家发现奏突然失踪，瑞希和真冬折返寻找，留下绘名落单。绘名在出口附近看到一个人影以为是奏，却听到对方低吟“好痛”，意识到那正是传说中的女鬼，顿时发出惨叫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "初めて知る表情",
+      "title_cn": "第4章【初次见到的神情】",
+      "summary_cn": "绘名的尖叫引来同伴，原来被她当成“女鬼”的人影其实是刚才扭伤脚的奏，误会解开后瑞希觉得大家展现出的陌生一面很新鲜。由于奏仍未找到作曲灵感，众人前往下一站“诅咒的断缘神社”。瑞希讲述了死于火灾的姐妹会诅咒关系亲密之人的传说，并询问大家是否有如此重视的人。尽管绘名和瑞希都有兄弟姐妹，但大家都表示没有达到那种执念的程度。瑞希调侃大家作为“同类”很安全，随后为了寻找灵感，一行人前往最后一个地点。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "最後の心霊スポット",
+      "title_cn": "最后的灵异地点",
+      "summary_cn": "在“无人的世界”，MEIKO表示为了看清成员们尤其是瑞希深藏的心事，选择保持距离观察，并指出瑞希与真冬在某种程度上很相似。现实中，众人抵达最后一站——传说中有钢琴天才因不堪重负而亡的废弃校舍。真冬听闻传说后竟表示“那样变得孤身一人或许更轻松”，随即独自走向校舍消失了踪影。瑞希让奏和绘名在门口等待，独自前往寻找，回想起真冬消极的话语，心中涌起强烈的不安，决定深入校舍探查。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "同じ桜なのに",
+      "title_cn": "明明是同样的樱花",
+      "summary_cn": "瑞希在“无人的世界”搜寻无果，MEIKO指出瑞希十分珍视现在的同伴，瑞希坦承希望能继续与大家在一起。回到现实后，瑞希与绘名在一棵盛开的巨大樱花树下找到了真冬和奏。望着樱花，瑞希忆起过去孤独时眼中的景色总是晦暗无光。此时，听到真冬与绘名感叹樱花谢幕得过于完美甚至是“狡猾”，对比自身的挣扎，瑞希恍然大悟：正是因为与大家一同观赏，如今的樱花才显得如此美丽。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ひと時の幸福",
+      "title_cn": "片刻的幸福",
+      "summary_cn": "众人看着樱花畅想若同在一个班级的情景，谈论起奏不擅长体育、真冬只给作业答案以及绘名作画时的怪癖，气氛轻松愉快。奏向瑞希道谢，表示通过鬼故事意识到了世上还有许多未被拯救的孩子，从而找回了作曲灵感，真冬也认为这段经历颇为有趣。看着大家开心的笑颜，瑞希本想约定“明年再一起来”，话到嘴边却因内心莫名的阻碍而无法说出口，最终只能以“忘了要说什么”掩饰过去，怀着困惑随众人离开。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "隠した気持ち",
+      "title_cn": "隐藏的心意",
+      "summary_cn": "归途的电车上，看着熟睡的同伴们，瑞希意识到自己第一次产生了“明年也想和大家在一起”的愿望。然而，内心深处的恐惧让瑞希明白，若想维持长久的关系就必须坦白自己的秘密，但过往的经历让其深信这只会是徒劳。瑞希对自己明明隐瞒最深却提议“互相了解”感到自嘲。回到市区后，绘名察觉到瑞希在车上流露出的落寞神情并试图关心，瑞希却故作轻松地以疲劳为由拒绝了聚餐邀请并匆匆离开，留下绘名独自确信那份违和感并非错觉。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_secret_2021/event_secret_2021_08.webp"
+    }
+  ]
+}

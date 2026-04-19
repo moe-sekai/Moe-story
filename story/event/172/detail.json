@@ -1,0 +1,74 @@
+{
+  "event_id": 172,
+  "title_jp": "Deeper and deeper",
+  "title_cn": "愈发深沉",
+  "outline_jp": "アークランド主催のワークショップに参加することになったワンダーランズ×ショウタイム。そこで演出家向けのコースに参加した類は、今まで自覚していなかった課題と向き合うことになり——。",
+  "outline_cn": "Wonderlands×Showtime决定参加由Arkland主办的工作坊。参加了演出家课程的类,将在那里直面自己至今从未意识到的课题——。",
+  "summary_cn": "Wonderlands×Showtime前往Arkland参加工作坊，类在演出家课程中师从偶像汤姆·格雷与名导榊黄龙。尽管技巧娴熟，类的作品却被榊评价为“无聊”且缺乏深度。在目睹汤姆作品的世界观后，类深感差距并陷入瓶颈，直到汤姆指出他为了照顾观众而无意中压抑了自身真实的情感。类决心突破自我，将自己童年的孤独与对同伴的珍视融入剧本，创作出以“渴望融入人类的怪物”为主角的剧目。最终演出中，类展现出的真实情感与热度获得了汤姆的高度赞扬，他也决心将这次挖掘内心的经历化为未来创作的养分。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "思わぬチャンス",
+      "title_cn": "意想不到的机会",
+      "summary_cn": "Wonderlands×Showtime来到东京Arkland,惊叹于那里的高科技设施。此次他们受庆介等人安排,前来参加Arkland内部举办的高水平工作坊以磨练技艺。老熟人旭作为向导迎接了他们,并透露此次有外部特别讲师参与。在说明会上,众人得知指导演员组的皆是国际知名的顶尖大腕,而类也对即将公布的演出家课程讲师充满期待,决心把握住这次难得的机会。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "憧れ",
+      "title_cn": "憧憬",
+      "summary_cn": "说明会上，著名演出家榊黄龙作为首位特别讲师登场，类在惊叹其才华的同时，竟隐约在他身上感到一丝莫名的熟悉感。回到“世界”后，类向虚拟歌手们透露，另一位将远程授课的讲师竟是他自幼憧憬的偶像——汤姆·格雷。面对能受教于这位立志用演出连接万人的大师的梦幻机会，类感到有些不真实，但在伙伴与虚拟歌手的温暖鼓励下，他决心抓住机遇，全力以赴地学习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "“つまらない”",
+      "title_cn": "“无聊”",
+      "summary_cn": "研讨会正式开始，类憧憬的汤姆·格雷通过屏幕远程授课。讲师发布了为期一月的最终课题后，先布置了以“雨”为主题、由旭担任演员的短剧作为热身。一周后，类呈上了讲述植物学家寻找雨中之花的短剧，汤姆对此表示赞赏并指出了其中对自己作品的致敬。然而，榊虽然肯定了类超乎高中生的技巧与客观性，最后却冷酷地指出该作品缺乏深度，直言类做出的东西十分“无聊”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "埋まらぬ差",
+      "title_cn": "无法填补的差距",
+      "summary_cn": "研讨会结束后,榊虽肯定了类的才华,却也指出他有着不同的特质,这让类意识到自己作品在深度与独创性上的不足。随后伙伴们到来,一同观摩由旭主演、汤姆·格雷执导的舞台剧排练。剧中讲述了孤独青年通过消除幽灵们的留恋与他们告别的故事。看着这出展现了生离死别与幸福真谛的剧目,类深刻体会到了偶像作品中那无法仅靠模仿技术企及的世界观深度,痛感自己与顶尖水平之间存在着目前尚不知如何填补的巨大差距。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "悪夢",
+      "title_cn": "噩梦",
+      "summary_cn": "类为了创作出像汤姆那样具有深度的演出，反复推翻自己的剧本，认为它们只是乏味的拼凑。尽管队友们担心他日益明显的疲态，类仍坚持独自死磕。他在“奇幻的世界”小憩时被诡异的噩梦缠绕，幸得巡音流歌唤醒。流歌通过谜语点拨类：身处噩梦不自知时，需借他人之力唤醒。这让类意识到自己已陷入瓶颈，决定不再独自苦恼，转而尝试借助身边可靠之人的力量来寻找突破口。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "自分自身",
+      "title_cn": "你自己",
+      "summary_cn": "类与汤姆进行远程面谈,坦白自己无法创作出如《Goodbye Ghost》般触动人心的作品,质疑创作方向有误。汤姆指出类为了照顾观众的共鸣,无意中压抑了自己的感情,而要赋予作品深度,必须融入演出家自身真实甚至生涩的情感与经历。类回想起童年的孤独与对伙伴的珍视,意识到自己曾因恐惧不被接受而设限。在得知汤姆也将亲身经历融入剧作后,类决心不再自我压抑,尝试将内心深处的情感投入创作以突破瓶颈。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "開幕",
+      "title_cn": "开幕",
+      "summary_cn": "课题发表当日，成员们准备上演类倾注了全部心血与“答案”的新剧目。演出正式开始，榊与汤姆也在台下注视。剧目讲述了一个强大却空虚的“怪物”伪装成人类，被吟游诗人的歌声打动而拜师，通过歌唱逐渐融入人类社会并在心中萌生了新的情感。成员们运用学到的技巧细腻演绎。然而剧情中途，一名猎人突然现身，警告镇民残忍的怪物混迹其中，故事在紧张的氛围中迎来了转折。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "この手に掴んだもの",
+      "title_cn": "手中紧握之物",
+      "summary_cn": "司饰演的怪物在剧中面对宁宁饰演的猎人,坦白了自己无法改变的本性,却表达了因眷恋人类的笑容而渴望留下的心愿,甚至甘愿为此付出代价。最终猎人决定暂缓处决以见证其真心,故事以怪物不再孤独作结。讲评中,榊虽指出剧目对乐园而言过于生涩沉重,但汤姆高度赞扬了其中蕴含的真实情感与热度。类虚心接受了建议,决心将这段融入自身经历的创作经验化为养分,而榊也预感到未来与类的交锋将变得有趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_deeper_2025/event_deeper_2025_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 190,
+  "title_jp": "この物語は希望をのせて",
+  "title_cn": "承载希望的这个故事",
+  "outline_jp": "LUMINAグランプリ予選はいよいよ最終局面へ！予選を勝ち上がろうと燃えるMORE MORE JUMP！だが、最後のお題は『出張チームライブ』！？一筋縄ではいかないお題に、遥は指揮を執り挑むものの——。",
+  "outline_cn": "LUMINA大奖赛预选赛终于进入最终局面！MORE MORE JUMP！为了突破预选赛燃起斗志,但最后的课题竟然是『出差团队演出』！？面对这棘手的课题,遥带头挑战,然而——。",
+  "summary_cn": "LUMINA大奖赛预选赛迎来最终课题“出差团队演出”，遥所在的混合队伍需前往补习班进行表演。面对因备考压力而焦虑的学生，遥在请教柊后意识到单纯的加油只会适得其反。她带领团队打破常规，通过分享自身经历构建“希望的故事”，优先通过互动缓解学生压力而非追求比赛效果。这份真诚最终打动了考生与评委，演出大获成功。MMJ以第二名成功晋级决赛，落选队友Hikarin也因遥的鼓励重拾追梦勇气，遥决心背负着众人的支持在决赛中全力以赴。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "最後のLUMINAタイム",
+      "title_cn": "最后的LUMINA TIME",
+      "summary_cn": "LUMINA大奖赛预选赛即将结束,MMJ虽人气上升但目前仅推测排名第六。遥计划在仅剩的两周内利用受众广阔的「LUMINA TIME」环节逆袭进入前四。然而官方突然宣布这是最后一次展示机会,课题为「出差团队演出」。选手们需跨组合组队,前往受灾农园或萧条温泉街等非常规场所举办活动。正当众人困惑时,主办方有泽现身准备阐述该课题的真正意图。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "込められた意図",
+      "title_cn": "蕴含的意图",
+      "summary_cn": "有泽阐述了课题的真正意图：组队是为了让互为竞争对手的偶像们成为彼此的支柱，而前往萧条场所演出则是为了证明自己拥有能向身处黑暗、甚至对偶像无感的人传递希望的“真正的偶像”之力。分组结束后，F队的Hikarin自告奋勇依靠“强运”抽签，最终抽到的演出地点竟然是“补习班”，这让遥等人颇感意外。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "頑張り続けるみんなに",
+      "title_cn": "致坚持努力的大家",
+      "summary_cn": "遥为了解现场氛围，带领团队前往演出地点的补习班考察。她们发现备考的小学生们因模拟考成绩不佳而士气低落，甚至对未来感到焦虑。补习班校长解释邀请偶像演出是为了在“考前誓师兼圣诞派对”上帮助学生缓解压力、转换心情。回到练习室后，成员们一致推举遥为队长。大家在讨论场地狭小等演出难题的同时，深受孩子们努力却痛苦的身影触动，决心通过表演为这些拼命努力的孩子们带去元气与希望。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "作戦会議！",
+      "title_cn": "作战会议！",
+      "summary_cn": "遥带领众人讨论演出内容，起初大家提议用快节奏歌曲鼓舞考生，但遥感到违和，雫和爱莉也指出对焦虑的学生强行“加油”只会适得其反。遥意识到不应被“演唱会”的形式束缚，真正的目的是传递希望，于是提议加入谈话或游戏环节来放松学生心情。尽管减少表演时间可能影响比赛评价，大家仍一致决定优先考虑如何让孩子们重拾希望。随后，遥建议由爱莉等擅长应对孩子的成员带头，分组构思具体的活动方案。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "俯瞰",
+      "title_cn": "第5章【俯瞰】",
+      "summary_cn": "遥带领团队筛选出了十个互动方案，但针对儿童的调研结果票数过于分散，导致无法定夺。不愿妥协的遥前往「世界」商谈，镜音连指出她过于代入考生视角容易当局者迷，建议尝试“俯瞰”全局来审视企划。受此启发，遥意识到需要更宏观的视野，于是决定去请教那位虽处于对立立场、但比任何人都拥有广阔视野且渴望传递希望的人——柊。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "相対するは",
+      "title_cn": "面对之人",
+      "summary_cn": "遥在电视台找到ReLight的制作人柊寻求建议。面对柊的质疑，遥指出他是最懂传递希望的人，且两队此刻利益与共。柊最终指点道，企划的关键在于能否为难以向前的人开辟一条重信“希望的故事”的道路。遥据此完善了方案，尽管Arisa指出该方案缺乏直播效果，但在遥和千春坚持“优先为眼前的孩子们传递希望”的决心下，全员达成共识。Arisa也被众人的信念打动，决定一同全力以赴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "君に希望の物語を",
+      "title_cn": "为你献上希望的故事",
+      "summary_cn": "活动当天，遥虽紧张但在爱莉鼓励下振作。面对冷淡的考生，Hikarin与千春率先分享自身应试经历拉近距离，这正是遥实践柊的建议：通过展示共性构建可信的“希望的故事”。随后爱莉主持交流，遥以自身克服恐惧的经历鼓励焦虑的男孩，成员们也纷纷传授减压技巧并肯定孩子们的努力。真诚的互动成功改善了现场氛围，令主办方有泽刮目相看，遥见策略奏效，决心全力投入最后的演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "岐路",
+      "title_cn": "歧路",
+      "summary_cn": "演出最后,千春为了给考生传递最大的希望,主动提议全员表演MMJ的歌曲《Yell for you！》并甘当配角。遥深受感动,带领众人通过真诚的演讲与互动成功鼓舞了孩子们,令有泽和柊也表示认可。三天后结果公布,ReLight与MMJ分获第三、第二名晋级决赛。赛后,遥和实乃里发现落选的Hikarin独自落泪,Hikarin表示被遥的话语鼓舞,决心继续追梦。遥意识到这是众人合力创造的奇迹,决心背负着这份支持在决赛全力以赴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hope_2025/event_hope_2025_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 119,
+  "title_jp": "逆光のレンズフレア",
+  "title_cn": "逆光的镜头光晕",
+  "outline_jp": "次なるワンダーランズ×ショウタイムの挑戦は映画のエキストラ！これまでとは違い、カメラを通じて表現する経験に意欲的な一同の中、類も新たなジャンルの演出を学ぶことに胸を躍らせていたが……。",
+  "outline_cn": "Wonderlands×Showtime接下来的挑战是担任电影群演！面对与以往不同、通过镜头进行表现的体验,成员们干劲十足。其中,类也因能学习新类型的演出而心潮澎湃,然而……",
+  "summary_cn": "Wonderlands×Showtime全员在电影拍摄现场担任群演,因剧组人手不足转而协助幕后工作。神代类借此向严厉的大原导演学习电影演出技巧,并凭借出色能力成为助手。拍摄高潮戏份时,主演獏野历的演技陷入瓶颈。受神秘访客指点及凤笑梦无心之言的启发,类意识到原作台词限制了演员发挥。最终,导演采用完全删去台词的大胆手法完美呈现了场景,令众人深受震撼。此次经历不仅让类领悟了新的演出境界,也使其引起了那位神秘访客的注意。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "次なる舞台は…",
+      "title_cn": "下一个舞台是……",
+      "summary_cn": "Wonderlands×Showtime来到横滨的电影拍摄现场担任群演,感受到了专业现场的严肃氛围。他们遇到了担任主演的熟人獏野历,獏野虽因首次主演电影而紧张,但仍向大家介绍了才华横溢的导演大原友己。獏野提醒众人,大原导演虽作品优秀,但对制作过于狂热,常有强人所难之举。类对此表示理解,并期待能通过观察导演的现场指挥和獏野的演技学到新的演出知识。随着工作人员的召唤,成员们鼓足干劲准备正式开始拍摄。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "クランクイン",
+      "title_cn": "第2章[开机]",
+      "summary_cn": "电影正式开机,成员们发现电影并非按剧情顺序拍摄,而是跨越章节统筹安排。目睹獏野历在不同场次间精准切换截然不同的情感,大家深刻体会到了电影演员的专业性与难度,类也对此深感触动。拍摄结束后,虽然司因怕虫导致NG而懊恼不已,但众人都感到获益匪浅。正当成员们与獏野交流心得并称赞其演技时,大原导演突然出现在众人面前。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "思いがけぬ提案",
+      "title_cn": "意想不到的提议",
+      "summary_cn": "大原导演因剧组人手不足，邀请Wonderlands×Showtime众人作为制作人员协助拍摄。成员们认为这是学习电影制作与演出的良机，便欣然接受并在“世界”中告知了虚拟歌手们。数周后，尽管工作繁重且常被导演训斥，类也推测出他们是填补了受不了导演而离职者的空缺，但大家仍感到获益匪浅。拍摄间隙，类贴心地整理了新旧台本供导演对比，其优秀的工作能力令导演和副导演刮目相看。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "一歩先に",
+      "title_cn": "先行一步",
+      "summary_cn": "拍摄休息期间,类感叹导演利用灯光表现人物心境的高超手法。大原导演主动找类观看回放,并教导他电影能通过多角度运镜引导观众印象,与固定视点的舞台不同。类表示为了实现跨越隔阂的演出,希望能吸收所有领域的技巧,请求导演倾囊相授。被类的气魄打动,大原决定收类为助手并对他进行更严格的指导。暗中观察的铃看到两人关系融洽,决定继续为众人应援。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "映画の手法",
+      "title_cn": "电影的手法",
+      "summary_cn": "类在片场积极向大原导演请教,领悟了利用环境进行演出的手法。数周后,剧组迎来机场高潮戏份的拍摄,这是主角挽留身患绝症姐姐的重要场景。然而拍摄并不顺利,导演指出獏野历的演技虽极力适应镜头却失去了原有的爆发力,再次尝试后仍显违和。导演意识到单纯微调演技无法解决问题,遂决定推迟该场景的拍摄。为了不让高潮戏份留下遗憾,类决心在明日重拍前找出导致效果未达预期的根本原因。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "見えない出口",
+      "title_cn": "看不见的出口",
+      "summary_cn": "拍摄结束后，成员们惊叹于獏野历切换情感的演技，但獏野为准备明日重拍的高潮戏份婉拒了聚餐。类前往协助导演剪辑，两人确认仅靠调整镜头无法改善该场景。此时，导演的一位同为舞台演出家的旧友突然造访，看过回放后，他指出应当“更配合獏野历来制作”。尽管导演反驳剧本本就是为獏野量身定做，但这番话让类意识到，这位访客察觉到了他们尚未发现的关键症结。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最後の日",
+      "title_cn": "最后的一天",
+      "summary_cn": "拍摄最后一日，类彻夜研究却仍未找到改善高潮戏份的关键。午休时，笑梦关于“根据个人喜好定制便当”的无心之言让类茅塞顿开。类急忙去找大原导演，指出问题在于完全照搬原作小说的台词限制了獏野历的发挥。导演表示自己也得出了相同结论，但他笑着指出类的想法虽然正确却依然“天真”，并表示自己构思了比修改台词“更进一步”的演出方案，准备向众人展示真正的电影导演的手段。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "この先に進むために",
+      "title_cn": "为了迈向前方",
+      "summary_cn": "重拍的高潮戏份中，导演采用了完全删去獏野历台词的大胆手法，仅靠其神情与气息完美演绎了角色的复杂心境，令众人深受震撼。类在钦佩导演技艺的同时，也为接触到新的演出世界感到喜悦。数周后，成员们与铃一同观看了粗剪样片。獏野向类致谢，表示这让他得以成长；导演也认可了类的能力，欢迎他再来协助。虽然类未及询问神秘访客的身份，但在众人离开后，该访客现身并得知类理解了他晦涩的建议，从而对“神代”产生了兴趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_lensflare_2024/event_lensflare_2024_08.webp"
+    }
+  ]
+}

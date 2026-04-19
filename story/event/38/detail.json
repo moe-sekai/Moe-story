@@ -1,0 +1,74 @@
+{
+  "event_id": 38,
+  "title_jp": "Revival my dream",
+  "title_cn": "重拾旧梦",
+  "outline_jp": "盛況な内に終了した第１回目の宣伝大使に引き続き、第２回目のショーを行うことになる司達。\n開催場所について聞いた類は、あるショーと演出を提案する。\nそれはかつて、子供の頃の類が断念したもので……？",
+  "outline_cn": "继作为宣传大使的第一场演出圆满结束后,司一行人即将举办第二场演出。在得知举办地点后,类提议了一个特定的演出剧目和编排。那竟然是类在孩童时期曾经放弃过的东西……？",
+  "summary_cn": "Wonderlands×Showtime受托在凤家宅邸公演,场地的大榉树勾起了神代类对童年挫折的回忆。曾因追求独特演出而被孤立的类,在司、笑梦和宁宁的坚定信任下,决定重启当年因不被理解而封印的剧本《城镇之民与森林之民》。该剧讲述跨越隔阂的故事,正如类渴望通过舞台连接人心的愿望。在伙伴们的全力配合与安全保障下,包含高难度特技的演出大获成功。类看着梦想在现实中达成,终于释怀了往日的孤独,确信自己已通过演出与同伴建立了无可替代的羁绊。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "洋館とケヤキのステージ",
+      "title_cn": "洋馆与榉树的舞台",
+      "summary_cn": "庆介告知众人首次宣传公演大获成功,并委托他们在即将成为重要文化遗产的凤喜一郎宅邸庭园举办第二回公演。得知该地是有名的历史建筑,类难掩兴奋,但看到地图上的大榉树时,他似乎回忆起童年受挫的经历而神色黯淡。察觉异样的笑梦、司和宁宁纷纷表示愿成为他的力量。感受到同伴信任的类,确信如今的自己能完成那个曾放弃的梦想,便自信地提出了适合该庭园的演出方案。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "町の民と森の民",
+      "title_cn": "城镇之民与森林之民",
+      "summary_cn": "类讲述了本次演出的剧本:在相互对立的城镇与森林之间,一名军官与森林少女跨越隔阂建立了友谊。故事的高潮是少女为了解救被陷害囚禁的军官,奋力从树上跳向高窗,最终两人携手化解了战争。宁宁认出这是类十年前因受挫而放弃的剧本,欣慰他终于走出了阴影。笑梦兴奋地接下了少女的角色和跳跃特技,类也做好了安全措施。在连等人的追问下,类开始讲述这个童年构思的由来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ひとりぼっちのガレージで",
+      "title_cn": "孤身一人的车库",
+      "summary_cn": "十年前，年幼的类因沉迷昆虫构造和制作机器人，无法被同学理解而感到孤独。母亲安慰他“人是人，自己是自己”，只要坚持所爱终会遇到同伴。不久后邻居搬来了怕生的宁宁，类受托照顾她。虽然类试图分享机器人和科普书籍，但宁宁只想独自看绘本。类想起母亲的教诲，接受了宁宁的冷淡态度，两人的初次相处在疏离中结束。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "ふたり一緒のステージで",
+      "title_cn": "两人共同的舞台",
+      "summary_cn": "儿时的类在母亲建议下与宁宁一同观看《小美人鱼》，深受舞台表现手法的自由与“魔法”震撼。演出不仅让类沉迷，更让他与原本疏离的宁宁因共同的感动而敞开心扉，两人甚至忘我地在充气泳池中重演剧目。此后，类通过演出家访谈领悟到演出具有“跨越隔阂、连接人心”的力量。为了不再孤独并与他人建立羁绊，类决定将宁宁留下的绘本《城镇之民与森林之民》改编成剧本，由此开启了他的创作之路。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "越えられなかった垣根",
+      "title_cn": "无法跨越的隔阂",
+      "summary_cn": "类回忆起童年往事:他曾邀请同学排演该剧本,起初大家兴致勃勃,但当类提出从树上跳向阳台的特技时,同学们因恐惧而退缩。尽管类亲自示范了安全性,但他对演出的疯狂执着反而被视为异类,遭到排挤。失落的类在宁宁的安慰下,决定坚持自己的风格。回到现在,类坦言曾因不被理解而封印此剧,但如今信任伙伴们对演出的热情,他决定重启剧本并增加高难度动作,众人对此给予了热烈的回应与支持。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "信じてくれるから",
+      "title_cn": "第6章[因为有你们的信任]",
+      "summary_cn": "众人前往凤家宅邸庭园进行实地排练,镜音铃也现身观看。面对铃的担忧,宁宁和司表示类虽看似鲁莽,但作为演出家非常可靠。练习中笑梦意外失足,幸得类特制的缓冲救生索保护而安全落地。看到笑梦因信任自己而毫无畏惧地要求再次尝试,类深受感动,感叹正是伙伴的信任赋予了道具意义,于是重整旗鼓继续指导众人练习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "跳び越えろ！",
+      "title_cn": "第7章[跨越吧！]",
+      "summary_cn": "演出在凤家宅邸庭园正式开幕,观众反响热烈。剧目讲述了一名军官在森林迷路后被森林少女相救,两人跨越立场建立友谊,并试图通过交换宝物缔结和平条约。然而,企图夺取森林资源的大臣部下将军官囚禁,并挑拨双方开战。得知危机的少女坚信军官并非背叛者,毅然前往营救。面对被囚禁在高处的军官,少女决心从树上跳向窗户以解救他。在这一高潮的一幕中,少女请求军官相信自己,并在类与伙伴们的注视下,勇敢地准备跨越那道阻碍。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "在りし日の夢に喝采を",
+      "title_cn": "为往日的梦想喝彩",
+      "summary_cn": "演出圆满结束，少女成功跳跃救出军官，观众反响热烈。但在后台，类却异常平静地独自去收拾道具。笑梦担心自己出错，司也觉得反常，众人追问原因。类坦言大家表现完美，自己只是因过于感动而不知所措。宁宁鼓励他说出来，类表示自己曾因无法融入他人而难以实现“跨越隔阂”的演出梦想，如今有了伙伴终于圆梦，感到无比幸福。面对伙伴们对下一场演出的期待，类笑着开始了新的构思。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_revival_2021/event_revival_2021_08.webp"
+    }
+  ]
+}

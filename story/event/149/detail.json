@@ -1,0 +1,74 @@
+{
+  "event_id": 149,
+  "title_jp": "The Power Of Regret",
+  "title_cn": "悔恨的力量",
+  "outline_jp": "いよいよ最後の修行先・森ノ宮歌劇団にやってきた寧々達。ここでもいい経験をして成長したい！と意気込む寧々だったが、男女別のチーム編成や、えむが運営の勉強をする関係で、ひとりで稽古に挑むことになり……！？",
+  "outline_cn": "宁宁等人终于来到了最后的修行地——森之宫歌剧团。宁宁充满干劲,想要在此积累经验并获得成长,但由于男女分开组队以及笑梦要学习运营知识,她不得不独自一人面对排练……！？",
+  "summary_cn": "宁宁随团前往森之宫歌剧团修行,被迫独自进入女子部面对残酷的公演选拔。起初她因环境冷酷而迷茫,但在劲敌白虎町的斥责下觉醒,领悟了全力争胜才是对竞争者的尊重。在最终选拔中,宁宁展现了独特且精彩的演技,虽遗憾败给白虎町错失主角,但两人因相互激发斗志而惺惺相惜。宁宁将这份不甘转化为动力,决心作为幕后人员支持公演,通过此次修行获得了真正的成长。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "いざ！森ノ宮歌劇団！",
+      "title_cn": "进发！森之宫歌剧团！",
+      "summary_cn": "Wonderlands×Showtime众人来到著名的森之宫歌剧团,被其豪华的剧场和悠久历史所震撼。工作人员有田接待了他们,并安排笑梦单独学习剧团运营。随后有田告知,因公演保密需要,众人无法直接与剧团成员合练,而是进入其附属的森之宫音乐学园受训。由于学园男女分班,司和类进入男子部,宁宁则需独自在女子部学习。尽管大家被迫分开修行,宁宁仍将其视为宝贵机会,鼓起勇气踏入了教室。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "森ノ宮音楽学園",
+      "title_cn": "森之宫音乐学园",
+      "summary_cn": "宁宁在森之宫音乐学园开始了第一天的课程。尽管班级纪律严明,但同学们对她颇为友善。作为年级首席的班长白虎町告诫宁宁,在这里必须用行动展现意志。在随后的芭蕾课中,宁宁勉强跟上了高强度训练,并得知白虎町拥有被世界名导看中的实力。而在声乐课上,虽然宁宁的歌声惊艳了同学,但老师冷淡的反应让她感到不安。最后,老师宣布即将开始定期公演的选拔,并要求宁宁也必须参加,教室内的气氛瞬间变得紧张起来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ひとりで挑むオーディション",
+      "title_cn": "独自挑战的选拔",
+      "summary_cn": "班主任单独找到宁宁，说明因其声乐课表现优异，特许她参加定期公演的选拔，但也告诫她这里的学生为了登台都抱着必死的决心，必须做好心理准备。回到“世界”后，宁宁向大家报告了此事。司虽因男子部日程错开无法参加而深感遗憾，但他指出这是绝佳的成长机会，并与伙伴们一同送上声援。在大家的鼓励下，宁宁决心为了作为演员的成长，全力以赴迎接挑战。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "張りつめる空気",
+      "title_cn": "紧绷的气氛",
+      "summary_cn": "老师宣布定期公演剧目为原创悲剧《卢卡》,宁宁被主角卢卡的复杂性吸引,决心争取这一角色。班长白虎町告知选拔规则极为残酷,表现不佳者将当场失去竞争资格,且她也是卢卡一角的有力竞争者。课后,宁宁试图邀请同学练习却遭拒绝,更目睹了周围同学因竞争而互相猜忌、争吵的紧绷氛围。尽管意识到这里的环境与以往截然不同,宁宁仍坚定决心,誓要拿下角色以实现蜕变。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "脱落者",
+      "title_cn": "淘汰者",
+      "summary_cn": "《卢卡》的角色选拔正式开始，白虎町凭借对角色细腻的演绎折服了宁宁。然而指导老师极其严厉，频繁打断并更换演员，并在首日结束后直接淘汰了多名表现不佳的学生。次日，同学井村因对角色的理解被老师判定为“过于天真”而惨遭驱逐。课后，宁宁试图归还井村遗落的笔记本并出言安慰，却反被对方斥责“不需要幸存者的怜悯”。残酷的竞争与同学的敌意让宁宁倍感压抑，就在她不知所措时，镜音连察觉到了她的异样。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "ぶつかり合う覚悟",
+      "title_cn": "相互碰撞的觉悟",
+      "summary_cn": "宁宁因之前的冲突感到迷茫，镜音连在一旁安慰。白虎町出现转达了井村的歉意，但严厉指出宁宁缺乏觉悟：这里的学生为了梦想刻意收起同情心，全力竞争才是对彼此的尊重，若无法接受这种残酷便该离开。宁宁幡然醒悟，意识到自己此前抱着“来学习”的被动心态太过天真，决心不再逃避，以争夺角色的觉悟去正视竞争。回到“世界”后，宁宁在伙伴们的帮助下，针对角色“卢卡”的内心转变和死亡场景进行了深入的演技磨练。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最終日",
+      "title_cn": "最终日",
+      "summary_cn": "选拔迎来最终日,老师指定表演主角卢卡被爱人路易丝刺杀并献唱临终之歌的高潮戏码。宁宁感受到了周围同学拼死一搏的紧张氛围,决心全力以赴。在表演中,宁宁细腻地诠释了卢卡被刺后的震惊与悔恨,并不同于常人的悲戚,她选择在最后的歌声中融入对爱人的安抚与深情。这种独特的演绎令白虎町惊叹不已,不仅认可了宁宁的实力,更被激发出斗志,誓要展现出自己最完美的演技。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "本気だからこそ",
+      "title_cn": "正因全力以赴",
+      "summary_cn": "定期公演的角色分配公布，白虎町拿下了主角“卢卡”，宁宁遗憾落选。尽管感到强烈的不甘，宁宁还是接受了实力的差距并向白虎町道贺。白虎町却反过来感谢宁宁，坦言正是宁宁精彩的演绎激发了她的斗志。这番话让宁宁领悟到了通过竞争相互磨砺的真谛，决心作为幕后人员全力支持公演。两人因对戏剧共同的执着而惺惺相惜，白虎町也对宁宁所属的剧团产生了浓厚的兴趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_regret_2024/event_regret_2024_08.webp"
+    }
+  ]
+}

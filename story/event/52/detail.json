@@ -1,0 +1,74 @@
+{
+  "event_id": 52,
+  "title_jp": "Cast Spell on You",
+  "title_cn": "为你施下魔法",
+  "outline_jp": "リアルイベントを経て、ファンとの結びつきをより強くした雫達。\nこれからの活動を模索する中、『MORE MORE JUMP！のステージ衣装』を作るリクエスト企画が立ち上がり……？",
+  "outline_cn": "经历过线下活动后，雫一行人与粉丝们的羁绊变得更加牢固。在摸索今后的活动方针时，一项制作“MORE MORE JUMP!舞台服装”的征集企划启动了……？",
+  "summary_cn": "MORE MORE JUMP!确信与粉丝共同成长是未来的方向，于是发起企划，决定由成员构思并与粉丝共同制作“舞台服装”。然而，雫因顾虑过多陷入设计瓶颈。在“世界”中受初音启发，并回忆起过去演出服带来的自信，雫领悟到服装是能让人变身的“魔法”。直播中，成员们展示了各自的草图，雫提出了名为“魔法”的方案，虽未完成自己的部分，但在粉丝与队友的建议下加入了象征努力的“水滴”元素。最终，众人决定采用该方案，合力打造蕴含心意的服装。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "ファンと共に進む道",
+      "title_cn": "与粉丝共同前行的道路",
+      "summary_cn": "在直播“第二届遥的穿搭王争霸赛”时，实乃里再次获胜。观众提议让获胜者成为下次的模特或举办时装秀，这给了成员们新灵感。直播结束后，大家感叹粉丝的热情因之前的线下活动而高涨，确信与粉丝共同成长是目前最好的道路。实乃里提议举办“征集企划”向粉丝募集想看的内容，遥也认为借助粉丝的力量能拓展活动的可能性。于是众人决定采纳该提议并着手准备，雫也在心中暗下决心要更加努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "私達のステージ衣装",
+      "title_cn": "我们的舞台服装",
+      "summary_cn": "在学校天台直播征集企划时，粉丝们纷纷表示希望能再次看到演出，并提议共同制作正式的“舞台服装”。鉴于之前的演出只穿了T恤，爱莉等人采纳了该建议，决定举办“服装设计大赛”：由成员们各自构思设计图，经粉丝投票选出最佳方案后，再由擅长缝纫的粉丝协助制作。随后众人前往“舞台的世界”分享了这一计划，虚拟歌手们纷纷表示支持与期待，实乃里等人也干劲十足地回家着手准备设计。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "みんなのために",
+      "title_cn": "为了大家",
+      "summary_cn": "雫为了构思服装设计图而在房间查阅资料，却因不擅长操作手机陷入困境，幸好妹妹志步前来解围。得知雫想要“为了大家”努力设计出最好的服装，志步联想到咲希“为了乐团”创作的歌曲，鼓励姐姐怀抱这份心意的设计一定会很特别。理解创作不易的志步主动提出帮忙查找视频资料，雫感动不已，两人随即开始一同研究各种偶像的服装与舞蹈。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "それぞれのデザイン",
+      "title_cn": "各自的设计",
+      "summary_cn": "众人互相展示设计草图:爱莉的设计以爱心为主题,注重舞蹈时的视觉效果；实乃里的设计虽可爱,但因成员间概念不统一而被指出需要改进；遥的设计便于活动,却被认为缺乏个性。看着大家都有了成果,雫坦言自己因顾虑太多而毫无进展。遥安慰她不必拘泥于形式,自由构思即可。受到鼓励的雫决定重新思考,众人也决心为了回应粉丝的期待继续打磨各自的设计。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "私が作りたいものは",
+      "title_cn": "我想制作的东西",
+      "summary_cn": "雫苦恼于无法设计出满意的服装，觉得自己不像其他成员那样拥有鲜明的个人风格，于是前往“舞台的世界”。在那里，镜音铃和初音未来正受成员们启发，想要亲自筹备演唱会。雫向众人倾诉了自己虽想回应粉丝期待却缺乏灵感的迷茫。初音带雫参观了虚拟歌手们的演出服，告诉她这些服装都是由“心愿”化身而成，穿上它们就像变身成了无所不能的自己。初音鼓励雫去寻找自己想要注入服装的那份“心意”，这番话让雫若有所思。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "まるで、魔法のような",
+      "title_cn": "宛如魔法一般",
+      "summary_cn": "雫回味初音关于“服装让人变身”的话语，忆起昔日在Cheerful*Days初次登台的往事。当时她因舞步生疏而拼命加练，但在试穿演出服并被成员夸赞后，她意识到穿上服装的自己肩负着传递希望的责任。正式演出时，身着演出服的雫感到宛如被施了魔法般自信且身体轻盈，不仅完美完成了表演，更深刻体会到服装能赋予自己回应粉丝期待的力量。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "Made me Idol",
+      "title_cn": "让我成为偶像",
+      "summary_cn": "雫回想起在Cheerful*Days的往事，那时她将演出服视为能让自己变身的“魔法师”。凭借舞台表现获得的模特工作中，设计师关于“服装寄托着让人变身的魔法”的理念也深深触动了她。回到现在，雫决心要为MORE MORE JUMP!施展这种魔法。直播开始，成员们带着各自完成的设计图集结，向粉丝们宣布举办“服装设计大赛”，并由实乃里率先开始展示。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "この魔法に、想いをこめて",
+      "title_cn": "在这魔法中注入心意",
+      "summary_cn": "实乃里、遥和爱莉分别展示了天使、校服和爱心主题的设计。最后，雫展示了以“魔法”为主题的方案，为成员们量身定制了能发挥各自魅力的装饰，并加上四叶草以传递希望，但她却因迷茫未能设计自己的服装。成员与观众们提议加入“水滴”元素，象征雫背后的努力与汗水，这让雫深受感动。众人决定采用该方案，雫也提议结合粉丝意见进一步完善。感受到大家施下的“魔法”，雫决心通过这套服装将这份心意传达出去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_castspell_2022/event_castspell_2022_08.webp"
+    }
+  ]
+}

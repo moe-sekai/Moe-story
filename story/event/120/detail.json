@@ -1,0 +1,74 @@
+{
+  "event_id": 120,
+  "title_jp": "Take the Best Shot！",
+  "title_cn": "拍出最棒的照片！",
+  "outline_jp": "バレンタインに杏が欲しがっていたチョコを渡そうとするが、完売しており残念がるこはね。しかし、そのチョコがコスメブランド主催の『バレンタインフォトコンテスト』の賞品であることを知り——。",
+  "outline_cn": "心羽想在情人节送给杏她想要的巧克力，却因售罄而感到遗憾。然而，她意外得知这款巧克力竟是某美妆品牌主办的“情人节摄影大赛”的奖品——。",
+  "summary_cn": "为了给杏准备心仪的情人节巧克力,心羽决定参加摄影大赛赢取奖品。不擅长自拍的她邀请冬弥担任模特,并在桐谷遥的协助下完成了高完成度的妆容与拍摄。比赛中,她们遭遇了同样渴望奖品的绘名（由爱莉、雫协助）的强力挑战。在虚拟歌手的引导下,心羽领悟到好照片需要传递情感,最终成功抓拍下冬弥谈及伙伴时流露的自然笑容。这张充满温暖的照片打动了对手,助心羽夺得优胜。赛后,心羽将奖品中的化妆品赠予绘名,如愿将巧克力送给了杏,并决心继续用镜头记录美好瞬间。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "あのチョコを渡すために",
+      "title_cn": "为了送出那份巧克力",
+      "summary_cn": "心羽在午休时想起杏曾对一款已售罄的巧克力美妆联名款感兴趣。放学后，她偶然得知该商品是某摄影大赛的奖品，为了将其送给杏，心羽决定参赛。尽管规则要求带妆自拍让她感到羞涩，但她仍努力练习。然而，因不习惯自拍，她面临手抖和表情僵硬的困难，开始对自己产生怀疑。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "チーム結成！",
+      "title_cn": "队伍结成！",
+      "summary_cn": "心羽在“街头的世界”的咖啡店向虚拟歌手和冬弥倾诉烦恼，表示为了赢取送给杏的巧克力想参加摄影大赛，却因不擅长作为模特而受挫。流歌建议心羽专注于摄影，并提议由冬弥担任模特。冬弥虽对自己能否胜任感到不安，但在心羽的恳求下决定协助，条件是将部分奖品巧克力分给曾表示想吃的彰人。两人结成队伍，定于截止日当天拍摄。另一方面，绘名在为情人节派对网购时，也偶然注意到了这个摄影大赛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "頼りになる助っ人",
+      "title_cn": "可靠的帮手",
+      "summary_cn": "心羽正为复杂的化妆步骤苦恼时，前来归还笔记的桐谷遥得知了原委，主动提出利用休假协助二人。拍摄当日，遥分析规则后，建议配合冬弥的气质采用“苦巧克力”风格的妆容。面对琳琅满目的化妆品，遥为困惑的冬弥提供了专业建议。冬弥主动提出亲自上妆，在遥的指导下完成了高完成度的妆容。心羽深受鼓舞，三人随即前往选定的地点准备拍摄。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "衝撃の１枚",
+      "title_cn": "冲击的一张",
+      "summary_cn": "心羽一行人为了突显“苦巧克力”妆容的成熟酷帅感，选定了一条光影极佳的小巷进行拍摄。在遥指导冬弥调整姿势后，心羽展现出令遥惊讶的专业摄影与修图技术，并将成品上传参赛。另一边，绘名正与爱莉、雫聚会，她本以为能以第10名的成绩稳拿奖品，却发现突然被冬弥的照片挤到了第11名。面对这张备受偶像朋友称赞的高质量照片，不服输的绘名燃起斗志，决定在爱莉与雫的协助下拍摄新照片进行反击。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "ライバル出現！",
+      "title_cn": "劲敌出现！",
+      "summary_cn": "心羽一行人的首张照片升至第10名,为稳固排名决定继续拍摄,却偶遇了同样参赛的绘名、爱莉和雫。得知冬弥的照片正是挤下自己的作品后,绘名燃起斗志发起挑战,心羽也毫不退缩。双方各自展开拍摄:绘名组利用花瓣营造梦幻氛围,心羽组则巧妙运用逆光技巧。虽然心羽的第二张照片反响平平,但看到绘名备受遥称赞的高质量新照片后,心羽感受到压力,决心在最后一张照片中倾尽全力,誓要赢取奖品送给杏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "あの日の写真は",
+      "title_cn": "那一天的照片",
+      "summary_cn": "心羽觉得现有照片虽帅气，却缺乏战胜绘名组的冲击力。休息时，流歌和KAITO现身引导心羽思考何为“好照片”。心羽回忆起初次摄影时的感动，领悟到好照片应能传递拍摄者的情感，流歌也肯定她的照片总是充满感情。心羽决定捕捉让自己心动的瞬间，想起冬弥从面无表情到逐渐展露的笑容象征着信任，她决定拍摄一张冬弥微笑的照片来传达这份温暖。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "最高の１枚",
+      "title_cn": "最棒的一张",
+      "summary_cn": "遥建议无法自然微笑的冬弥回忆快乐的往事。冬弥在谈及与伙伴们共同经历的露营、创作以及对他们的珍视时，终于流露出自然的笑容，心羽成功抓拍下这“最棒的一张”并投稿。随后心羽等人与绘名组汇合，互相展示作品。绘名被冬弥照片中传递出的温暖幸福感打动，大方认可了对手的实力。最后，两队人马决定一同前往店里等待比赛结果，并交流拍摄心得。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "戦いのあとで",
+      "title_cn": "战斗之后",
+      "summary_cn": "摄影大赛结果公布,心羽组成功获奖,而绘名组遗憾止步第12名。心羽只为巧克力而来,便将奖品中的限定化妆品赠予绘名,绘名虽然不甘但接受了这份心意。心羽展示了拍摄间隙大家的抓拍,众人气氛融洽并合影留念。情人节当天,绘名带着新妆容参加派对；遥与成员分享了奖品巧克力；杏虽然舍不得吃心羽赢来的巧克力,但深受感动。心羽回顾这段经历,决心今后继续用照片记录珍贵的瞬间。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_bestshot_2024/event_bestshot_2024_08.webp"
+    }
+  ]
+}

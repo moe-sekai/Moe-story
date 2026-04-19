@@ -1,0 +1,74 @@
+{
+  "event_id": 108,
+  "title_jp": "ハロー・グッド・デイ！",
+  "title_cn": "Hello Good Day!",
+  "outline_jp": "ついに２年生になった一歌達。まだ実感がわかない一歌だったが、『始業式の様子を見てみたい』と言うミクと過ごすうち、『今日を特別な日だと思って過ごしてみよう』と考えるようになっていき——。",
+  "outline_cn": "一歌等人终于升上了二年级。虽然一歌对此还缺乏实感，但在陪伴说着“想看看开学典礼的样子”的初音未来度过这段时光的过程中，她开始想着“试着把今天当作特别的一天来度过吧”——。",
+  "summary_cn": "星乃一歌升入二年级,在初音未来的陪伴下,决心将开学日视为特别的一天。在校园中,各个组合的成员们确认了新分班,尽管环境变化,大家仍带着笑容迎接新起点。一歌目睹了心羽、实乃里、司等人为了目标全力以赴的身影,从中深受鼓舞。放学后,一歌偶遇了奏与绘名,她分享了自己汲取力量的感悟,这番话语也反过来激励了奏。一歌意识到这份努力的心意是相互传递的,决心在新学年继续通过音乐前行,与初音的羁绊也因此更加紧密。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "始まりの日",
+      "title_cn": "起始之日",
+      "summary_cn": "一歌在准备迎接二年级开学时缺乏实感，初音未来却出于对新起点的兴趣，通过手机跟随一歌观察开学典礼。在学校与伙伴们汇合后，大家查看分班表，发现一歌与穗波同在A班，而咲希与志步分到了B班。初音未来看到大家的反应，感叹这确实是“新事物的开始”。受此触动，一歌意识到这不仅仅是普通的一天，而是充满新意的特殊日子，决定要好好珍惜并享受这一天。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "新しいクラスで",
+      "title_cn": "在新班级",
+      "summary_cn": "一歌与穗波在2年A班遇到了同班的小豆泽心羽。心羽虽因高强度的团队练习而睡眠不足,但她决心为了不留遗憾而全力以赴,这份觉悟令一歌等人十分敬佩。随后两人前往B班,发现咲希、志步与凤笑梦同班。笑梦兴奋地提议一起游玩,尽管志步提醒大家都有乐团活动或剧团修行要忙,但在咲希和笑梦的软磨硬泡下,还是答应偶尔可以聚聚。看着志步无可奈何的样子,初音未来也忍不住感叹有趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "それぞれの目標",
+      "title_cn": "各自的目标",
+      "summary_cn": "花里实乃里与桐谷遥加入了众人的谈话。实乃里因在学分制班级中能与遥同班而兴奋不已,并发誓作为偶像要全力以赴。另一边,升入三年级的日野森雫与桃井爱莉再次同班,她们偶遇了分在B班的朝比奈真冬。两人决心展现前辈的风范,但当问及真冬的目标时,真冬因近况复杂而一时语塞,两人便暖心表示愿随时提供支持。随后一歌等人赶到,真冬提醒她们留意A班的故障储物柜。爱莉也提醒大家如今已是二年级的前辈,在互相鼓励后,众人一同前往开学典礼。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "もうひとつの始業式",
+      "title_cn": "另一场开学典礼",
+      "summary_cn": "一歌等人在路口偶遇了买完跑鞋的天马司。得知妹妹咲希与志步同班后，司拜托志步多关照妹妹，并讲述了自己在神山高中的经历。司震惊地发现自己与神代类同在3年C班，类调侃这是学校为了集中管理“问题儿童”。尽管同学们对这对组合议论纷纷，司却自恋地认为这是明星光环的吸引力。随后，为了缓解草薙宁宁对分班的焦虑，司提议和类一起去二年级教室看望她。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "みんな笑顔で",
+      "title_cn": "大家都带着笑容",
+      "summary_cn": "草薙宁宁在2年A班面对过于开朗的氛围感到焦虑，担心无法融入。同班的白石杏和东云彰人加入了对话，杏得知宁宁正在进行演技修行，便表示自己也在进行歌唱修行，称两人是“修行伙伴”，这让宁宁稍感宽慰。此时，天马司和神代类突然大声闯入教室，虽让宁宁感到尴尬，却引来了隔壁B班的晓山瑞希和青柳冬弥。得知瑞希与冬弥同班且相处融洽后，司确认了大家都在笑着迎接新学期，便满意地拜托大家这一年也要多多指教。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "夕暮れ時の出会い",
+      "title_cn": "黄昏时的相遇",
+      "summary_cn": "天马司向一歌等人分享了神山高中的见闻,提到冬弥与瑞希同班。咲希虽羡慕那个班级,但为了陪伴志步而打消念头。司感叹着众人的笑容,随后离开去锻炼。一歌等人赶往练习,大家都感到状态极佳,认为新学年有了美好的开端。初音未来也满足于这段特殊的时光。回程途中,一歌在帮母亲买酱油时,竟意外在街头偶遇了宵崎奏与东云绘名。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "力をもらって",
+      "title_cn": "汲取力量",
+      "summary_cn": "一歌在街头偶遇了奏与绘名。得知绘名正要去参加非全日制高中的开学典礼,而奏刚结束函授制的典礼。一歌分享了自己与穗波同班的喜讯,以及刚才练习时充满干劲的状态。她感悟道,正是今天见到心羽、实乃里和司等人为了目标全力以赴的身影,让自己从中汲取了力量。正因近期遭遇而思绪万千的奏听后表示,一歌的话语也让自己获得了去努力做力所能及之事的动力。互相鼓励后,绘名前往学校,三人就此道别。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "少しずつ、つながって",
+      "title_cn": "第8章【逐渐相连】",
+      "summary_cn": "一歌在房间回味这一天，想起奏曾说从自己这里获得了动力。初音未来指出，就像一歌从伙伴们身上获得力量一样，一歌的身影也给了奏力量，这种努力的心情是逐渐相连的。一歌对此感到欣慰，但表示更希望能通过音乐来激励他人，初音对此表示支持并邀她去“世界”练习。出发前，一歌郑重感谢初音让自己意识到今天的特别之处，并决心在二年级继续通过音乐努力前行，两人的羁绊在这一天变得更加紧密。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_hello_2023/event_hello_2023_08.webp"
+    }
+  ]
+}

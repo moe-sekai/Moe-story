@@ -1,0 +1,74 @@
+{
+  "event_id": 113,
+  "title_jp": "君が主役の物語を",
+  "title_cn": "演绎以你为主角的故事",
+  "outline_jp": "夢を叶えるため、４人で様々な劇団を巡ることとなったワンダーランズ×ショウタイム。訪れた老舗の劇団『春名座』で、司は３つの台詞しかない平凡な人間の役を『“現実に存在している”と思わせてほしい』と言われ——。",
+  "outline_cn": "为了实现梦想，Wonderlands×Showtime的四人决定巡访各个剧团。在造访老字号剧团“春名座”时，司被分配了一个只有三句台词的平凡角色，并被要求“表现出‘现实中真实存在’的感觉”——。",
+  "summary_cn": "为了精进演技，Wonderlands×Showtime造访老字号剧团“春名座”。天马司被分配了一个仅有三句台词的平凡配角，因难以表现出“现实存在感”而陷入苦恼。在与只愿演配角的天才演员獏野历交流后，司领悟到即使是配角也是自己人生的主角。通过与伙伴共同构想角色的庞大背景故事，司在公演中成功赋予了角色真实的灵魂。尽管因过于抢眼留有遗憾，但司对待角色的态度深深触动了历，使其决定不再自我设限，接受了电影主演的邀约。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "いざ新天地へ！",
+      "title_cn": "EP1: 奔赴新天地！",
+      "summary_cn": "Wonderlands×Showtime为了精进演技开启了剧团巡访之旅。在出发前的晨练中，神代类说明他们将依次造访包括老字号“春名座”在内的三个顶尖剧团。春名座以写实的演技著称，天马司决心借此机会磨练演技，向世界级明星迈进。四人互相打气后抵达春名座的“工坊”，尽管草薙宁宁因那里与自家舞台截然不同的知性氛围感到紧张，但在伙伴的鼓励下平复了心情。随后，春名座的演出家加藤现身，众人的修行正式拉开序幕。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "春名座の芝居",
+      "title_cn": "春名座的戏剧",
+      "summary_cn": "Wonderlands×Showtime受到春名座的热烈欢迎，演出家安排他们直接参与新人公演的排练以积累实战经验。剧目是一部描写昭和初期落魄作家内心的细腻作品，与众人习惯的风格截然不同。角色分配中，类、宁宁和笑梦各自得到角色，而司饰演只有三句台词的配角“中山”，对手戏演员是尚未到场的实力派成员獏野历。司因角色信息过少无法通过寻找共鸣来塑造人物而陷入苦恼。就在此时，迟到的獏野历终于现身。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "獏野歴",
+      "title_cn": "獏野历",
+      "summary_cn": "迟到的獏野历虽然平时性格怯懦，但在排练中展现出惊人的瞬间入戏能力，其饰演的编辑角色极具真实感，令类和司等人深受震撼。轮到司与历对戏时，司深感自己只是在念台词，未能塑造出角色的灵魂。排练后，演出家肯定了司的潜质，但也指出其不擅长演绎平凡角色的弱点，并要求他表现出角色的“现实存在感”。面对这一难题，司决心以演技高超的历为榜样进行钻研。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "天性の才能",
+      "title_cn": "天生的才能",
+      "summary_cn": "类向演出家询问为何演技高超的历未担任主角,演出家透露历坚决拒绝出演主角。另一边,宁宁试图向历请教演技时被大声闯入的司打断,两人随后一同询问历如何展现出真实的演技。历表示自己全凭直觉和想象,并无特殊技巧。司意识到这是历与生俱来的天赋,虽未能获得具体诀窍,但他仍决心通过行动全力克服演绎平凡角色的难题。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "人生という物語",
+      "title_cn": "名为人生的故事",
+      "summary_cn": "历拒绝了主演邀约，坚持演绎配角。两周后的练习中，由于缺乏共鸣，司在饰演平凡角色时陷入瓶颈，而其他人进展顺利。次日，司在咖啡厅偶遇正在观察路人的历，发现历通过观察陌生人的细节构想其背后的“人生故事”。司意识到这正是历演技真实的秘诀，决定效仿。历透露这一习惯源于儿时渴望倾诉对象的孤独经历。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "あの日の想像力を",
+      "title_cn": "那一天的想象力",
+      "summary_cn": "司询问历观察笔记的缘由，历解释因儿时孤独，习惯通过想象陌生人的背景来创造“交谈对象”，并坦言因共情不起眼的配角而拒绝主演，立志用演技让配角闪耀。司深感自己缺乏这种想象力。随后司在“奇幻的世界”偶遇MEIKO和玩偶，玩偶提起司曾为其创作主角故事的往事。司由此顿悟：不应将角色视为剧情的陪衬，而应构想以该角色为主角的人生故事。找到了塑造角色的突破口，司重燃斗志。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなで紡ぐ物語",
+      "title_cn": "众人共同编织的故事",
+      "summary_cn": "Wonderlands×Showtime在公园构思角色设定陷入瓶颈时，獏野历应邀前来。司展示了与伙伴创作的五十个剧本，请求历协助打造以配角“中山”为主角的故事。历对“中山视日野为对手”的设定很感兴趣，并补充了关于两人恩怨的细节，众人通过热烈讨论完善了中山转行成为少女漫画编辑的背景故事。随后的排练中，司成功演绎出了角色的真实感，获得伙伴们的一致称赞。历感叹久违地享受了创作乐趣，众人约定为正式演出共同努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "役に“なる”瞬間",
+      "title_cn": "化身角色的瞬间",
+      "summary_cn": "春名座公演当天，司通过在内心构建详细的背景故事，成功“化身”为配角“中山”，演绎出了真实的嫉妒情感。类虽然惊叹于司的投入，但也发现他因过于入戏而破坏了舞台平衡。演出后，演出家肯定了司展现出的角色人生，但也指出他过于抢眼，提出了新的课题。獏野历受司触动，意识到区分主配角是对角色的不敬，决定接受电影主演的邀约，并邀请Wonderlands×Showtime众人参加该电影的群演选拔。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_supporting_2023/event_supporting_2023_08.webp"
+    }
+  ]
+}

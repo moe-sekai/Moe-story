@@ -1,0 +1,74 @@
+{
+  "event_id": 32,
+  "title_jp": "マーメイドにあこがれて",
+  "title_cn": "憧憬着人鱼公主",
+  "outline_jp": "フェニックスワンダーランドの宣伝大使としての活動をスタートしたワンダーランズ×ショウタイム。\n最初の遠征先は浜辺の屋外ショーステージ。それを聞いた寧々は、小さい頃に見た人魚姫のショーを思い出し……？",
+  "outline_cn": "Wonderlands×Showtime作为凤凰仙境乐园的宣传大使开始了活动。第一次远征的目的地是海边的露天舞台。听说这件事后，宁宁回想起了小时候看过的《人鱼公主》的演出……？",
+  "summary_cn": "Wonderlands×Showtime作为宣传大使前往海边公演,宁宁提议表演儿时憧憬的《人鱼公主》。期间她偶遇偶像风祭夕夏,对方承诺观看演出。最终公演遭遇意外,宁宁克服恐惧即兴独唱救场,演出大获成功并获得夕夏认可。事后,夕夏提及为追梦曾离开同伴的往事,让宁宁对未来的分离感到迷茫。但在伙伴们的陪伴与类的开导下,宁宁决定放下焦虑,珍惜当下与大家共度的快乐时光。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "宣伝大使、始動！",
+      "title_cn": "宣传大使，启动！",
+      "summary_cn": "Wonderlands×Showtime正式接到了担任宣传大使的委托，目的是利用他们的知名度吸引外地游客。首个活动地点定在“凤凰度假村海洋”的海滨舞台，将进行为期三天的公演。虽然宁宁对在陌生的环境演出感到不安，但在类的鼓励下安下心来。在讨论演出剧目时，宁宁提议表演《人鱼公主》，因为儿时曾与类一同观看过这部剧，当时主演美妙的歌声正是她梦想成为舞台演员的契机。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "思い出の中の人魚姫",
+      "title_cn": "回忆中的人鱼公主",
+      "summary_cn": "宁宁回忆起儿时观看《人鱼公主》获得勇气并立志成为演员的经历。受此启发，大家决定在海边远征中表演该剧目。为契合宣传氛围，类提议将其改编为欢乐的大团圆版本。在“世界”排练时，流歌表示想看真正的海，宁宁答应演出结束后带她去。次日，众人抵达海边舞台，在兴奋中着手准备即将开始的演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "サマー・ショウタイム！",
+      "title_cn": "夏日Showtime！",
+      "summary_cn": "Wonderlands×Showtime在海边舞台上演了原创喜剧《人鱼王子与人鱼公主们的冒险》。剧中,司、笑梦与宁宁饰演的人鱼兄妹使用类饰演的章鱼怪人制作的药水前往陆地,最终上演了一场由宁宁变身机甲拯救同伴的欢乐闹剧。演出配合风与水的特效大获成功,顺利达成了宣传乐园的目标。就在宁宁独自进行演出后的清理工作时,她被一阵熟悉的歌声吸引,震惊地发现歌唱者竟是她儿时憧憬的偶像——风祭夕夏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "憧れの人",
+      "title_cn": "憧憬之人",
+      "summary_cn": "宁宁在海边偶遇了正在练习的风祭夕夏。虽然紧张,但在夕夏主动搭话后,宁宁表明了自己是凤凰仙境乐园的演员,并表达了对夕夏多年前主演的《人鱼公主》的憧憬,正是那部剧让她立志成为演员。夕夏得知后非常感动,承诺会在最后一场公演时前来观看。宁宁将此事告诉同伴们,大家都很兴奋,司和类等人纷纷表示要调整演出,誓要让这位憧憬的演员展露笑容。在伙伴们的支持下,宁宁下定决心为了宣传乐园和回应偶像的期待而全力以赴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "波乱の最終公演",
+      "title_cn": "波澜的最终公演",
+      "summary_cn": "第二天演出顺利,宁宁机器人甚至主动安慰孩子,展现了如同大家的志向。最终公演时,风祭夕夏到场观看,宁宁决心全力以赴。然而演出途中,宁宁发现后台的宁宁机器人因保护孩子被损坏。类表示修复需要几分钟,无法赶上关键的变身场景。危急关头,为了回应观众的期待,宁宁克服恐惧,主动提出由自己上台即兴表演来争取时间,将修理工作托付给了类。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "つなぐ、勇気を",
+      "title_cn": "传递勇气",
+      "summary_cn": "演出高潮时宁宁机器人突发故障,为了给类争取修理时间,宁宁独自上台即兴表演来衔接剧情。面对焦灼的局面,宁宁在观众席中看到了偶像风祭夕夏,回想起儿时憧憬的《人鱼公主》获得了力量,唱出了一首充满勇气的歌。这不仅成功救场,更感动了观众与夕夏。机器人修复后演出圆满结束,伙伴们对宁宁赞不绝口。随后夕夏来到后台希望能与宁宁聊聊,大家便体贴地留下清理工作,鼓励宁宁去海边赴约。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "まだ知らない世界",
+      "title_cn": "未知的世界",
+      "summary_cn": "夕夏称赞宁宁的歌声唤起了她当初踏入演艺界的勇气。在宁宁的询问下,夕夏分享了自己在海外克服困难、努力获得认可的经历。宁宁憧憬着也能与现在的伙伴一起在世界巡演,但夕夏提到自己为了追梦不得不离开最初的剧团。这让宁宁意识到走向广阔世界或许意味着与同伴分离,感到难以想象。夕夏离开后,流歌现身,宁宁便兑现承诺带她去看了大海。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "今は、できることを",
+      "title_cn": "此刻，力所能及之事",
+      "summary_cn": "宁宁独自在海边回味夕夏的话，意识到为了追逐梦想，未来或许终将与现在的伙伴分别，这让她感到不安。流歌温柔地鼓励宁宁寻找属于自己的答案。随后，司、笑梦和类带着烟花赶来庆祝乐园门票售罄。在欢闹的氛围中，宁宁向类坦白了对未来的迷茫，类称赞了她的成长，并表示愿陪她一同思考，而当下的“最佳答案”则是全力享受这一刻。看着嬉戏的伙伴们，宁宁决心虽然未来或许寂寞，但现在要好好珍惜与大家共度的时光。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mermaid_2021/event_mermaid_2021_08.webp"
+    }
+  ]
+}

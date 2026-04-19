@@ -1,0 +1,74 @@
+{
+  "event_id": 44,
+  "title_jp": "Same Dreams,Same Colors",
+  "title_cn": "同样的梦，同样的色彩",
+  "outline_jp": "チームとしてさらに成長するべく練習を重ねるこはね達。\nしかし冬弥は、人生経験の少なさからイメージの共有に苦戦する。そこにルカが現れて、あるアドバイスをするのだが……！？",
+  "outline_cn": "为了团队的进一步成长，心羽等人反复进行着练习。然而，冬弥却因人生阅历尚浅，在通过意象进行共鸣时陷入了苦战。此时流歌现身，给了他某个建议……！？",
+  "summary_cn": "冬弥因阅历尚浅难以通过意象与歌曲共鸣,在流歌建议下决定前往森林亲身体验,伙伴们遂将此行定为全员露营合宿。露营期间,冬弥虽因缺乏生活经验感到无力,但在流歌的鼓励下,他利用自身丰富的书本知识,在众人迷路时通过星象辨位解救了团队。最终,这次共同的生活经历不仅让冬弥找到了自我价值,更统一了团队的意象,加深了彼此间的羁绊。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "自由な歌声",
+      "title_cn": "自由的歌声",
+      "summary_cn": "Vivid BAD SQUAD在“街头的世界”进行练习，冬弥希望能用理论知识为团队做出贡献。休息时，心羽提到大河先生的特训内容是借用风景等“意象”来表达听歌感想，这让彰人等人感到费解。随后众人在前往咖啡厅选曲途中偶遇了许久未见的巡音流歌。合唱一曲后，冬弥被流歌自由且包容的歌声所打动。流歌称赞了众人的进步，并应杏的邀请，决定一同去挑选队伍的新歌。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "見えない景色",
+      "title_cn": "未曾见过的景色",
+      "summary_cn": "众人确定新歌后开始练习，心羽提出用“静谧森林”的意象来演唱，但冬弥因幼时家教严苛从未参加过远足，无法想象这种氛围。面对因缺乏阅历而自责的冬弥，流歌直率地提议“直接去体验”。冬弥意识到仅靠知识无法弥补经验的缺失，为了团队的成长，他采纳建议并突然宣布要亲自前往森林，这让彰人等人大吃一惊。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "成長のために",
+      "title_cn": "为了成长",
+      "summary_cn": "为了寻找能感受到“森林气息”的地点，冬弥利用午休独自在图书馆查阅资料。他向彰人坦言，因家教严格从未独自远行，希望能借此机会积累经验。杏得知后担心冬弥的安全，便提议全员同行。次日，正当冬弥为地点发愁时，杏与彰人主动以此举能统一团队意象并增加露营体验为由，邀请冬弥一同前往彰人知晓的森林进行合宿。得知心羽也已获准参加，冬弥欣然接受了伙伴们的好意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "胸の高鳴る夜",
+      "title_cn": "心潮澎湃之夜",
+      "summary_cn": "次日放学后，众人在户外用品店集合采购。冬弥对各类露营装备表现出浓厚兴趣，杏和心羽也挑选得十分开心，彰人则在一旁提醒大家注意行李限额。当晚，冬弥因过于期待明天的行程而难以入眠，意识到这就是所谓的“远足前兴奋得睡不着”。露营当天，四人顺利抵达彰人推荐的营地，准备开始搭建帐篷。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "テントを張ろう！",
+      "title_cn": "搭帐篷吧！",
+      "summary_cn": "到达营地后，众人决定先做好准备工作再去森林。杏因忘记说明书在搭帐篷时陷入苦战，彰人和冬弥的帐篷也因突来的大风险些被吹走。为解决困难，彰人提议根据特长分配任务：由他指挥搭帐篷，杏负责料理，心羽负责生火，而冬弥则专注于体验与学习。在彰人的指挥下，四人合力顺利搭好了帐篷。与此同时，在“世界”中感到无聊的流歌想起众人的行程，决定前去探望。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "それぞれのできること",
+      "title_cn": "各自力所能及之事",
+      "summary_cn": "心羽指导大家生火，冬弥在她的建议下利用石头挡风成功引燃。随后杏带领众人准备烧烤食材，初次使用菜刀的冬弥在伙伴的帮助下顺利完成了任务。准备工作结束后，众人前往森林。途中，流歌联系了冬弥。面对因缺乏经验而感到自己一无是处的冬弥，流歌温柔地鼓励道“每个人都有只有自己能做到的事”，让他意识到自己的价值并继续享受露营。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "俺だからできること",
+      "title_cn": "只有我能做到的事",
+      "summary_cn": "冬弥在森林中通过亲身体验终于理解了歌曲的意象。返程途中，众人因采摘野菜偏离路线，又遇浓雾导致手机失去信号，在森林中迷失了方向。危急关头，冬弥回想起流歌的鼓励，决心发挥自己的所长。他强忍恐惧爬上高树，利用书本知识观测星象找到了北极星，成功辨别了方位。尽管事后因被彰人点破恐高而僵在树上，但他确实靠“只有自己能做到的事”拯救了团队。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "みんなで、同じ景色を",
+      "title_cn": "与大家共赏同一片景色",
+      "summary_cn": "回到营地,杏和心羽准备了丰盛的晚餐。彰人感谢冬弥利用知识救了大家,让冬弥再次确信了自我价值。此时虚拟歌手们通过手机现身,热闹地围观众人露营。冬弥在伙伴带动下体验了豪迈的吃法,随后提议合唱新歌。众人的歌声默契十足,意识到共同的生活经历加深了团队羁绊。看着记录点滴的照片,冬弥感慨自己不再局限于狭窄的房间,未来将与伙伴拥有更多未知的体验,并在心中深深致谢。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_camp_2021/event_camp_2021_08.webp"
+    }
+  ]
+}

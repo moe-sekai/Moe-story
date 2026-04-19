@@ -1,0 +1,74 @@
+{
+  "event_id": 90,
+  "title_jp": "交響する街の片隅で",
+  "title_cn": "在交响之街的角落",
+  "outline_jp": "Leo/needのワンマンライブを直前に控えた志歩。用事のためビビッドストリートに立ち寄ると、路地から聴こえてきた力強い歌声に圧倒される。その声の先には、ひとり真剣に歌っている杏の姿があって……。",
+  "outline_cn": "志步在Leo/need专场演出前夕,因事前往Vivid Street,被小巷中传来的有力歌声所震撼。循声望去,那是独自认真歌唱的杏……",
+  "summary_cn": "志步偶然听到杏充满魄力却带有痛楚的歌声，并在随后与绘名的偶遇中，通过绘名为了追赶同伴而挣扎作画的身影，察觉到了杏因搭档飞速成长而产生的焦虑。这份“想要与重要之人并肩同行”的心意让志步联想到自己努力追赶的队友们，从而与杏产生了强烈共鸣。通过互相坦露心声以及与宁宁的即兴合奏，三人从音乐中获得了力量。志步也借此契机扫清了迷惘，坚定了要永远在Leo/need队友身边演奏贝斯的决心。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "圧倒される歌声",
+      "title_cn": "震撼人心的歌声",
+      "summary_cn": "志步在打工处收到店长给的优惠券,前往Vivid Street修理音箱,途中偶然听到白石杏充满力量的歌声。志步被杏想要超越传说的决心所震撼,深受鼓舞。次日在「教室的世界」练习时,志步将这份感触融入演奏,表现出色并获得大家的称赞。随后,因穗波有事无法去取心羽制作的演出传单,志步主动提出周六代为前往Vivid Street领取。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "バンドとは違う音",
+      "title_cn": "与乐队不同的声音",
+      "summary_cn": "志步带着初音未来前往Vivid Street,在WEEKEND GARAGE与心羽等人汇合。闲聊中,志步提起曾听到杏在街头充满魄力的独唱,杏虽掩饰说是练习,但彰人察觉到了异样。随后杏应顾客要求登台演唱,初音感叹街头音乐与乐队不同的魅力,但志步却感觉这次的歌声虽好,却少了那晚痛彻心扉的魄力。另一边,杏内心其实因担心无法追上心羽的成长而感到焦虑。志步拿到传单离开后,仍对杏歌声的违和感感到困惑。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "偶然の再会",
+      "title_cn": "偶然的重逢",
+      "summary_cn": "志步练习结束后受母亲之托去超市购物，偶遇同样来为自家咖啡店进货的杏。杏热情地帮迷路的志步找到了食材。闲聊中志步称赞杏家店里的音响设备专业，内心却仍在意杏那晚痛彻心扉的歌声与平时不同，正想询问时被杏打断。杏邀请志步一同参观附近的“赏花金鱼展”，两人观赏金鱼时偶遇了东云绘名。志步认出绘名曾教过穗波画画，而绘名在听到志步的自我介绍后，惊讶地询问她是否是雫的妹妹。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "気になる横顔",
+      "title_cn": "令人在意的侧脸",
+      "summary_cn": "绘名确认志步是雫的妹妹,并提到自己与爱莉、雫熟识。为了练习表现水的动态,绘名决定留在原地写生,试图描绘两只相伴游动的金鱼。志步与杏参观完一圈回来,发现绘名仍在同一处作画。看着绘名一边喃喃自语一边修改,志步注意到她专注的侧脸流露出一种仿佛在挣扎般的痛苦神色,不禁对她笔下的画作感到在意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "２匹の金魚",
+      "title_cn": "两只金鱼",
+      "summary_cn": "绘名完成了写生,虽然认为技巧仍有不足,但对自己捕捉到的水流动态感到一丝欣慰。杏和志步看后称赞画作展现了温暖的氛围与金鱼间亲密的关系,绘名因心意传达到位而感到开心。闲聊中,杏提到绘名努力的样子像彰人,让志步得知了二人的姐弟关系。随后绘名坦露心声,表示为了跟上音乐社团同伴们飞速成长的步伐,必须磨练画技以完美呈现他们的世界观。这份为了同伴而挣扎向上的决心深深打动了志步与杏,两人也因此备受鼓舞,下定决心要为各自的目标更加努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "力強さの中には",
+      "title_cn": "力量之中",
+      "summary_cn": "志步受绘名启发,在练习中全情投入,一歌等人也深受感染奋力追赶,这让志步确信大家定能并肩前行。练习后,志步带着初音前往Vivid Street取音箱,再次听到了杏那震撼人心却略显痛楚的歌声。初音感叹这歌声仿佛在拼命追赶着什么,让志步联想到了特训时为了追上自己而拼搏的队友们。志步给休息的杏送去饮料,坦言她的歌声让自己想起了队友们那份为了在一起而全力追赶的坚强意志。面对志步的精准解读,杏承认确实被说中了心事。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "同じ気持ち",
+      "title_cn": "同样的心意",
+      "summary_cn": "杏向志步讲述了想要超越传奇活动“RAD WEEKEND”的梦想，坦言虽因搭档心羽的飞速成长而感到焦虑，却仍渴望能与伙伴们并肩实现梦想。这份想与重要之人共同前行的心意让志步产生强烈共鸣，她联想到自己的队友，鼓励杏这份决心定会成为团队前进的动力。为了回应杏之前的歌声，志步演奏了乐队的新曲，其琴声中毫不迷惘的信念深深打动了杏。随后，重获元气的杏邀请志步即兴合奏，两人欣然开始联手演绎。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "交響する音と心と",
+      "title_cn": "交响之音与心",
+      "summary_cn": "志步与杏开始即兴合奏,杏那摆脱了迷惘、充满快乐的歌声感染了志步,两人配合默契互相激发。正在附近为磨练演技而徘徊的宁宁被二人的演奏震撼,主动请求加入。三人合奏中,宁宁在志步强有力的琴声与杏的歌声带动下,鼓起勇气全力歌唱。曲终后三人互道感谢,志步邀请两人观看Leo/need的专场演出。最后,志步向初音感慨音乐让自己成长并连结了他人,内心确信自己想要永远在队友身边演奏贝斯。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_citycorner_2023/event_citycorner_2023_08.webp"
+    }
+  ]
+}

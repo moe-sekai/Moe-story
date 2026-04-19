@@ -1,0 +1,74 @@
+{
+  "event_id": 185,
+  "title_jp": "超克のプロタゴニスタ",
+  "title_cn": "超越自我的主角",
+  "outline_jp": "ついにアークランドで公演を行うこととなったワンダーランズ×ショウタイム。主演である寧々は緊張を感じつつも、これまで身に着けた自信を胸に気合いを入れる。しかしそんな時、かつての仲間に出会い——。",
+  "outline_cn": "Wonderlands×Showtime终于要在Arkland举办公演。担任主演的宁宁虽感到紧张,但怀着至今建立的自信鼓足干劲。然而此时,她遇见了曾经的同伴——。",
+  "summary_cn": "Wonderlands×Showtime前往Arkland举办公演,宁宁担任主演。然而,偶遇旧友让宁宁得知儿时失误曾导致旧剧团解散,她因此陷入深深的愧疚与噩梦,表演变得僵硬。尽管尝试多种方法,宁宁仍无法突破瓶颈。公演前夕,类与伙伴们选择以严厉的态度逼迫宁宁,以此传达对其实力的绝对信任。宁宁为了回应这份期待彻底觉醒,最终在舞台上超越了过去的自己,完美演绎主角并令演出大获成功。目睹这一切的旭深受震撼,也开始反思自己团队的相处模式。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "心地よい緊張",
+      "title_cn": "令人舒心的紧张",
+      "summary_cn": "Wonderlands×Showtime来到Arkland的大剧场,宁宁面对拥有两千座位的舞台虽感到紧张,但在伙伴鼓励下决定将这份适度的紧张转化为动力。随后众人在练习室排练,宁宁凭借敏锐的演技获得成员们的称赞。正当司提到在Arkland练习就能见到某人时,旭突然现身。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "高まる気合い",
+      "title_cn": "高涨的干劲",
+      "summary_cn": "旭前来探班WxS的排练,提到观众对公演充满期待。在练习中,宁宁积极指出司演技上的细节问题并提出加入舞蹈等新构思,成员们通过热烈讨论不断完善表演。旭在一旁感受到了他们全员共同打磨作品的高涨热情。随后旭回到Arkland剧团练习室见到了榊。当剧团成员遇到表演瓶颈时,完全依赖旭的建议并盲目信服,这种氛围与WxS全员激烈碰撞意见的情景形成了鲜明对比。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "懐かしい顔",
+      "title_cn": "怀念的面孔",
+      "summary_cn": "练习结束后，宁宁独自回顾今天的成果，将紧张感转化为动力。途中她偶遇了儿时“梦见剧团”的伙伴广桥宫子。宫子如今在“六花剧团”作为研究生努力，并表示因看到宁宁担任Arkland主演而备受鼓舞。然而，当宁宁问及旧剧团其他成员时，宫子透露那次失败的演出竟成了该成员阵容的最后一次公演。尽管宫子安慰宁宁向前看，但宁宁仍因意识到自己的失误可能导致了团队解散而深感愧疚与沉重。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "あの日の悪夢",
+      "title_cn": "那一天的噩梦",
+      "summary_cn": "宁宁梦见儿时演出因忘词而导致失败的场景,惊醒后虽心有余悸,但决心不再重蹈覆辙。次日排练中,大家发现宁宁因过度用力而表演僵硬。面对关心,宁宁坦白因遇到旧友而做了噩梦。类指出她因心理失衡导致紧张,虽然演技合格但未发挥全力。司提议通过彻底的练习来建立自信以消除不安,成员们纷纷表示支持,决定一同帮助宁宁调整状态。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "暗中模索",
+      "title_cn": "暗中摸索",
+      "summary_cn": "在“奇幻的世界”排练时，类指出宁宁过于紧绷，铃和连便带她做伸展操放松。为了找回状态，宁宁还向白虎町、青龙院等人请教，尝试了肌肉放松、建立仪式感等各种方法，却仍因过度在意细节而无法自然演绎。彩排时旭前来探班，宁宁虽勉强完成了表演，但深知自己未能发挥全力。深夜，铃现身鼓励宁宁相信一直以来的努力。另一边，看着尝试了一切却仍未突破瓶颈的宁宁，类开始思考最后的手段。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "主役と演出家",
+      "title_cn": "主角与演出家",
+      "summary_cn": "最终彩排中宁宁的状态仍未恢复，司和笑梦对此感到无力。在“奇幻的世界”商讨时，类表示作为演出家，需要在正式开演前与宁宁单独谈谈。公演当天，宁宁虽未能找回最佳状态，但仍试图调整心态上台。此时旭前来探班，恰好撞见类正在对宁宁进行最后的谈话。类以演出家的身份严肃地告诉宁宁：演出的成功取决于身为主角的她，如果不能在此展现出最棒的演技，那么她站在这里就毫无意义。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "わたしのやるべきこと",
+      "title_cn": "我该做的事",
+      "summary_cn": "面对类的严厉逼迫，宁宁虽感到无力，但在司和笑梦也现身要求她必须突破瓶颈后，她终于意识到伙伴们的严厉源于对她实力的绝对信任。为了回应这份期待，宁宁觉醒并决心背负起组合的招牌，誓要展现最棒的演技。演出正式开始，在旭的注视下，宁宁超越了过去的自己，以全盛的状态完美演绎“哈特公主”，其精湛的演技令同台的司都为之惊叹。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "信じてくれて",
+      "title_cn": "谢谢你们相信我",
+      "summary_cn": "演出迎来高潮，宁宁领悟到身为主角的使命是为观众施下魔法，她全力以赴的演技不仅感染了观众，也令台下的旭深受震撼。最终公演大获成功，宁宁因饰演“哈特公主”广受好评。面对伙伴们的祝贺，宁宁由衷感谢大家对她的信任，并确信自己已拥有克服一切困难的自信。另一边，旭虽然也完成了完美的公演，但目睹了WxS的羁绊后，他开始反思自己是否需要像他们那样能激烈碰撞、共同成长的伙伴。此时，榊现身表示愿意倾听旭的烦恼。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_protagonist_2025/event_protagonist_2025_08.webp"
+    }
+  ]
+}

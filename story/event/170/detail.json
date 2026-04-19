@@ -1,0 +1,98 @@
+{
+  "event_id": 170,
+  "title_jp": "泡沫に抱かれて",
+  "title_cn": "被泡沫拥抱",
+  "outline_jp": "朝比奈家での話し合いを数日後に控えたある日、セカイへ来た奏達は若木に異変を見つける。それをきっかけに４人は『今とは違う生活を送っている』夢を見て——。\n",
+  "outline_cn": "在距离朝比奈家的谈话还有几天的某日，来到“世界”的奏等人发现幼苗出现了异样。以此为契机，四人做了一个“过着与现在不同生活”的梦——。",
+  "summary_cn": "奏等人在“无人的世界”接触了附着黑色碎片的幼苗，坠入了一个“25时”并不存在的共同梦境。在梦中，成员们过着没有痛苦、愿望得以实现的理想生活。然而，真冬虽恢复记忆却因不忍打破美梦而独自忍受孤独。奏在梦中父亲的启发下找回初心，创作出乐曲唤醒了众人的记忆与热情。苏醒后，众人得知梦境源自幼苗吸收了她们内心的后悔与愿望。面对这些情感，奏承诺无论何时绝不抛弃大家，四人深受感动，决心拥抱各自的思念，继续在Nightcord共同创作。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "かつての夢と微睡み",
+      "title_cn": "往昔的梦与微睡",
+      "summary_cn": "奏久违地梦见了儿时与父母共度快乐时光的温馨场景。醒来后，她回想起真冬想要探寻真心的决心，誓要创作出拯救真冬的歌曲。发现Nightcord无人在线后，奏进入“无人的世界”，发现大家正围着那棵幼苗。幼苗附着了黑色碎片并显得萎靡不振，流歌推测这是受心愿影响所致。奏试图剥离黑色碎片挽救幼苗，却在触碰的瞬间发生了异状。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "日常",
+      "title_cn": "日常",
+      "summary_cn": "奏置身于一个截然不同的“日常”梦境中。在梦里，父亲身体健康，奏不仅正常上学，还为父亲做早饭，并立志要像父亲一样创作让人幸福的歌曲。虽然上课时因作曲分心被批评，但同学们都称赞她的歌让人积极向上。随后，奏在走廊意外撞到了隔壁班的朝比奈真冬。真冬友善地自我介绍，两人初次相识，奏暗自期待能再次与她交谈。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "友達",
+      "title_cn": "朋友",
+      "summary_cn": "数月后，奏升入高三并与真冬成为同班同学，两人约定互相关照。回家后，奏心情愉悦地作曲，父亲察觉到曲风变得欢快，奏表示是因为遇到了想结交的朋友。次日，同学向真冬介绍奏就是人气作曲家“K”，真冬听了奏的新歌后称赞曲子让人心情明朗。尽管得到了夸奖，奏却对真冬听歌时的反应感到一丝违和。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "暗闇から、一歩",
+      "title_cn": "从黑暗迈出的一步",
+      "summary_cn": "视点转至梦境中的东云绘名。作为偶像十分忙碌的好友桃井爱莉为了让久不出门的绘名散心，带她外出用餐。绘名虽然感激爱莉的陪伴，内心却因绘画遭遇瓶颈且无人认可而深陷绝望，沉迷于网络点赞的同时甚至产生了想要消失的念头。在浑浑噩噩的日子里，绘名偶然听到了作曲家“K”创作的充满希望的歌曲，却依然感到空虚。回过神后，绘名对爱莉总是为了自己赶来感到抱歉，爱莉则坚定地表示朋友有难时挺身而出是理所当然的。面对爱莉的真挚情谊，绘名深受感动并表达了谢意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "ずっとひとりで",
+      "title_cn": "一直独自一人",
+      "summary_cn": "视点转至梦境中转入全日制高中的绘名。她在帮朋友解题时展现画技，受到同学盛赞并接下各种绘画委托。深夜为了回应期待作画时，绘名听到一阵怀念的歌声，受此触动重拾了认真创作的热情。数月后，绘名在绘画比赛中获奖。面对朋友关于“独自作画是否寂寞”的提问，绘名坦然接受了这份孤独，认为这是绘画不可避免的一部分。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "楽しい毎日",
+      "title_cn": "愉快的每一天",
+      "summary_cn": "视点转至梦境中的晓山瑞希。瑞希已从学校退学，在服装店打工，不仅热心为客人搭配服装，自制的饰品也深受好评。下班购物时，瑞希偶遇正在买衣服的绘名，虽未交谈却暗赞其品味。回家后，瑞希一边缝制衣服一边享受动画，偶然听到了“K”创作的明快歌曲。随后瑞希被歌曲激发灵感，通宵完成了视频分镜。看着窗外的清晨，瑞希感叹如今不用顾虑学校的事，发自内心地觉得退学并过着自由自在的生活真是太好了。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "自分らしくいるために",
+      "title_cn": "为了做自己",
+      "summary_cn": "视点继续跟随梦境中的瑞希。瑞希在活动后的聚餐中享受着作品受人称赞的快乐,但当他人提出想协助制作服装时,瑞希却婉拒了这份好意。归途中,瑞希偶遇神代类,得知类已在剧团找到真正的同伴。面对类关于是否重返学校的询问,瑞希坚称当下的自由生活非常快乐。独处时,瑞希回想起学校里的流言蜚语,确信逃避深度人际关系、独自随心所欲地生活才是最轻松的。就在瑞希感叹与人深交很麻烦时,耳边传来了一阵温柔的歌声。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "影を探して",
+      "title_cn": "寻找影子",
+      "summary_cn": "视点转至梦境中的朝比奈真冬。真冬与同学度过了愉快的放学时光,她们一起拍大头贴、逛街,并在服装店偶遇了在此打工的瑞希,接受了对方热情的招待。闲聊中,同学提起因忙于作曲而未能前来的奏,提议下次再邀请她。晚餐时,面对父亲关于报考医学院的询问,母亲竟主动表示真冬并不想当医生,且父母都愿意支持她寻找真正想做的事。就在这仿佛弥补了所有遗憾的完美生活中,一阵歌声悄然响起。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_08.webp"
+    },
+    {
+      "chapter_no": 9,
+      "title_jp": "一緒に",
+      "title_cn": "一起",
+      "summary_cn": "视点转回梦境中的奏与真冬。真冬在弓道比赛获奖,被同学们誉为全能,奏虽感叹自己只会作曲,但真冬肯定了其歌曲的温暖。为了拓展作曲灵感,奏表示对吹奏乐、写作和绘画感兴趣,真冬便提议两人一起尝试。写作练习顺利进行,而在绘画遇到瓶颈时,经爱莉介绍前来的绘名给予了奏专业的指导。最终,两人一同参加吹奏乐部的体验活动,奏由衷感谢真冬带她走出原本的世界,两人约定要尽情享受这份快乐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_09.webp"
+    },
+    {
+      "chapter_no": 10,
+      "title_jp": "泡沫に響くメロディー",
+      "title_cn": "回响于泡沫之中的旋律",
+      "summary_cn": "真冬虽已恢复记忆，却因不忍打破大家幸福的梦境而独自忍受孤独。奏察觉到送给真冬的感谢之曲反而令其痛苦，在梦中父亲的启发下，奏找回了“K”的初心，创作出真正属于她们的乐曲。这首歌唤醒了绘名与瑞希的记忆与创作热情。奏找到真冬并解开了心结，四人最终在Nightcord重聚，真冬坦承了寂寞，大家约定通宵创作。临别之际，奏请求梦中的父亲最后弹奏一曲，以此向这段美好的梦境告别。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_10.webp"
+    },
+    {
+      "chapter_no": 11,
+      "title_jp": "それぞれの想いを抱きしめて",
+      "title_cn": "拥抱各自的思念",
+      "summary_cn": "奏在“无人的世界”苏醒，得知大家都做了一个“25时”并不存在的共同梦境。KAITO和MEIKO指出这是幼苗上附着的黑色碎片所致，那些碎片凝聚了四人内心的痛苦、后悔及无法实现的愿望，如今已被幼苗吸收化为养分。面对大家的不安，奏坚定承诺无论在怎样的世界或时空，都绝不会抛下大家。四人深受感动，决心拥抱这些情感，继续在Nightcord共同创作属于她们的音乐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025_11.webp"
+    }
+  ]
+}

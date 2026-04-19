@@ -1,0 +1,74 @@
+{
+  "event_id": 26,
+  "title_jp": "カーネーション・リコレクション",
+  "title_cn": "康乃馨追忆",
+  "outline_jp": "まふゆを救うため曲を作り続ける奏。しかしその曲は一向にまふゆに響かない。\n「このままではまふゆを救えない」と追い詰められていく奏は、セカイであるアドバイスを受けるが……",
+  "outline_cn": "奏为了拯救真冬持续创作歌曲，但这些曲子始终无法触动真冬。感到“这样下去无法拯救真冬”而被逼入绝境的奏，在“世界”中收到了某个建议……",
+  "summary_cn": "奏为拯救真冬陷入创作瓶颈，被流歌指出歌曲缺乏“终点”，加之父亲失忆的打击，使她陷入深深的自责与迷茫。瑞希察觉后带奏外出散心，二人通过寻找记忆中的康乃馨花坛，让奏重拾了被封存的家庭温暖回忆。奏领悟到父亲作曲是为博得家人一笑，从而确立了希望真冬“展现笑容”的明确目标。怀着这份心意创作的新曲终于触动了真冬，让她在无意识中露出了久违的微笑，瑞希也因奏的坚强而备受鼓舞。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "まだ、響かない",
+      "title_cn": "依旧无法引起共鸣",
+      "summary_cn": "奏向成员展示新曲，但真冬依旧表示“不明白”。绘名对真冬的态度感到不满，瑞希则担心奏过度操劳。为了观察真冬听歌时的细微表情以寻找线索，奏提议去“无人世界”试听新做好的Demo。众人在那里遇到了新出现的巡音流歌。虽然其他人对新曲评价很高，但真冬毫无反应。奏意识到这首歌无法拯救真冬，决定重做，内心因找不到突破口而感到焦急迷茫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ルカの言葉",
+      "title_cn": "流歌的话语",
+      "summary_cn": "绘名建议奏回顾曾触动真冬的曲子，通过让真冬感到“被陪伴”来寻找灵感。奏依此创作了新Demo并在“无人世界”请流歌试听。流歌直言这首歌虽好却无法拯救真冬，指出若奏自己都不清楚歌曲的“终点”，听众只会迷失在黑暗中。奏对此感到困惑，随后动身去医院探望父亲。事后，MEIKO质疑流歌引发焦虑的做法，流歌却认为打破停滞现状是必要的。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "涙雨",
+      "title_cn": "泪雨",
+      "summary_cn": "奏探望父亲，却发现父亲记忆倒退至她出生前，不仅视她为陌生人，还兴奋地表示要给即将出生的孩子取名为“奏”。奏强忍悲伤，将父亲的现状归咎于自己，强迫自己专注于创作以拯救真冬。回程雨中，瑞希偶遇神情恍惚、有伞不撑的奏，看出她因创作压力过大而钻牛角尖，便强行拉着她去咖啡厅转换心情。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "ヒントを探して",
+      "title_cn": "寻找线索",
+      "summary_cn": "瑞希为了帮助因流歌的话语而陷入迷茫的奏,提议外出寻找拯救真冬的线索。两人先来到人偶店,八音盒的音色让奏回忆起父亲创作的乐曲,但她很快因触及伤心事而语塞,瑞希见状立刻带她离开。随后在商场,正当两人讨论艺术或许是突破口时,奏被花店的康乃馨吸引,认出那是母亲最喜欢的花。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "遠い記憶の花畑",
+      "title_cn": "遥远记忆中的花田",
+      "summary_cn": "瑞希看到白色康乃馨,勾起了奏关于曾与父母同游花田的回忆。瑞希提议寻找那片花田,但两人在雨中寻遍公园却无果。奏向瑞希吐露心声,因父亲记忆倒退并露出幸福笑容而深感愧疚,认为必须拯救真冬才能证明自己存在的意义。瑞希意识到奏是在自我惩罚,便坦言自己在初中绝望时曾被奏的歌拯救,以此告诉奏她并非未能拯救任何人。雨停后,瑞希带奏来到一处喷泉广场,奏惊讶地发现那里的花坛似乎正是记忆中的地方。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "忘れていた幸せ",
+      "title_cn": "被遗忘的幸福",
+      "summary_cn": "奏认出眼前的花坛正是记忆中的场所。回忆涌现,年幼的她曾与父母在此野餐,母亲喜爱康乃馨,父亲则弹奏吉他只为博得妻女一笑。回到现实,奏意识到是儿时的视角让自己误将花坛记作了花田。瑞希感叹看着花的奏看起来很幸福,奏坦言自己曾因回忆过于美好反觉痛苦而将其封存,但多亏瑞希的陪伴,她终于能坦率接受这段珍贵的记忆。随后,奏向瑞希讲述了往事,并答应下次带父亲制作的八音盒给她听。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "迷路の先にあるもの",
+      "title_cn": "迷宫的尽头",
+      "summary_cn": "奏回家后继续作曲，虽借助瑞希找回了记忆，但仍觉曲子缺少关键的意象。她聆听父亲的八音盒，从中感受到了温柔与温暖，并忆起父亲是为了让家人欢笑而创作。奏反思自己对真冬的期望，意识到仅仅希望她“不要消失”是出于自私，而“找回自我”又过于模糊。结合流歌关于歌曲“终点”的提问以及母亲当年的笑容，奏终于确立了心愿——希望真冬也能那样展露笑容。怀着这份心意，奏完成了截然不同的新曲并召集众人试听。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "ほほ笑み",
+      "title_cn": "微笑",
+      "summary_cn": "奏在“无人世界”让成员们听了完成的新曲。真冬听后虽然无法确切表达，但感到了一丝“温暖”并露出了微笑，尽管本人并未察觉，这令瑞希和绘名大为震惊。流歌指出这正是奏所寻找的“终点”。解散前，奏感谢瑞希拓宽了自己的世界。瑞希因能帮上忙而感到欣慰，独自感叹奏背负重担仍不放弃的坚强，这也激励了自己去尝试改变，决心为这首曲子制作最棒的MV。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_carnation_2021/event_carnation_2021_08.webp"
+    }
+  ]
+}

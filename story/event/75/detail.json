@@ -1,0 +1,74 @@
+{
+  "event_id": 75,
+  "title_jp": "絶叫！？ オオカミの森へようこそ！",
+  "title_cn": "惊声尖叫！？欢迎来到狼之森林！",
+  "outline_jp": "宮女はもうすぐ文化祭。こはねはVivid BAD SQUADのみんなを誘って楽しい１日にしようと思っていたが、１年Ａ組の出し物は、杏が苦手な『お化け屋敷』になってしまい……！？",
+  "outline_cn": "宫益坂女子学园即将迎来文化祭。心羽本想邀请Vivid BAD SQUAD的大家一起度过愉快的一天，但1年A班的活动项目却定为了杏最不擅长的“鬼屋”……！？",
+  "summary_cn": "宫益坂女学园文化祭前夕，心羽为照顾怕鬼的杏，提议班级举办结合射击玩法的“狼之森林”鬼屋。准备期间，她与实乃里、志步共同努力，逐渐变得自信。活动当日，心羽替补扮演“丧尸狼”时因头套卡住无法取下，试图向来访的杏解释却反将对方吓跑，在校园内引发了一场啼笑皆非的追逐骚动。幸得伙伴们协助解围，误会最终消除。杏在心羽的保护下克服恐惧享受了游戏，众人共同留下了美好回忆。事后，心羽那场意外的“暴走”被误传为大胆的宣传策划，让她意外成为了校园名人。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "文化祭の出し物は",
+      "title_cn": "文化祭的活动项目是",
+      "summary_cn": "心羽所在的班级决定在文化祭举办鬼屋。心羽邀请队友参观，杏虽因怕鬼而惊慌，但仍答应前往。为了让杏也能享受乐趣，心羽在次日班会上结合实乃里提出的童话灵感，提议制作“狼之森林”主题鬼屋：游客既可扮演被追逐的“小红帽”，也可选择扮演能击退狼的“猎人”。这种兼顾惊悚与游戏性的双重玩法获得了全班一致通过。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "お化け屋敷を作ろう！",
+      "title_cn": "来制作鬼屋吧！",
+      "summary_cn": "次日班会上,同学们过于热情的讨论让班长手忙脚乱,志步挺身而出梳理流程,帮班长稳住了局面。随后三人分头行动:实乃里在服装组提议根据受众设计不同风格的狼；志步在迷宫组展现了精湛画工,并教同学们绘制逼真的树木；心羽则在宣传组利用摄影特长制作传单。同学们感叹心羽变得开朗自信了,心羽深知这多亏了伙伴们的陪伴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "スタート！宮女文化祭！",
+      "title_cn": "开始！宫女文化祭！",
+      "summary_cn": "文化祭正式开始，心羽、实乃里和志步在上午结伴参观。她们体验了遥和咲希的动物咖啡厅、穗波参演的短剧、真冬设计的解谜以及爱莉和雫的创意甜点，充分享受了庆典。下午1年A班的“狼之森林”鬼屋开张，独特的射击玩法大受好评。然而，负责明天上午扮狼的同学因病缺席，实乃里和志步都无法替补，心羽便主动提出在杏等人到来前代班扮演狼。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "私がオオカミ？",
+      "title_cn": "我是狼？",
+      "summary_cn": "心羽分到的服装竟是逼真且恐怖的“丧尸狼”头套，这本是仅针对大胆游客的秘密武器。心羽出色地完成了吓人任务，却在换班时因拉链卡住无法取下头套。实乃里去借工具期间，心羽为了拿手机联络伙伴来到走廊，恰逢杏等人抵达。本就紧张的杏误将戴着头套的心羽当成怪物，惊恐地扔下手机逃跑。为了解开误会，心羽捡起手机，在镜音铃的指引下，与众人一同追赶落荒而逃的杏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "爆走！こはねオオカミ！",
+      "title_cn": "暴走！心羽狼！",
+      "summary_cn": "心羽戴着头套追赶惊恐的杏，途中误入咲希的咖啡厅引起骚动，遥机智地将其解释为宣传并指明杏的去向。随后心羽闯入视听室打断了穗波和笑梦的短剧，笑梦通过即兴表演化解尴尬。接着心羽撞到了爱莉和雫的摊位，两人顺势利用“贪吃狼”设定推销甜点。此时，实乃里与志步汇合一同寻找心羽，从雫处得知线索后，雫也叫住路过的真冬准备帮忙。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "きっと、今からだって",
+      "title_cn": "一定，从现在开始",
+      "summary_cn": "实乃里试图追赶逃跑的杏未果，便电话联系志步帮忙拦截，志步随后成功叫住了杏。另一边，戴着头套的心羽被误认为是寻宝线索，幸得真冬解围并转告志步在找她。实乃里找到心羽并帮她取下头套后，心羽因搞砸了杏的体验而自责。此时志步赶到，转达了杏正在教室等待且仍想游玩鬼屋的心意。在志步“现在开始享受也不晚”的鼓励下，心羽重拾信心，请求两人协助她进行接下来的计划。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなとちょっとだけ暗い森",
+      "title_cn": "和大家一起走进微暗森林",
+      "summary_cn": "误会解除后，心羽向杏等人介绍了鬼屋的游戏规则：扮演“猎人”可以用玩具枪击退狼。杏为了克服恐惧选择成为猎人，心羽则承诺会保护她。进入鬼屋后，起初由实乃里扮演的滑稽狼让杏放松了警惕，彰人也觉得不够刺激。然而，由志步扮演的逼真“丧尸狼”突然出现，吓坏了杏和彰人。关键时刻，心羽拿过玩具枪击退了狼，带领大家成功通关。事后实乃里和志步现身，众人对鬼屋赞不绝口，志步还调侃了受惊的彰人。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "たしかに残るもの",
+      "title_cn": "确切留存之物",
+      "summary_cn": "文化祭第二天结束，杏盛赞鬼屋并感谢心羽的邀请。清扫期间，面对不舍的实乃里，志步安慰道虽然庆典结束，但回忆确切留存。心羽向两人致谢，三人感慨正是因为有队友的支持，自己才有了如今的改变，志步也感叹自己竟能如此享受文化祭。数日后，校内新闻大肆报道了心羽作为“丧尸狼”闯入各处的“大胆宣发”，心羽瞬间成为名人被同学包围称赞，在巨大的误解中惊慌失措。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scream_2022/event_scream_2022_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 18,
+  "title_jp": "君と歌う、桜舞う世界で",
+  "title_cn": "在樱花飞舞的世界与你歌唱",
+  "outline_jp": "志歩のために少しでも上手くなろうと、寧々との歌の練習を重ねる一歌。\nより自信をつけようとストリートライブに挑むのだが、そこで思わぬ出会いが待っていて……！？",
+  "outline_cn": "为了志步哪怕只是一点点也好,一歌想要提升自己的实力,于是反复与宁宁进行歌唱练习。为了获得更多自信,她决定挑战街头表演,然而在那里却有着意想不到的相遇……！？",
+  "summary_cn": "为了追赶志步的梦想,一歌在宁宁的指导与初音的建议下挑战街头表演,虽因恐惧受挫,但在偶遇同样独自修行的心羽后重拾勇气,成功通过歌声获得认可。怀着对初音连接众人的感激,一歌邀请初音来到现实共赏樱花,并用歌声传达谢意。最终,这份歌声吸引了实乃里与心羽加入,少女们在樱花树下的即兴合唱中缔结了新的羁绊,共同展望未来。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "うまくなりたくて",
+      "title_cn": "想要变得更出色",
+      "summary_cn": "一歌为了提升唱功在公园接受宁宁的指导。宁宁指出一歌虽然掌握了技巧,但因缺乏自信,歌声听起来有些犹豫。宁宁结合自身经历,建议一歌不要想太多,试着找回歌唱时的快乐。在随后的乐队练习中,一歌的进步得到了成员们的称赞。但回想起志步想要成为职业乐手震撼人心的梦想,一歌觉得自己目前的水平还远远不够,仍在苦恼该如何进一步提升。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ひとりぼっちの路上",
+      "title_cn": "孤身一人的街头",
+      "summary_cn": "一歌在“教室的世界”向初音未来请教建立自信的方法，初音建议她尝试街头表演。次日，一歌鼓起勇气来到中心街，却因过度紧张导致无法发声。她本担心会被路人嘲笑，结果发现行人都在忙于自己的生活，根本无人在意她的存在。面对无人聆听的窘境与内心的恐惧，备受打击的一歌最终决定放弃。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "私達の夢",
+      "title_cn": "我们的梦想",
+      "summary_cn": "一歌因无法开口歌唱而失落，此时意外发现志步的同学小豆泽心羽正在街头自信演唱，吸引了路人称赞。心羽告诉一歌，自己为了追赶队友、实现举办大型活动的梦想而独自修行。一歌也吐露了想提升实力以支持志步职业梦想的心愿，并坦白了刚才街头表演失败的恐惧。心羽分享了自己最初的失败经历，指出志步正是因为信任一歌才愿意指导她。这番话唤醒了一歌关于志步“想和大家一起变强”的回忆，让她重新鼓起勇气决定再次尝试。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "初めての拍手",
+      "title_cn": "第一次的掌声",
+      "summary_cn": "次日，一歌重返街头，想起心羽的话语和志步的信任，克服恐惧全力歌唱。她的歌声吸引了路人驻足并赢得了第一次掌声，让她体会到了为他人歌唱的乐趣。数日后在“教室的世界”练习时，一歌突飞猛进的唱功惊艳了队友。志步称赞她已具备Live演出的水准，一歌则表示为了能让志步尽情演奏，自己会继续努力达到志步期望的高度。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "取り戻せたもの",
+      "title_cn": "第5章[重拾之物]",
+      "summary_cn": "一歌的街头表演渐入佳境,不仅吸引了路人驻足,甚至收到了路人返场的请求,这让她倍感喜悦。演出结束后,一歌被盛开的樱花吸引来到公园,回忆起儿时四人共度的时光。她感慨正是初音未来的歌声将分崩离析的伙伴重新连接,并帮助自己找回了初心。怀着满腔的感激,一歌决定将这份想要传达的心意告诉初音未来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "先輩と後輩と",
+      "title_cn": "前辈与后辈",
+      "summary_cn": "MEIKO和巡音流歌称赞初音未来的歌艺精进，并指出星乃一歌的歌声也因二人的“秘密特训”变得更有力量。初音谦虚地表示一歌是靠自己克服了困难，但流歌认为初音已成长为可靠的前辈。面对初音对自己不如另外两人成熟的担忧，流歌与MEIKO鼓励她做自己就好。此时一歌现身，两位前辈识趣回避。一歌感谢初音之前的建议，并邀请初音前往现实世界，希望能让她看一样东西。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ふたりで見る桜",
+      "title_cn": "两人共赏的樱花",
+      "summary_cn": "一歌邀请初音来到现实世界的公园共赏樱花,表示正是因为与身为重要之人的初音一同观看,景色才格外美丽。为了感谢初音让分崩离析的伙伴重新聚首,一歌通过歌声传达心意。初音聆听着歌声,回想起一歌从最初的迷茫犹豫,到为了挽回伙伴拼命努力,直至四人乐队重组的历程,内心决定要继续陪伴她们。曲终,初音盛赞一歌的特训成果,正当一歌准备传达另一件事时,却突然被熟悉的声音叫住。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "出会う、桜の季節に",
+      "title_cn": "相遇在樱花时节",
+      "summary_cn": "实乃里和心羽被一歌的歌声吸引,三人即兴开始了合唱。路过的宵崎奏在险些被匆忙的天马司撞倒后,也被公园传来的歌声打动而驻足聆听。合唱让三人倍感快乐,实乃里和心羽提议互相直呼名字,彼此关系更进一步。一歌留意到刚才聆听的奏,决心要为了能再次传达歌声而努力。同伴离开后,一歌向初音感慨是她的歌声连接了众人,初音则温柔地表示这源于一歌对自己心愿的重视,两人一同在樱花树下展望未来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ohanami_2021/event_ohanami_2021_08.webp"
+    }
+  ]
+}

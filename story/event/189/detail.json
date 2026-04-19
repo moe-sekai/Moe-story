@@ -1,0 +1,74 @@
+{
+  "event_id": 189,
+  "title_jp": "ともに、トゥルールートを目指して",
+  "title_cn": "一同以True Route为目标",
+  "outline_jp": "宮益坂女子学園の校外学習で、近未来博物館を見学することになったまふゆ。特に興味が向かなかったが、えむの誘いで一歌、こはねを含む４人で展示を巡ることになり——。\n",
+  "outline_cn": "在宫益坂女子学园的校外学习中，真冬决定去参观近未来博物馆。虽然她并没有特别的兴趣，但在笑梦的邀请下，她将与包括一歌、心羽在内的四人一起参观展示——。",
+  "summary_cn": "真冬在校外学习中为成全他人，加入笑梦、一歌和心羽的小组参观近未来博物馆。游览中真冬虽表现得成熟体贴，却始终压抑真心，被流歌指出仍在伪装。在体验VR游戏时，面对同伴被抓的危机，真冬本欲牺牲自己换取通关，却被坚持“全员一起走到最后”的心羽阻止。最终，两人通过沟通与游戏内的外星人和解，达成了圆满结局。这次经历让真冬久违地感到快乐，不仅坦言很高兴能共同通关，还主动购买了纪念品。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "いつもどおりの光景",
+      "title_cn": "一如既往的光景",
+      "summary_cn": "真冬在奏家做好了早餐，两人一同用餐。虽然真冬在这里感到安心，但也隐约挂念着母亲。奏用望月穗波送的茶叶泡了茶，并关心地询问真冬的行程，得知真冬因校外学习讨论和委员会工作会晚归，叮嘱她不要勉强自己。来到学校，班级讨论校外学习的地点。原本真冬答应和同学一起去美术馆，但因报名人数超员，为了成全同学，真冬主动提出改去“近未来博物馆”，谎称自己本来就在犹豫，解决了名额冲突。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "予想外のお誘い",
+      "title_cn": "意外的邀请",
+      "summary_cn": "放学后，真冬偶遇期待校外学习的笑梦。笑梦察觉到真冬虽然在笑却并非发自真心，为了让她开心，便热情介绍博物馆的VR展，并邀请真冬加入自己和朋友的小组，真冬虽无所谓但还是答应了。数日后在“无人的世界”，瑞希提议大家去同个博物馆玩VR游戏，奏因易晕3D、绘名因怕人多而拒绝。真冬透露明日将去该处校外学习，流歌看穿真冬的消极态度，却对即将发生的事感到期待。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "近未来の中へ",
+      "title_cn": "步入近未来",
+      "summary_cn": "第二天，真冬在博物馆与笑梦、一歌、心羽汇合。众人被馆内科幻般的装潢吸引，决定优先参观期间限定的“虚拟世界技术展”。大家依序体验了VR迷宫、初音未来的VR演唱会及AR拍照。在迷宫中，真冬冷静指挥大家躲避虚拟滚石；演唱会上，一歌因与初音未来击掌而激动不已；拍照环节，真冬受心羽感染主动提出借手机帮三人拍照。尽管众人玩得很开心，暗中观察的流歌却指出，真冬依旧戴着面具，没有任何改变。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "優しいあなたにも",
+      "title_cn": "致温柔的你",
+      "summary_cn": "大家在休息时,心羽感叹真冬既成熟又体贴,但内心疑惑真冬是否真正享受这次游玩。为了照顾真冬,心羽提议去真冬想去的展位。真冬因没有特别的喜好,便以有助于写校外学习报告为由,选择了VR历史展。心羽虽觉得这并非真冬的真心愿望,但还是依言前往。之后众人体验制作虚拟形象的APP,正当真冬准备随波逐流地模仿范本制作时,流歌突然出现并向真冬搭话,希望能与她聊天。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "突然の来訪者",
+      "title_cn": "第5章【突然的访客】",
+      "summary_cn": "流歌突然出现在真冬面前，指出她依旧在伪装自己，建议她寻找自己真正感兴趣的事物，但真冬表示只想成全他人。随后笑梦展示了想以此逗笑真冬的“鲷鱼烧妖精”虚拟形象，真冬反应平淡，并借口未完成而没有制作自己的形象。在前往最后的展位时，心羽想确认真冬的真实意愿，真冬则顺势提议体验大家似乎都感兴趣的VR游戏《Frontier Genesis》。工作人员介绍该游戏目标是在外星建立据点，且包含能通过对话改变结局的外星人互动要素。四人佩戴好设备进入游戏世界，开始了素材收集与据点建设。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "未知の冒険",
+      "title_cn": "未知的冒险",
+      "summary_cn": "众人在真冬的指导下收集素材,笑梦提议搭建舞台举办演唱会,心羽则感动于真冬默默建造防御工事的体贴。突然外星人现身,笑梦试图沟通却遭攻击,与一歌一同被抓走。真冬冷静地制止了想要冲去救人的心羽,两人利用炸弹箭引开守卫找到同伴,却发现牢笼被锁。推测钥匙藏在洞窟中,两人再次引开守卫潜入,却发现洞内弥漫着会持续扣减HP的毒气。为了防止全军覆没,真冬让心羽留在安全处,决定独自冲入充满毒气的洞窟寻找钥匙。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "選び取る道は",
+      "title_cn": "选择的道路",
+      "summary_cn": "心羽不愿真冬牺牲自己去取钥匙,坚持要寻找全员一起通关的方法。真冬妥协后,回想起工作人员关于沟通的提示,推测存在翻译工具,并成功在飞船内找到。两人利用翻译机与外星人对话,真冬主动提出将收集的素材赠予对方作为友好的证明。外星人欣然接受并释放了同伴,甚至协助众人建设据点。最终,大家齐心协力成功通关游戏。看着欢笑的众人,真冬意识到正是心羽的坚持才带来了这个圆满的结局。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "重なる想い",
+      "title_cn": "重叠的心意",
+      "summary_cn": "游戏体验结束后，真冬向心羽道谢，并向一歌和笑梦解释：原本自己打算牺牲并在毒气洞窟中“Game Over”来获取钥匙，是心羽坚持要寻找全员通关的方法才阻止了她。心羽表示自己只是想和真冬一起游玩到最后，真冬听后也坦言很高兴能和大家一起通关。闭馆广播响起，真冬留意到了游戏周边柜台，提议大家看看。看着讨论外星人挂件和玩偶的三人，真冬也表示因为游戏很有趣，想买点什么留作纪念。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_trueroute_2025/event_trueroute_2025_08.webp"
+    }
+  ]
+}

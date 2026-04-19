@@ -1,0 +1,74 @@
+{
+  "event_id": 30,
+  "title_jp": "きっと最高のsummer！",
+  "title_cn": "一定是最棒的夏天！",
+  "outline_jp": "臨海学校で海へやってきた宮益坂女子学園の１年生達。\n同じ部屋になった穂波・咲希・えむ・こはねは、学校の恒例行事である『発表会』で、演奏と歌の経験を活かしてミュージカルの曲を発表することになるが……？",
+  "outline_cn": "宫益坂女子学园的一年级学生们因临海学校的活动来到了海边。被分到同一个房间的穗波、咲希、笑梦和心羽,将在学校的惯例活动'发表会'上,发挥各自演奏与歌唱的经验来表演音乐剧曲目,然而……？",
+  "summary_cn": "在临海学校,咲希、穗波、笑梦和心羽组成了临时队伍,决定在发表会上表演音乐剧插曲。虽然练习初期合奏缺乏协调,但在初音未来的声援和志步的建议下,众人打破原有束缚,将真挚情感融入演奏,成功磨合出完美的和声。演出当天突发乐器破损意外,咲希与笑梦利用魔术秀机智救场。最终,四人呈现了一场充满默契的精彩演出并荣获银奖。虽然错失金奖,但在海边烧烤与夕阳的陪伴下,大家共同庆祝这充满羁绊的难忘夏天,并期盼未来能再次同台。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "やってきた！　臨海学校",
+      "title_cn": "到了！临海学校",
+      "summary_cn": "咲希、穗波和笑梦在临海学校的海边享受时光，并讨论起分组表演的事，心羽随后作为第四人加入。经交流发现，心羽不仅是笑梦所在组合的头号粉丝，还因与咲希的青梅竹马冬弥组队而认识咲希的哥哥司。游泳练习时，咲希因过往住院经历对下海感到恐惧，穗波便主动教她和心羽游泳。期间笑梦收到了初音未来的声援，并拿出泳圈协助。在众人的互助下，咲希成功克服恐惧学会了游泳，随后大家一同前往参加切西瓜大赛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "発表会で何しよう？",
+      "title_cn": "发表会上做什么好呢？",
+      "summary_cn": "笑梦在海边与初音未来寻找贝壳作为给虚拟歌手们的礼物，因没找到大贝壳，饭后穗波主动帮她一同寻找并成功找到。另一边，心羽和咲希在体育馆交流了各自所在的“Vivid BAD SQUAD”和“Leo/need”组合的情况与目标。四人汇合后商讨发表会内容，决定结合众人特长，由咲希和穗波演奏、笑梦和心羽演唱，共同表演音乐剧《Happy Lucky Summer!》中的插曲《BEST SUMMER》。为了获得人气咖啡厅“Le Lion”的招待券，大家约定要以此曲夺得金奖。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ちぐはぐな音色",
+      "title_cn": "不协调的音色",
+      "summary_cn": "众人借用宿舍教室开始排练,初音未来也通过手机为笑梦声援。咲希提议先听心羽独唱,其动听的歌声令大家赞叹不已。然而全员合奏时,尽管演奏无误,大家却总觉得不够协调。笑梦指出这是因为过于在意音准而缺乏了音乐剧应有的情感表达。众人尝试融入感情再次演奏,虽有改善但仍未完美融合,且练习时间已尽。事后,面对为此苦恼的笑梦,初音未来温柔地给予了鼓励。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "もっと、自由に",
+      "title_cn": "更加自由地",
+      "summary_cn": "穗波被志步叫去抽签决定发表会出场顺序，留下笑梦和心羽继续练习。笑梦提议通过揣摩曲中角色的心情来提升表现力，并引导心羽联想童年与朋友吵架后的尴尬经历，两人成功将真挚的情感融入歌声中。另一边，穗波向志步倾诉烦恼，表示难以兼顾节奏准确性与笑梦所要求的“自由演奏”。志步一针见血地指出穗波仍受限于Leo/need的演奏习惯，建议她根据现有成员的风格放手去演。穗波豁然开朗，随后二人被一歌等人邀请去玩水。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "見つけだしたハーモニー",
+      "title_cn": "寻得的和声",
+      "summary_cn": "笑梦和心羽在海边练习歌唱,通过代入角色心情成功提升了表现力。另一边,穗波偶遇前来自主练习的咲希,向她转述了志步的建议:不要受限于Leo/need的演奏习惯,要配合现在的成员自由演奏。两人决定尝试融入情感进行练习。四人汇合后,在初音未来的守望下再次合奏,全员将想要和好的心情注入音乐,终于奏出了完美的和声。路过的志步听到这充满生机的演奏,安心地确信穗波已经没问题了。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "突然のハプニング",
+      "title_cn": "突发意外",
+      "summary_cn": "发表会即将开始,众人正做准备,却因意外导致唯一的鼓破损。虽联系到附近高校可借用,但往返需40分钟。志步建议调整出场顺序,于是穗波与心羽前去搬运乐器,笑梦和咲希留守协调。考虑到单纯延长休息时间会让观众感到无聊,笑梦在初音未来的建议下,决定利用这段空档增加一个额外的表演节目。在志步协助准备道具并获得老师许可后,笑梦与咲希登台救场,为同伴争取时间。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなでつなぐ物語",
+      "title_cn": "大家共同连接的故事",
+      "summary_cn": "为了填补搬运乐器的空档，咲希和笑梦在初音未来的语音协助下表演了精彩的魔术秀，成功为同伴争取了时间。待穗波和心羽带回乐器后，四人正式开始演奏《BEST SUMMER》。演出中，笑梦和心羽将角色和好的情感完美融入歌声，咲希即兴加入了欢快的伴奏，穗波也受其感染打破束缚自由演奏。这一充满故事感与默契的“音乐剧”令台下的志步等人大为震撼与感动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "最高の夏",
+      "title_cn": "最棒的夏天",
+      "summary_cn": "众人庆祝荣获银奖与食堂餐券,虽然错失金奖,但演出收获了伙伴们的盛赞。烧烤期间,笑梦独自跑去海边向初音未来倾诉,表示已不再因夕阳感到寂寞。随后穗波等人寻来,四人共赏落日美景。尽管深知即将回归各自的组合与日常练习,大家仍珍惜当下,一同去烤棉花糖。看着伙伴们的背影,穗波心中默默许愿,期盼未来四人能再次同台演奏。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_summer_2021/event_summer_2021_08.webp"
+    }
+  ]
+}

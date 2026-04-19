@@ -1,0 +1,74 @@
+{
+  "event_id": 114,
+  "title_jp": "最高のクランクアップ！",
+  "title_cn": "最棒的杀青！",
+  "outline_jp": "今年から開催されることとなった神山高校芸術祭。寧々の所属する２年Ａ組はクラス一同で映画を作ることになる。そんな中、寧々はクラスメイトを率いる大役を任されて……！？",
+  "outline_cn": "神山高中决定从今年起举办艺术节。宁宁所在的2年A班决定全班一同制作电影。在此情况下，宁宁被委以率领同学们的重任……！？",
+  "summary_cn": "神山高中举办首届艺术节，宁宁被推举为2年A班电影制作的导演。起初她因缺乏自信且不擅领导而苦恼，但在杏与彰人的协助及虚拟歌手的开导下，她学会深入了解同学，发挥众人特长制作出了凝聚全班创意的剧本。拍摄中途虽遭遇替身受伤的危机，但宁宁坚持不留遗憾，带领大家克服困难完成了高难度拍摄。最终，电影在艺术节上荣获“特别评委奖”，宁宁也通过这次经历消除了与同学的隔阂，收获了宝贵的羁绊与自信。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "神山高校芸術祭",
+      "title_cn": "神山高中艺术节",
+      "summary_cn": "神山高中2年A班的班会课上，老师宣布将举办首届“神山高中艺术节”，要求全班合作进行艺术展示。在杏与彰人等同学的讨论下，班级决定制作电影。考虑到制作难度，大家推举既是电影社成员又有演出经验的宁宁担任导演。起初宁宁因缺乏自信且不擅长领导而犹豫，但得知同学们曾被她的演出感动，且为了锻炼自己成为未来的音乐剧演员，她最终鼓起勇气接下了这一重任。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "まとめられない会議",
+      "title_cn": "无法统合的会议",
+      "summary_cn": "宁宁主持班会讨论电影题材,同学们热情高涨,接连提出了动作、恐怖、科幻等五花八门的方案。甚至有人提议将所有要素混合在一起,导致场面一度混乱,让不擅长控场的宁宁不知所措。幸好彰人和杏及时出面解围,指出大杂烩只会让剧情晦涩难懂,建议确立一个主题材并适当融合其他元素。最终班级决定制作动作电影,由宁宁负责撰写剧本。会后,面对疲惫不安的宁宁,杏和彰人表示会全力协助,让她感到宽慰。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "想いを知ったら",
+      "title_cn": "知晓心意",
+      "summary_cn": "宁宁在图书馆偶遇冬弥，在他的帮助下找到了急需的剧本集。回家后，宁宁苦恼于如何将同学们五花八门的要求融入剧本，便前往“世界”散心。她向虚拟歌手倾诉自己因性格差异与同学存在隔阂，但在连和MEIKO的开导下，她意识到应像对待司等人那样，通过深入了解对方来消除隔阂。随后，虚拟歌手们热情地协助宁宁构思剧本，让她重拾信心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "クラスメイト",
+      "title_cn": "同班同学",
+      "summary_cn": "宁宁带着在虚拟歌手协助下完成的剧本初稿来到学校,虽然故事融合了末世与料理对决等混杂元素,但杏和彰人仍称赞她成功整合了大家的想法。为了推进制作,杏建议根据特长分配工作,并推荐打扮时尚的立花负责服装。宁宁起初因立花外表张扬而感到畏惧,但在看到立花为梦想绘制的专业设计图后,她放下了成见。随后,杏号召全班同学集合,宁宁鼓起勇气寻求帮助。同学们纷纷响应,主动承担摄影、动作指导等工作,并为此前将重担全推给宁宁而道歉,全班团结一致决心拍好电影。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "撮影開始！",
+      "title_cn": "拍摄开始！",
+      "summary_cn": "拍摄日临近,宁宁与负责摄像的网泽、负责动作的宗田等人交流,并指导杏和彰人的演技,感觉与同学的关系更加融洽了。拍摄当天,由彰人担任主演,宗田负责替身,杏饰演女主角。拍摄初期,饰演反派的男生因紧张频频失误,宁宁结合自身经历,建议大家放松心态去享受表演,成功缓解了众人的紧张情绪。休息时,同学们感谢宁宁的认真指导提高了电影质量,这让大家干劲十足,宁宁也备受鼓舞,决心与大家共同拍好这部电影。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "後悔しないように",
+      "title_cn": "为了不留遗憾",
+      "summary_cn": "宁宁向连分享了与同学消除隔阂的喜悦,却突闻负责替身特技的宗田意外受伤。面对因无法拍摄特技导致电影质量可能下降的危机,宁宁不愿让大家留下遗憾,鼓励众人寻找替代方案。最终决定由彰人亲自上阵,配合立花制作的披风掩盖动作瑕疵,并利用网泽的无人机拍摄增强临场感。全班士气大振,决心合力打造最棒的结局。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "クランクアップ",
+      "title_cn": "杀青",
+      "summary_cn": "拍摄最终日，彰人完美演绎了高难度的动作场面。但在拍摄最后一幕时，彰人因风沙迷眼导致动作停顿，杏机智地进行即兴表演掩盖了失误，彰人也迅速配合完成了拍摄。宁宁喊出“卡”后宣布电影正式杀青，全班欢呼庆祝。同学们感谢宁宁坚持不留遗憾的决定，宁宁也向大家致谢，特别称赞了杏和彰人的配合，并确信这将是一部优秀的电影。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "わたし達の映画",
+      "title_cn": "我们的电影",
+      "summary_cn": "艺术节当天，在瑞希与司等人的班级相继展示后，宁宁班级的电影终于上映。彰人饰演的流浪厨师与杏饰演的少女在末世背景下的故事收获了观众的好评。放映后，宁宁向大家坦白了最初的不安，同学们纷纷表达感谢，班级氛围愈发融洽。颁奖仪式上，虽然电影未获前三，却凭借团结一致的青春感荣获“特别评委奖”。宁宁代表班级领奖，感受着凝聚众人心血的奖杯重量，庆幸自己接下了导演重任，并期待未来与大家继续友好相处。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_crankup_2023/event_crankup_2023_08.webp"
+    }
+  ]
+}

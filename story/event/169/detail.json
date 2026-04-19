@@ -1,0 +1,74 @@
+{
+  "event_id": 169,
+  "title_jp": "Aim higher and higher！",
+  "title_cn": "向着更高处进发！",
+  "outline_jp": "ついにやってきた、大河と謙が出演するイベントの日。世界レベルのイベントに期待を膨らませるVivid BAD SQUADだが、ある出来事をきっかけに意外な人物と再会することになり——。",
+  "outline_cn": "大河与谦出演活动的日子终于到来。Vivid BAD SQUAD对这场世界级的活动充满期待，却因某件事为契机，与意想不到的人物重逢——。",
+  "summary_cn": "Vivid BAD SQUAD前往纽约观看大河与谦出演的“SONIC NOTES”。期间，心羽通过与实力派组合“illys”即兴合唱获得成长，众人也结识了同样受RADder影响的双子斯雷德与塞德里克。在被大河与谦的顶级演出震撼后，VBS领悟了“征服世界”的真谛。得知赢得“RUSH BEATS”大赛即可获得通往顶级音乐节“Lasting ECHO Fes”的资格后，VBS决心参赛，与双子互为劲敌，共同向着更高的舞台进发。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "今日はついに",
+      "title_cn": "终于到了今天",
+      "summary_cn": "Vivid BAD SQUAD全员来到纽约，准备观看大河与谦出演的“SONIC NOTES”活动。在小巷练习时，心羽受此前“世界”中噩梦的影响，决心更加珍惜与伙伴的时光并立志“征服世界”。初音和冬弥肯定了她的成长，虽然目标尚抽象，但大家决定脚踏实地积累经验。冬弥说明了该活动虽历史尚浅但规模宏大。随后杏和彰人买水归来，心羽尝试新编曲时的歌声吸引了路过的一对神秘二人组，对方虽未上前搭话，却也被激起了歌唱的兴致。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "異国の出会い",
+      "title_cn": "异国邂逅",
+      "summary_cn": "Vivid BAD SQUAD全员集合前往跳蚤市场，途中偶遇被人群包围的实力派姐妹组合“illys”（艾琳娜与蕾贝卡）。两人歌声震撼，彰人和冬弥也对其实力表示惊叹。艾琳娜认出了早上在路边练习的心羽，竟用日语邀请她加入演唱。心羽鼓起勇气接受邀请，与姐妹俩即兴合唱，双方在歌声中极尽享受，配合默契，引发路人欢呼。曲终后，姐妹俩向众人致谢并期待未来能与VBS全员共演。这次“异国邂逅”让心羽感到无比兴奋，也让伙伴们深受触动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ドタバタの再会",
+      "title_cn": "慌乱的重逢",
+      "summary_cn": "伙伴们向初音分享了刚才与illys合唱的兴奋经历，随后一同抵达跳蚤市场。当杏还在纠结购物路线时，彰人和冬弥去买热狗，却不料遭遇扒手抢走钱包。初音及时示警，正当彰人欲追赶之际，曾在日本相识的双子——斯雷德与塞德里克突然出现，拦下小偷并帮忙夺回了钱包。原来此地是二人的“主场”，他们也猜到VBS是为SONIC NOTES而来。为了好好说明上次未能提及的关于凪的事情，双子邀请众人前往附近的咖啡厅详谈。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "同じ想いで",
+      "title_cn": "怀着同样的心意",
+      "summary_cn": "在咖啡厅，双子讲述了往事：贫困童年时他们曾试图偷窃大河钱包未遂，反被大河放过并受邀观看演出。那次体验彻底改变了他们的人生，使其投身音乐。杏意识到父亲提过的“在美国修行的双子”正是二人，双子也坦言曾视受凪夸奖的杏为劲敌。双子视RADder为恩人和家人，立志超越凪的梦想。这番话令同样因音乐改变人生的VBS全员深受共鸣，大家感叹缘分的奇妙，决定一同游览跳蚤市场。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "一緒にフリーマーケット！",
+      "title_cn": "一起逛跳蚤市场！",
+      "summary_cn": "VBS全员在双子的带领下畅游跳蚤市场。斯雷德与彰人在古着店交流穿搭,冬弥则将食物分给塞德里克。看到古董相机,双子怀念起曾借用凪的相机拍照的往事。随后众人来到唱片店,塞德里克回忆起谦曾教导他们凭直觉挑选唱片,结果却意外买到名为爵士实为落语的唱片引发大笑的趣事。心羽最终也凭直觉买下一张唱片,众人约定有机会去试听咖啡厅,随后怀着对大河演出的期待,一同前往活动会场。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "昂り",
+      "title_cn": "情绪高涨",
+      "summary_cn": "众人抵达SONIC NOTES会场，被容纳十万人的宏大规模与多国语言交织的氛围所震撼。斯雷德与塞德里克被现场粉丝认出并受到声援，彰显了其在当地的人气与实力。随后，虚拟歌手们也纷纷现身，与大家一同期待大河等人的演出。随着第一组表演者“UPsetter”登场，如地鸣般的欢呼声响彻全场。VBS全员瞬间被顶级的舞台表现力与狂热气氛所感染，决心全神贯注地吸收这场世界级演出的每一刻。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "『世界』",
+      "title_cn": "“世界”",
+      "summary_cn": "众人被开场乐队的震撼演出点燃热情，随后谦与大河作为组合“RaveN”登场，瞬间凭借压倒性的歌声掌控全场。目睹这热烈的景象，彰人确信这就是他们追求的“世界”，心羽也领悟到“征服世界”便是用歌声让观众狂热。演出后众人前往后台致意，大河却表示这还不够，宣布他们将参加美国最大的音乐节“Lasting ECHO Fes”，誓要创造比今日更狂热的舞台。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "見据える先は",
+      "title_cn": "凝视的前方",
+      "summary_cn": "大河透露他们将参加世界顶级音乐节“Lasting ECHO Fes”，这让VBS全员确信，在那个舞台上令观众狂热便是“征服世界”的真谛。大河告知众人，虽然门槛极高，但若能在名为“RUSH BEATS”的大赛中夺冠，就能获得作为新人登台演出的机会。面对这一通往梦想的捷径，VBS与双子虽意识到彼此将成为竞争对手，仍互不相让地决定参赛。看着这群热血的后辈，谦与大河感到怀念，同时也决心继续在前方领跑。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_higher_2025/event_higher_2025_08.webp"
+    }
+  ]
+}

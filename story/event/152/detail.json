@@ -1,0 +1,74 @@
+{
+  "event_id": 152,
+  "title_jp": "Special present for YOU！",
+  "title_cn": "给你的特别礼物！",
+  "outline_jp": "クリスマスも近づくある日、「ゲレンデのクリスマスショー」の演出依頼が舞い込み、久々に脚本を手掛けることになった類。今回のショーは、子供の頃の類がクリスマスに経験したことが元になっているようで……？",
+  "outline_cn": "圣诞临近的某天，类收到了“滑雪场圣诞演出”的导演委托，久违地再次负责剧本。这次演出的原型似乎源于类童年时期的圣诞经历……？",
+  "summary_cn": "神代类受托执导滑雪场的圣诞演出，剧本灵感源于他童年试图捕捉圣诞老人的经历，Vivid BAD SQUAD众人也前往观看。然而演出当天突发状况，导致关键道具灯笼无法送达。在心羽“演出是礼物”的言语启发下，类决定邀请观众用废弃容器制作手工灯笼代替。在两团成员的协作下，观众手中的灯火汇聚成“光之道路”，不仅化解了危机，更造就了梦幻般的演出。类感谢众人的帮助，决心为了带给人们梦想继续磨练导演技艺。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "クリスマスの予定は",
+      "title_cn": "圣诞节的安排",
+      "summary_cn": "神代类在音乐学院偶遇凤笑梦，得知队友们都在留校加练。两人聊起即将举办的滑雪场演出，这是凤家二哥庆介带来的委托，因滑雪场老板赏识类之前的演出，特邀他执导这场面向儿童的圣诞秀。类接下工作并提议由组合全员共同出演以积累经验。对于久违的剧本创作，类干劲十足，透露打算利用兰笼营造梦幻般的圣诞高潮，笑梦也表示会全力支持。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "楽しみな理由は？",
+      "title_cn": "期待的理由",
+      "summary_cn": "Vivid BAD SQUAD全员在商场挑选滑雪手套，虚拟歌手们也现身加入讨论。冬弥表示想再次尝试滑雪，而心羽除了滑雪外，更期待在该滑雪场观看由“Wonderlands×Showtime”带来的圣诞演出，并兴奋地介绍这次演出是由神代类负责。尽管冬弥对前一天的暴雪预报有些担忧，但大家认为只要演出当日放晴就没问题，随后便约定一同观赏演出并继续挑选装备。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "ゲレンデでこんにちは",
+      "title_cn": "滑雪场上的问候",
+      "summary_cn": "圣诞当日，Wonderlands×Showtime结束彩排，类展示了为演出制作的“雪球制造机”。此时Vivid BAD SQUAD众人抵达，心羽兴奋地表达了对“如梦似幻”演出的期待。面对冬弥的询问，类解释了本次演出的剧情：最强圣诞老人为了给孩子们送礼物，必须击败雪人怪人等强敌。正当大家对这独特的剧情感到惊讶时，类透露这个故事其实取材于他童年的亲身经历。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "いつかのクリスマス",
+      "title_cn": "某年的圣诞节",
+      "summary_cn": "类回忆起童年往事，当时他为了当面向圣诞老人道谢，在屋内设置了各种感应机关。父母为了顺利送达礼物，诱导类透露了所有机关的细节。最终类虽未见到圣诞老人，但收到了礼物与回信，这段经历正是本次“最强圣诞老人”剧本的灵感来源。回到现实，因造雪机误制了大量雪球，众人兴致勃勃地展开了打雪仗。然而就在大家尽情玩耍时，工作人员慌张地跑来报告突发状况：演出所需的器材可能无法按时送达。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "最高のショーのために",
+      "title_cn": "为了呈现最棒的演出",
+      "summary_cn": "工作人员告知因大雪导致运输器材的卡车受困，演出高潮所需的灯笼无法送达。虽然修改剧本也能完成故事，但类不愿放弃心中那梦幻般的景色，苦苦思索替代方案。在一旁得知情况的心羽主动提出帮忙，她表示这场演出对观众而言就像“圣诞礼物”般珍贵。这句话点醒了类，让他决心像童年的圣诞老人那样克服困难。最终，类受到启发想出了新点子，并请求在场众人协助以解决人手不足的问题，誓要呈现最棒的演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "みんなでランタン作り！",
+      "title_cn": "大家一起制作灯笼！",
+      "summary_cn": "为了应对器材缺失的危机，类提议利用牛奶盒与塑料瓶制作手工灯笼，并邀请观众手持灯笼在雪坡排列成“光之道路”来代替原本的演出效果。在Vivid BAD SQUAD众人的协助宣传下，大量游客被这种参与型演出吸引而来。制作现场，两团成员与孩子们亲切互动，流歌也现身感叹大家的作品各具个性。看着乐在其中的众人，类深受感动，决心一定要回应这份期待，呈现出最好的演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ショーという名のプレゼント",
+      "title_cn": "名为演出的礼物",
+      "summary_cn": "VBS众人与其他观众一同观赏演出，惊讶于极其强壮的圣诞老人演员以及扮演驯鹿的天马司。剧中，圣诞老人们靠肌肉击败了圣诞树与雪人怪人。高潮时，驯鹿突然背叛并熄灭了城镇灯光以阻碍送礼。关键时刻，观众们配合引导点亮了手中的手工灯笼，汇聚成一条“光之道路”。圣诞老人们借此指引滑下雪坡，成功将礼物送到孩子们手中，并许下明年再见的约定，演出圆满落幕。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "楽しんでくれた君達に",
+      "title_cn": "献给乐在其中的你们",
+      "summary_cn": "演出结束后,类在收拾场地时听到观众对互动环节好评如潮,感到无比欣慰。Vivid BAD SQUAD众人也前来致谢,心羽感叹能成为这梦幻演出的一部分是最好的圣诞礼物。类特意感谢了心羽,坦言正是她当初的提议启发了这次的创意。看着期待下次演出的众人,类在心中暗下决心,为了回应这份期待并继续带给人们梦想,今后要作为导演不断磨练自己的技艺。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_specialpresent_2024/event_specialpresent_2024_08.webp"
+    }
+  ]
+}

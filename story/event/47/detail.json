@@ -1,0 +1,74 @@
+{
+  "event_id": 47,
+  "title_jp": "いつか、絶望の底から",
+  "title_cn": "终有一天，从绝望的谷底",
+  "outline_jp": "ある日、奏はまふゆと知り合ってかなりの月日が流れていることに気づく。ナイトコード上でその話をすると、２人の出会いについて問われ、奏は『25時、ナイトコードで。』の始まりを語り始める……。",
+  "outline_cn": "某天，奏意识到自己与真冬相识已久。在Nightcord上提起此事后，大家问起两人相遇的经过，奏便开始讲述“25时，在Nightcord见。”的起源……",
+  "summary_cn": "本剧情回顾了“25时，在Nightcord见。”成立的始末。两年前，奏因父亲倒下而背负沉重罪恶感，不顾身体极限拼命创作以“拯救”他人。与此同时，内心空虚迷茫的真冬被奏的音乐撼动，化名“雪”发布改编曲试图探寻这份触动。奏被其中纯粹的绝望吸引，在因过劳倒下并被穗波救助后，邀请真冬合作。两人约定在深夜25时连线，在彼此的绝望中寻找救赎。回到现实，真冬庆幸当年的相遇，奏也再次坚定信念，决心通过创作拯救真冬与所有伙伴。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "振り返る月日",
+      "title_cn": "回顾的岁月",
+      "summary_cn": "奏在Nightcord与成员们讨论新曲创作时，因真冬提及期末考试将减少上线，意识到自父亲倒下已过去两年。次日，负责家政的望月穗波来做炖菜，两人聊起这两年的变化，穗波感叹奏变得平和了许多，认为这是因为奏身边有了可以倾诉的伙伴。与此同时，在“无人的世界”中，感到无聊的巡音流歌不愿只等待悲伤时的真冬等人，决定拉着初音未来主动去观察现实中大家快乐的样子。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "追憶、あの日の暗闇へ",
+      "title_cn": "追忆，通往那日的黑暗",
+      "summary_cn": "奏提起与穗波关于这两年变化的谈话，瑞希便对只有K与雪两人的早期时光感到好奇。此时，巡音流歌带着初音未来突然出现在屏幕上，表示也想听这段往事。奏开始回忆：两年前父亲倒下后，她决心创作能拯救他人的曲子。尽管收到听众表示“被拯救了”的评论，中学时代的奏仍觉得不够，执着地认为只有不断创作并拯救更多人，自己才有活下去的资格。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "淀んだ絶望の底で",
+      "title_cn": "在沉滞绝望的谷底",
+      "summary_cn": "中学时代的奏为了持续创作，拒绝了住院祖母雇佣家政工的提议，仅靠果冻度日并拼命写歌。另一边，真冬在初中毕业之际感到迷茫，尽管母亲提出送礼物庆祝，她却发现自己没有任何想要的东西，对一成不变的未来感到空虚。某日，真冬在敷衍完同学推荐的乐曲后，偶然点开了推荐栏的一个视频。这首曲子瞬间抓住了她的心脏，带来了久违的震撼与痛楚。沉浸其中许久后，真冬终于关注到了这位让她重拾感觉的创作者的名字——“K”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "揺り動かされた心",
+      "title_cn": "被撼动的心",
+      "summary_cn": "中学时代的奏为了拯救更多人,无视身体的不适与极限拼命创作。另一边,真冬发觉只有K的曲子能触动自己空虚的内心,却无法理解原因。升入高中后,真冬在入学式上偶遇音乐老师,询问如何探究曲子的奥秘,老师建议她尝试亲自创作。受此启发,真冬在家中找出了父亲旧时的合成器,瞒着母亲将其带回房间。深夜,为了探寻K的曲子为何能撼动自己的心,真冬开始模仿K的旋律,尝试制作属于自己的音乐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "同じ絶望の音色",
+      "title_cn": "同样的绝望音色",
+      "summary_cn": "真冬尝试对K的曲子进行改编以探究其中的绝望，现实中却因母亲强加的期望感到内心冻结，最终看着窗外的雪以“雪”为名发布了作品。奏在身体濒临极限时听到了这首编曲，虽觉制作拙劣，却被其中纯粹的虚无感触动而灵感爆发。奏迅速创作出新曲回应，感到或许能与此人共同前行，却在这一刻因体力透支而昏倒。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "もうひとつの出会い",
+      "title_cn": "另一场相遇",
+      "summary_cn": "奏在医院醒来，得知是祖母雇佣家政人员时，随行的初中生穗波发现了昏倒的自己。面对祖母不希望她重蹈父亲覆辙的恳求，奏为了能延续创作生命，同意接受家政服务，并与穗波结下缘分。回家后，奏回味起“雪”的改编曲带来的强烈灵感，主动联系对方寻求合作。另一边，迷茫的真冬收到了“K”的邀请，为了寻求改变而接受。两人约定在语音软件“Nightcord”上初次语音，真冬确信对方就是能动摇自己内心的“K”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "そして、巡り会う",
+      "title_cn": "于是，相遇",
+      "summary_cn": "奏与以“雪”为名的真冬在Nightcord初次语音，坦言因在其编曲中感受到绝望谷底的光芒而邀请合作。因真冬家教严格只能深夜上线，两人约定“25时，在Nightcord见”。次日工作时，两人发现同为15岁并互免敬语。真冬敏锐地提出增加曲中“沉滞感”的建议，奏虽觉真冬不可思议，却感到与其相处十分舒适，两人正式开启了共同创作。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "微かな光のほうへ",
+      "title_cn": "迈向微弱的光芒",
+      "summary_cn": "回忆结束，两年前的奏与真冬完成合作曲，奏感谢真冬帮她描绘出了“纯白的绝望”，两人内心都寄希望于彼此能带来救赎。回到现实，瑞希和绘名听完往事后感慨万千，奏与真冬也庆幸如今能建立起这样的羁绊，令旁听的初音未来和巡音流歌倍感欣慰。由于天色已亮，众人决定下次再讲述绘名与瑞希加入的经过。下线前，真冬突然对奏坦白，庆幸当初接受了她的邀请。奏深受触动，意识到虽然绝望尚未消失，但大家确实在一步步前行，决心继续创作以拯救真冬和所有人。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tricolo_2022/event_tricolo_2022_08.webp"
+    }
+  ]
+}

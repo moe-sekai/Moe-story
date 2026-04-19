@@ -1,0 +1,74 @@
+{
+  "event_id": 28,
+  "title_jp": "Awakening Beat",
+  "title_cn": "觉醒的节拍",
+  "outline_jp": "ソロでイベントに参加するなど、着実に経験を積んでいるこはね。\nその努力を認める杏・彰人・冬弥だが、こはねは未だに自信が持てないという。\nそこで杏達は、こはねに自信を持ってもらおうと働きかけるが……？",
+  "outline_cn": "心羽通过独自参加活动稳步积累着经验。虽然杏、彰人和冬弥都认可她的努力,但心羽似乎仍未建立起自信。于是杏等人为了让心羽拥有自信采取了行动,然而……？",
+  "summary_cn": "为了让缺乏自信的心羽建立信心，Vivid BAD SQUAD决定再次挑战曾遭遇挫折的活动“STAY GOLD”。尽管心羽因神秘男子的评价而动摇，但在杏的深信与鼓励下，她在舞台上觉醒了惊人的实力，带领队伍战胜强敌夺冠，并获得了神秘男子的认可。然而，目睹心羽爆发性的成长，杏在欣慰之余，内心深处却萌生了一丝被吞没的恐惧与不安，而这一异样也被彰人敏锐地察觉。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "４人で一緒に",
+      "title_cn": "4人一起",
+      "summary_cn": "Vivid BAD SQUAD演出获胜后在WEEKEND GARAGE召开反省会。杏提议心羽既然已练就足够的舞台胆量,不如停止个人活动,专注于四人的团队练习,彰人和冬弥也表示赞同。尽管心羽担心实力未追上队友,但在杏的肯定下,她答应了提议。不过,心羽请求参加下周已定好的个人活动,三人决定前去观看。回家练习时,心羽虽对杏的认可感到开心,内心却仍对自己是否真正具备与队友相当的实力感到不安。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "謎の男",
+      "title_cn": "神秘男子",
+      "summary_cn": "心羽在最后一次单人活动中表现出色，令前来观看的队友和观众赞叹不已。然而，一位神秘男子在肯定心羽实力的同时，指出若想超越RAD WEEKEND，她还缺少“审视自我的眼光”，没能真正正视自己。男子离开后，杏等人兴奋地迎接心羽，却发现她因那番话而情绪低落。心羽感到困惑，决定向队友们倾诉刚才发生的事。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "自分と向きあうということ",
+      "title_cn": "直面自我",
+      "summary_cn": "心羽向伙伴们转述了神秘男子的话,杏将其解读为缺乏自信,而彰人和冬弥则认为心羽虽然缺乏自信,但不满足现状、不断磨练自我的态度反而是优点。尽管如此,心羽仍觉得男子的话有道理,并提到他酷似杏的父亲且了解RAD WEEKEND。杏心中虽浮现出一个人选,却觉得不可能。练习结束后,杏提议换个地方休息并谈心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "自信の持ちかた",
+      "title_cn": "建立自信的方法",
+      "summary_cn": "心羽和杏来到“街头世界”的咖啡厅休息，MEIKO负责接待。杏再次称赞心羽在个人活动中的出色表现，认为她完全可以更自信，但心羽却困惑地询问究竟该“如何拥有自信”。面对MEIKO的询问，心羽回忆起童年因恐惧不敢爬树的经历，坦言自己总觉得不如别人，只能仰视大家。杏否定了她的自卑，MEIKO则指出心羽虽然善于发现他人优点，但更应该把目光转向自己身上的闪光点。在杏的鼓励下，心羽虽然尚未完全理解，但决心努力尝试去建立自信。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "踏み出す勇気",
+      "title_cn": "迈出的勇气",
+      "summary_cn": "心羽尝试自我暗示以建立自信却收效甚微。另一边，杏与彰人、冬弥商量后，提议全员参加即将举办的活动“STAY GOLD”。尽管这是队伍曾遭受挫折的赛事，但两人认为若能战胜强敌EVER并一雪前耻，成功的体验必能帮心羽树立自信。感受到伙伴心意的心羽决心不再退缩，为了能与大家并肩而立，她勇敢地同意参赛。随后众人前往“街头世界”，请求虚拟歌手们作为评委，开始了以夺冠为目标的特训。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "リベンジ・マッチを前に",
+      "title_cn": "雪耻之战前夕",
+      "summary_cn": "心羽在“街头世界”接受初音的指导刻苦特训。为了不再仰视队友，而是凭实力并肩前行并建立自信，她决心一定要赢。练习中，四人的歌声终于达成了完美的一体感，令虚拟歌手们惊叹。然而比赛当天，观众对队伍过往惨败的议论及对心羽的质疑，让她再次陷入对失败的恐惧。察觉到心羽异样的杏，便以呼吸新鲜空气为由将她带离了现场。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "私を信じて",
+      "title_cn": "相信我",
+      "summary_cn": "演出前，杏察觉到心羽的紧张，便带她到场外谈心。杏坦言自己也因上次的失败而紧张，并通过互相捏脸缓解了气氛。杏告诉心羽，如果无法相信自己，那就“相信那个深信着心羽歌声的白石杏”。这份信任让心羽重拾勇气。随后四人登台，在神秘男子的注视下开始演出。凭借着对伙伴的信任，心羽在独唱部分爆发出了令杏都感到震惊的实力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "みんなの隣で",
+      "title_cn": "在大家身旁",
+      "summary_cn": "演出中,心羽觉醒了惊人的实力,其爆发性的歌声不仅震撼了全场观众和神秘男子,连队友们都感到难以置信,杏甚至在一瞬间感到差点被吞没。凭借这股力量,VBS成功战胜EVER夺得冠军,神秘男子也认可了他们超越RAD WEEKEND的可能性。庆功宴上,心羽感谢杏的信任让自己能昂首歌唱。然而,面对心羽的飞速成长,杏在为伙伴高兴的同时,内心深处却涌现出一股难以言喻的不安与躁动,而这一丝异样被敏锐的彰人察觉到了。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_awakening_2021/event_awakening_2021_08.webp"
+    }
+  ]
+}

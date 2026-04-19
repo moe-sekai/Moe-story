@@ -1,0 +1,74 @@
+{
+  "event_id": 196,
+  "title_jp": "CHANGE！えむは王女さま！？",
+  "title_cn": "CHANGE！笑梦是公主殿下！？",
+  "outline_jp": "公演を無事に終えたワンダーランズ×ショウタイムは、今度は息抜きのためアークランドへ遊びに行くことに。えむは遊園地経営の勉強もしようと張り切るが、そこで偶然自分にそっくりな少女と出会い——。",
+  "outline_cn": "顺利结束公演的Wonderlands×Showtime这次为了放松心情,决定去Arkland游玩。笑梦虽然干劲十足地想要顺便学习游乐园的经营,却在那里偶然遇到了一位和自己长得一模一样的少女——。",
+  "summary_cn": "Wonderlands×Showtime前往Arkland游玩考察时,笑梦偶遇了与自己外貌如出一辙的伊尔加斯王国公主艾尔。艾尔梦想建造游乐园以重现父亲与国民的笑容,却因背负外交官职责而遭反对。产生共鸣的笑梦提议互换身份,助艾尔实地考察。面对提前归来并质疑女儿的国王,伪装的笑梦深受艾尔努力的感动,代替她展示了详尽的乐园计划。虽被识破,但及时赶回的艾尔在伙伴支持下勇敢坦露心声,最终以完善的规划和真挚的情感打动了父亲。计划获批后,艾尔与众人许下未来的约定,满怀希望地归国。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "みんなで遊んでお勉強！",
+      "title_cn": "大家一起边玩边学！",
+      "summary_cn": "Wonderlands×Showtime与镜音铃来到Arkland,打算在尽情游玩的同时协助笑梦考察游乐园的经营细节。众人体验了设施并称赞了园区的引导与服务。途中偶遇剧场演员,得知熟人旭为了某种目的暂时离开了Arkland且去向不明,司决定事后联系询问。此时,一名正被追赶的少女突然撞过来,笑梦将其接住后,震惊地发现对方竟与自己长得一模一样。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "そっくりな王女さま！？",
+      "title_cn": "一模一样的公主殿下！？",
+      "summary_cn": "众人帮助神秘少女躲过了保镖的搜查。类认出少女是伊尔加斯王国的公主,少女随后自称为艾尔。她透露自己为了让贫瘠祖国的国民和父亲展露笑容,梦想建造一座游乐园,因此试图甩开保镖独自考察Arkland,但这违背了希望她成为外交官的父亲的意愿。笑梦因两人拥有相似的梦想而产生共鸣,为了帮助艾尔完成实地考察,笑梦竟提议利用两人长相一模一样的特点,由自己充当替身来引开保镖。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "入れ替わり大作戦",
+      "title_cn": "互换大作战",
+      "summary_cn": "面对笑梦提出的互换提议,类虽然指出可能引发国际问题的风险,但鉴于艾尔急切想要挽救祖国的决心,众人最终决定协助。宁宁联系熟人借来假发,帮助二人完成了外貌互换。计划由艾尔伪装成笑梦去考察乐园,而笑梦则扮作艾尔,以身体不适为由躲在房间内,并被叮嘱要小心艾尔直觉敏锐的父亲。笑梦前往停车场寻找保镖时,铃突然出现并决定陪伴她共同执行任务。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "ぴったりの役",
+      "title_cn": "最适合的角色",
+      "summary_cn": "笑梦利用演技成功骗过保镖,假装身体不适回到住处。途中她展现出的对高级宾馆的熟悉以及应对保镖询问红茶时的得体回答,让铃感叹她确实也是位千金小姐且非常适合这个角色。回到房间后,两人发现了桌上的外语资料,经翻译得知是关于城市规划与游乐园经营的专业书籍及详细计划书。看着这些资料,笑梦深刻感受到了艾尔为了实现梦想所付出的认真与努力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "父への想い",
+      "title_cn": "对父亲的心意",
+      "summary_cn": "艾尔认真考察乐园的布局与设施,大家感叹她不仅长相,连追逐梦想的热情都与笑梦如出一辙。休息时,艾尔吐露了作为王女必须成为外交官的无奈。司和类以笑梦曾克服家庭反对的经历鼓励她,艾尔深受触动,坦白自己急于建乐园是因为父亲曾病倒,希望在他在世时实现梦想。她下定决心要再次与父亲沟通。就在众人匆忙赶回时,留在房间的笑梦和铃突然听到了艾尔父亲的呼唤声。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "あたしが味方に",
+      "title_cn": "我来做你的伙伴",
+      "summary_cn": "艾尔的父亲提前归来,笑梦只得假装感冒掩饰身份。父亲劝其放弃建造游乐园的梦想并履行王族职责,甚至质疑她的能力。这番话让笑梦联想到自己曾被哥哥们否定的过去,但同伴的鼓励让她重燃勇气。为了支持孤军奋战的艾尔,笑梦决定打破沉默。她拿出艾尔准备的资料,坚定地向父亲展示游乐园计划,决心成为艾尔的伙伴,要求父亲在看过计划前不要轻言放弃。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "届け！エルちゃんの想い",
+      "title_cn": "传达吧！艾尔的心意",
+      "summary_cn": "笑梦代替艾尔向其父亲展示游乐园计划书，详述了建设乐园对国家经济、就业及治安的积极影响。面对父亲对建设地“像垃圾山”的质疑，笑梦结合资料提出了城市开发的构想，令父亲折服。然而，父亲因笑梦未对“垃圾山”一词进行反驳而识破了她是替身，并误以为这是艾尔为了任性而雇人造假。危急时刻，笑梦在铃的协助下施展身手躲避保镖追捕。就在笑梦被重重包围之际，门外传来了真正的艾尔坚定的声音，她与同伴们及时赶回了现场。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "いつかの約束",
+      "title_cn": "曾几何时的约定",
+      "summary_cn": "面对父亲的责问，艾尔在伙伴们的支持下勇敢坦白，证明之前的计划书确出自她手，并呈上了包含都市规划的完善版本。她含泪倾诉，坚持梦想不仅是为国家，更是作为女儿想找回父亲往日的笑容。这份真挚的心意终于打动了父亲。一周后，艾尔在机场告知众人计划已获批准，并承诺乐园建成后邀请大家去做客。临别之际，众人一同喊出“Wonderhoy”，在笑容中许下了未来的约定。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_princess_2026/event_princess_2026_08.webp"
+    }
+  ]
+}

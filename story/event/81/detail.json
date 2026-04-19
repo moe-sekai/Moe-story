@@ -1,0 +1,74 @@
+{
+  "event_id": 81,
+  "title_jp": "新春！ 獅子舞ロボのお正月ショー！",
+  "title_cn": "新春！舞狮机器人的正月演出！",
+  "outline_jp": "宣伝公演を無事に終えたワンダーランズ×ショウタイムは、心新たにワンダーステージでのお正月ショーの準備を進めていた。しかし、ショーに出演する獅子舞ロボの元気がないようで……！？",
+  "outline_cn": "圆满结束宣传公演的Wonderlands×Showtime，怀着崭新的心情推进着Wonder Stage正月演出的准备工作。然而，出演演出的舞狮机器人似乎没什么精神……！？",
+  "summary_cn": "Wonderlands×Showtime为准备正月演出，同时也为了激励情绪低落的舞狮机器人并寻求自我成长，决定走出乐园举办一场特别的巡回公演。在凤日向的驾驶协助下，众人先后奔赴海边、山顶、滑雪场及购物中心。旅途中，他们奇迹般地分别偶遇了Leo/need、MORE MORE JUMP!、Vivid BAD SQUAD及25时的成员。面对各种突发状况与剧情需求，其他组合成员纷纷通过歌唱、伴舞或演奏即兴助阵，令每一场演出都大获成功。这次疯狂的巡演不仅在各组合间建立了奇妙的联系，也让司深刻领悟到与不同音乐及观众互动的重要性。最终，全员在“奇幻的世界”中欢庆巡演圆满结束，共同热闹地开启新的一年。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "みんなでお正月ショー",
+      "title_cn": "大家一起的正月演出",
+      "summary_cn": "众人于“奇幻的世界”排练新春短剧。剧中，天马司饰演的“司之助”为获财宝，与舞狮机器人饰演的神明约定让全国展露笑容，途中结识了分别由凤笑梦、草薙宁宁、神代类饰演的狛犬、蛇神与化狐。历经十年达成目标后，虽神明一度失力，但司感悟到笑容才是珍宝，这份心意唤醒神力变出了城堡，众人决定将其作为戏院。排练圆满结束后，大家对重回主舞台演出充满期待，此时舞狮机器人因过热暴走追逐司，镜音双子也以此为乐加入了追逐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "助っ人登場！",
+      "title_cn": "帮手登场！",
+      "summary_cn": "除夕,司渴望新刺激以求成长。排练后,原本暴走的舞狮机器人却异常低落,众人推测是因为它担心演出结束就要重回仓库。为了让它有更多登台机会,司提议去不同场所巡演。正当大家为许可和交通发愁时,笑梦的姐姐凤日向偶然来访。为了参考演出以完成大学课题,日向主动提出负责驾驶,全力支持众人的巡演计划。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "海と流星群",
+      "title_cn": "海与流星群",
+      "summary_cn": "Leo/need前往海边等待新年日出,偶遇了正在进行巡回演出的Wonderlands×Showtime。司邀请众人观看演出,并在短剧中即兴邀请一歌献唱伴舞。在伙伴的鼓励下,一歌的歌声吸引了众多路人,其余成员也随后加入合唱,令演出大获成功。司等人赶往下一站后,Leo/need众人感到不再寒冷,满怀喜悦地继续等待日出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "アイドルといえば初日の出！？",
+      "title_cn": "所谓偶像就是新年日出！？",
+      "summary_cn": "MORE MORE JUMP!成员在登山直播新年日出时，偶遇了正在山顶巡演的Wonderlands×Showtime。面对司扮演的角色发出的共舞邀请，爱莉提议全员即兴扮演“村里的舞者”加入演出。在类的伴奏下，两组团体实现了梦幻共演，偶像们带动气氛的能力令司大为赞赏，现场登山客也纷纷加入欢庆。演出圆满结束后，MMJ众人对这意外的特别开端感到开心，决心新的一年也要继续努力传递希望。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "ゲレンデをビビッドに",
+      "title_cn": "让滑雪场染上鲜艳色彩",
+      "summary_cn": "Vivid BAD SQUAD在滑雪场度过新年，杏在滑雪对决中胜过彰人，心羽则指导初次滑雪的冬弥。众人因杏父亲友人的邀请得以在此住宿。此时，正在巡演的Wonderlands×Showtime突然现身。短剧中，司向作为“村民”的VBS求助以招募化狐，杏提议用让人“心跳加速”的表演打动对方，并与心羽即兴献唱，带动路人一同欢庆。司对VBS瞬间点燃现场气氛的感染力大为赞赏。目送司等人离开后，VBS众人对这热闹的新年开端感到满足。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "憩う場に、宵の旋律",
+      "title_cn": "休憩之所,宵之旋律",
+      "summary_cn": "25时成员在神社参拜并求签后前往购物中心,偶遇正在巡演的WxS。观看短剧时,奏将剧中情节与自己想拯救真冬的心愿重叠。此时负责配乐的机器人因故障停播,演出陷入僵局。奏认出曾使用过的钢琴,毅然弹奏即兴旋律救场,其温暖的音色助司圆满完成了表演。在众人的感谢与称赞中,WxS带着巡演的收获赶回大本营,满怀信心地准备迎接最终的公演。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "つながる新年",
+      "title_cn": "相连的新年",
+      "summary_cn": "次日,各个组合的成员在不同地点偶遇。一歌与咲希得知爱莉也参与了司的演出；遥与杏发现彼此都在不同地点客串过；瑞希、彰人等人与雫、真冬交流后,惊讶于大家都看过那场舞狮表演；奏与穗波偶遇绘名,震惊于演出竟横跨海边与购物中心。最终,志步、实乃里与心羽梳理出WxS从海边到滑雪场的疯狂巡演路线,在感叹其活力的同时互道了新年问候。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "枕の下に大きな夢を",
+      "title_cn": "枕头下的宏大梦想",
+      "summary_cn": "众人于“奇幻的世界”庆祝正月巡演圆满成功。为弥补未做“初梦”的遗憾，笑梦提议大家在巨幅画纸上作画并一同入睡以共享美梦。司回顾巡演，从与其他组合的偶遇中感悟到音乐与观众互动的重要性，决心争取更多外部公演机会以求成长。此时，兴奋过度的舞狮机器人再次暴走追逐司，伙伴们在欢笑中合力应对，共同迎接热闹的新一年。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_liondance_2023/event_liondance_2023_08.webp"
+    }
+  ]
+}

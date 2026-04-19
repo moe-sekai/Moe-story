@@ -1,0 +1,74 @@
+{
+  "event_id": 66,
+  "title_jp": "close game/OFFLINE",
+  "title_cn": "close game/OFFLINE",
+  "outline_jp": "とあるゲームセンターでゲーム大会が開かれることを知った寧々は、優勝賞品のため出場を決める。しかし同じ頃、冬弥もそのゲーム大会への出場を考えていて……。",
+  "outline_cn": "草薙宁宁得知某家游戏厅将举办游戏大赛，为了冠军奖品决定参赛。然而与此同时，青柳冬弥也在考虑参加这场大赛……",
+  "summary_cn": "草薙宁宁为赢取演出门票，与凤笑梦组队参加游戏厅大赛，偶遇同样参赛的青柳冬弥与东云彰人。双方在“大头贴”与“噗哟噗哟”项目中展开激烈角逐。决赛中，面对恶意利用BUG作弊的对手，宁宁与冬弥暂时联手将其击败，维护了游戏的公平与乐趣。最终宁宁队获胜赢得门票，店长也因感激众人令店铺重现生机，将私人门票赠予落败的冬弥队。赛后众人约定再战，宁宁也再次深刻体会到了游戏带给大家笑容的力量。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "ワクワクゲーム大会開催！？",
+      "title_cn": "令人期待的游戏大赛举办！？",
+      "summary_cn": "草薙宁宁因不满某游戏厅的设备维护，偶然收到“游戏大赛”传单。发现冠军奖品是包含她梦寐以求的舞台剧观演资格的“Game Expo”VIP入场券后，她决定参赛。在“奇幻的世界”商议时，因大赛时间与搬运道具冲突，最终决定由天马司和神代类负责道具，宁宁与凤笑梦组队参赛。另一边，青柳冬弥在展示高超抓娃娃技巧后与东云彰人汇合，也收到了传单，并对大赛表现出浓厚兴趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "選手登場！",
+      "title_cn": "选手登场！",
+      "summary_cn": "宁宁和笑梦到达宽敞却冷清的地下游戏厅，初音也通过手机好奇围观。宁宁发现店内虽然客少但设备保养极佳，店长透露这是为了挽救祖父留下的店铺而举办的重振活动，这令宁宁深受触动，决心炒热气氛。比赛开始，笑梦擅自将队伍命名为“Pikopiko Wandahoi”。而在介绍最后名为“柳与云”的参赛队伍时，宁宁惊讶地发现对手竟然是青柳冬弥和东云彰人。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "意外なライバル",
+      "title_cn": "意想不到的对手",
+      "summary_cn": "宁宁和笑梦偶遇了同样参赛的彰人和冬弥，双方得知彼此都为了冠军奖品——演出门票而来，从而正式成为竞争对手。店长宣布第一回合比赛项目竟是拍摄“大头贴”，并需获得评审员的青睐，这让众人颇感困惑。比赛开始后，初音现身协助宁宁与笑梦，提议摆出可爱的招牌动作拍照。另一边，虽对此类机器感到陌生，但为了获胜，彰人展现出了意外的装饰天赋并令冬弥大为佩服。最终双方都完成了拍摄。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "ナンバーワンのプリシは",
+      "title_cn": "最佳大头贴是",
+      "summary_cn": "在评审环节，笑梦与宁宁凭借充满活力的招牌动作获得好评，冬弥与彰人则摆出了流行的野兽姿势。最终宁宁队以两票险胜冬弥队，拿下第一回合。休息时，彰人听到其他参赛者抱怨大头贴无法使用“那个”，心生疑虑。随后店长宣布第二回合比赛项目为《噗哟噗哟通》，这是冬弥极其擅长的游戏。分组结果显示，两支优胜候补队伍将在首战直接对决。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "みんなでぷよぷよ！",
+      "title_cn": "大家一起噗哟噗哟！",
+      "summary_cn": "比赛开始,首战由凤笑梦对阵东云彰人。尽管彰人赛前做过练习,但笑梦凭借平时与哥哥们对战积累的经验,以惊人的速度和6连锁轻松击败彰人。第二战由草薙宁宁对阵青柳冬弥,宁宁虽觉得冬弥的ID眼熟却未深究。比赛中,冬弥展现出令观众惊叹的手速,甚至在发动大连锁后放开手柄静待胜利。面对冬弥压倒性的攻势,宁宁虽全力相杀仍无力回天。最终虽战绩一胜一负,但凭借总分优势,冬弥与彰人的队伍成功晋级决赛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "迫りくる闇",
+      "title_cn": "逼近的黑暗",
+      "summary_cn": "宁宁认出冬弥其实是排行榜第一的高手。决赛中，名为“我们最强”的队伍先击败了彰人，随后在冬弥比赛时试图干扰，甚至故意将果汁泼在冬弥手上。冬弥不为所动，以压倒性实力获胜。虽店长想追究对方责任，但冬弥为了比赛继续选择不予追究。最后公布的决赛项目是生存游戏且积分翻倍，愤怒的宁宁决心在游戏中惩罚作弊者，维护游戏的乐趣。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "生き残るために",
+      "title_cn": "为了生存",
+      "summary_cn": "决赛项目为生存游戏,宁宁指导笑梦参赛。比赛途中,作弊队伍利用恶性BUG淘汰了笑梦和彰人。曾被冬弥搭救的宁宁决定与其暂时联手对抗作弊者。在冬弥遭作弊者再次利用BUG偷袭时,宁宁放弃独赢良机开枪解围,两人配合成功淘汰作弊者。最终场上仅剩宁宁与冬弥,为了赢取门票,两人约定全力以赴,展开最终对决。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "笑顔でGG！",
+      "title_cn": "微笑着说GG！",
+      "summary_cn": "大赛圆满结束,观众反响热烈。宁宁等人指出游戏的乐趣在于挑战与公平,冬弥也表示享受全力以赴的过程,最终感化作弊者道歉,店长也宽容地欢迎他们再来。颁奖时,宁宁队赢得VIP门票。为感谢众人让店铺重现生机,店长将私人门票赠予落败的冬弥与彰人,并追加冠军一年免费畅玩权。赛后,双方约定日后通过游戏再战。宁宁向初音感慨游戏曾支撑过低谷期的自己,很高兴今天能通过游戏带给大家笑容。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_cyber_2022/event_cyber_2022_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 184,
+  "title_jp": "Colors of Pure Sense",
+  "title_cn": "纯粹感性的色彩",
+  "outline_jp": "美大受験に向けての実技指導コースが開始され、実力者達に圧倒されながらも必死に食らいつこうとする絵名。そんな中、実技試験の対策として絵画教室内で『コンクール』が行われることになり——。",
+  "outline_cn": "面向美术大学入学考试的实技指导课程正式开始，尽管被周围实力强劲的对手所压倒，绘名依然拼命试图跟上。就在此时，作为实技考试的对策，绘画教室内决定举办一场『竞赛』——。",
+  "summary_cn": "东云绘名在备考美术大学的集训中因与他人的差距深感挫败，首场竞赛惨遭垫底。面对雪平老师布置的“失败作”课题，绘名在奏与KAITO的启发下，领悟到自己因过于执着胜负而忽略了表达，并发现了自己真正的武器是独特的“世界观”。在随后的竞赛中，绘名重拾创作的纯粹快乐，描绘了记忆中父亲的手。尽管最终仅获C评价，但得到老师指点的绘名毅然删除了作为退路的社交账号，下定决心向顶级美大“东美”发起挑战。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "コンクール",
+      "title_cn": "竞赛",
+      "summary_cn": "绘名在画室参加备考集训，虽然感到与周围志在顶级美大“东美”的同学们有差距，但仍渴望通过努力赶上。雪平老师宣布为了模拟实战将举办竞赛，对作品进行排名，题目是“记忆”与“苹果”。绘名为了能与他人抗衡，选择了自己最擅长的素描场景作画，结果却惨遭垫底评为C-。面对他人极具创意的作品，绘名深感挫败。事后雪平老师指出绘名作画动机不纯，并给出了让她在下次课题中提交“失败作”的惊人指示。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "失敗作",
+      "title_cn": "失败作",
+      "summary_cn": "绘名面对以“标记”为题制作“失败作”的课题，选择画室看板为题材，故意画得平淡以体现描写力不足。雪平老师却指出她只是选了容易制造失败的题材，本质上放弃了对主题的表达。面对老师关于作品“正解”的质问，绘名意识到仅提升细节并非正解。老师告诫她即便是失败作也是创作，必须在理解主题的基础上认真对待。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "迷う心",
+      "title_cn": "迷茫的心",
+      "summary_cn": "绘名苦恼于无法理解“失败作”的真意。偶遇同学二叶后，发现对方虽使用相同的看板题材，却赋予了关于梦想起点的深刻内涵，这让绘名深感差距并对创作产生动摇。焦躁中她险些逃避现实去经营社交账号，好在及时克制。随后绘名意外撞见探望父亲归来的奏，奏察觉到她的消沉，主动邀她谈心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "何気ないヒント",
+      "title_cn": "无意间的提示",
+      "summary_cn": "奏听闻绘名的烦恼后，指出有些事物只有在失败中才能看见，这一观点让绘名感到意外。此时初音未来和KAITO现身，因担心奏睡眠不足而催促她回家休息。临别前，绘名提及自己仍在思索何为“失败”。KAITO直言绘名应该比谁都清楚，并提示道：“你最讨厌的事情是什么？那就是对你而言的失败。”这番话让绘名陷入了深思。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "私が嫌なこと",
+      "title_cn": "我讨厌的事",
+      "summary_cn": "绘名意识到对自己而言，“失败”即是“无法传达想要表现的心意”。在收到“25时”成员们的讯息后，她确信大家所在的“Nightcord”才是自己真正的“标记”。绘名试图以此为题创作“失败作”，却发现无论是将画面涂黑、增加电脑数量还是画崩坏的电脑，这些刻意制造失败的尝试反而让作品呈现出意想不到的深度与解释，甚至超越了原有的构思。绘名由此终于体会到了“只有在失败中才能看见的事物”的真谛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "自分の武器",
+      "title_cn": "自己的武器",
+      "summary_cn": "绘名向雪平老师坦白未能完成“失败作”的课题，因为无论如何尝试都无法真正算作失败。老师指出这正是课题的用意，旨在消除绘名因过度追求胜负而产生的恐惧，并告诉绘名她真正的武器并非构图，而是她独特的“世界观”，只有贯彻这份世界观作品才具备魅力。数日后的第二次竞赛题目为“手”，绘名决心以此为武器进行创作。看到同学二叶作画时的闪耀姿态，绘名久违地回忆起儿时画蝴蝶被母亲夸奖、满怀期待想展示给父亲看的快乐时光。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "私にとっての手",
+      "title_cn": "对我而言的手",
+      "summary_cn": "绘名回忆起儿时看父亲作画的场景，父亲曾教导她“绘画是自由的，画出心中所想即可”。面对“手”的课题，绘名决定描绘记忆中父亲那双仿佛在创造世界、如同施展魔法般的手。她不再拘泥于写实，而是自由地重叠色彩，将偶然的混色与模糊转化为自己的表达。初音未来和KAITO欣慰地看着找到答案的绘名。绘名久违地沉浸在创作的纯粹喜悦中，直到竞赛结束，她发自内心地感到快乐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "決意のために",
+      "title_cn": "为了这份决心",
+      "summary_cn": "绘名查看竞赛结果，尽管全力以赴画出了属于自己的世界，却仅获得C评价。面对巨大的落差，绘名向雪平老师哭诉自己虽深感无力却仍想考取顶级美大“东美”。老师直言她虽技不如人，但作品中确实蕴含着独特的“世界”，若能磨练这一武器，合格并非毫无可能。为了不再逃避现实，绘名毅然删除了作为退路的自拍账号，并向“25时”的成员们宣布了自己决心考取东美的目标。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_colors_2025/event_colors_2025_08.webp"
+    }
+  ]
+}

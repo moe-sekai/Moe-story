@@ -1,0 +1,74 @@
+{
+  "event_id": 8,
+  "title_jp": "聖なる夜に、この歌声を",
+  "title_cn": "在圣夜，以此歌声",
+  "outline_jp": "クリスマスモチーフのミュージカルで２回目のショーコンテストに挑む司達！\nしかし、寧々すらも驚く圧倒的歌唱力の“歌姫”が立ちはだかり……！？\n今、歌姫達の誇りをかけたショーが幕を開ける！",
+  "outline_cn": "司一行人决定以圣诞主题的音乐剧来挑战第二次演出竞赛！\\n然而，一位拥有连宁宁都为之震惊的压倒性歌唱实力的“歌姬”却挡在了他们面前……！？\\n此刻，赌上歌姬们尊严的演出即将拉开帷幕！",
+  "summary_cn": "为了在演出竞赛中逆转排名，Wonderlands×Showtime决定举办《微笑圣诞》音乐剧，由宁宁担纲主演。面对劲敌青龙院樱子的压倒性实力与嘲讽，宁宁因过往心理阴影陷入焦虑，歌声失去了情感。幸而在伙伴们的帮助下，宁宁重温童年回忆，找回了“享受舞台”的初心。最终，她在正式演出中全情投入，以动人的歌声获得了樱子的认可，并带领组合成功夺得单次排名第一。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "『スマイリング・クリスマス』",
+      "title_cn": "微笑圣诞",
+      "summary_cn": "Wonderlands×Showtime在演出竞赛中暂居第三，为了弥补与第一名的巨大票差，司要求大家构思新点子。类提议举办名为《微笑圣诞》的音乐剧，讲述孤儿院少女与见习圣诞老人派送礼物的冒险故事。由于高潮部分对歌唱力要求极高，类指定有相关经验的宁宁与司担任双主演。在笑梦和类的鼓励下，宁宁接受了主角重任，笑梦则饰演等待礼物的孩子。全员决定以此向第一名发起冲击，随即开始了练习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "偵察！フェニックスステージ",
+      "title_cn": "侦察！凤凰舞台",
+      "summary_cn": "笑梦带来第一名的“凤凰舞台”也要举办圣诞音乐剧的消息，司决定全员前往侦察。众人目睹了当家歌姬青龙院樱子压倒性的歌唱实力，宁宁深感差距。樱子发现众人后，嘲讽WxS的演出不过是“过家家”，并断言宁宁毫无胜算。司愤怒地维护伙伴，而向来胆怯的宁宁也被“过家家”的言论激怒，鼓起勇气向樱子宣战，表示绝不会输。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "あんな風には",
+      "title_cn": "无法像她那样",
+      "summary_cn": "司虽燃起对抗意识,但被类提醒勿忘带给观众笑容的初衷。练习中,尽管宁宁表现稳定并获称赞,内心却觉得歌声缺乏樱子那样的力量与自由。练习结束后,宁宁坦白了自己的焦虑,即使伙伴们肯定她的实力,她仍坚持独自加练,这让类意识到必须采取措施。独自一人的宁宁被过往搞砸演出的心理阴影所折磨,为了不拖累大家,她发誓一定要超越樱子。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "昔のわたしの歌いかた",
+      "title_cn": "我过去的歌唱方式",
+      "summary_cn": "宁宁反复练习却始终无法满意，类指出她虽技术完美，但因潜意识的谨慎未能彻底释放感情，建议她寻找“过去的歌唱方式”。被昔日心理阴影困扰的宁宁心情低落，拒绝了初音未来的“世界”演出邀请。独自离开的宁宁偶遇樱子，面对其嘲讽以及“不要带来让人不满足的演出”的严厉警告，宁宁无言以对，陷入了深深的自我怀疑。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "あの日見たショー",
+      "title_cn": "那一天看到的演出",
+      "summary_cn": "距离正式演出仅剩一周，排练虽顺利，但宁宁仍因心结无法发挥歌唱实力。类建议等待，但笑梦希望能帮宁宁找回“过去的歌唱方式”，便在休息时询问大家接触演出的契机。宁宁回忆起小学时与类一家看演出后的感动，虽仍受失败阴影困扰，但笑梦分享了与爷爷在特等席看演出的回忆，司也讲述了为逗笑生病的妹妹而开始表演的往事。众人的童年回忆唤醒了宁宁的初心，让她想起了曾经废寝忘食练习歌唱时的那份纯粹的快乐。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "魔法をかけて",
+      "title_cn": "施下魔法",
+      "summary_cn": "受到伙伴回忆的启发，宁宁回家翻看了儿时的演出录像。尽管视频中的自己唱功稚嫩甚至走调，但那份全身心享受表演的快乐让她看起来闪闪发光。宁宁意识到如今的自己因执着于胜负和恐惧失败，反而丢失了这份纯粹。领悟到“只有享受舞台才能唱出动听的歌”后，宁宁决心找回初心，让自己成为最享受演出的人，随即充满干劲地开始了练习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "セカイの新団員！？",
+      "title_cn": "“世界”的新团员！？",
+      "summary_cn": "演出前三天，初音未来带着刚来到“世界”的新成员MEIKO出现，本想通过演出鼓励宁宁，却发现宁宁已调整好心态归队，并表示找回了昔日全力歌唱的感觉。为了展示现在的歌声，宁宁主动提议在“世界”举办圣诞演出，并邀请类与KAITO、MEIKO一同登台。抛开对失败的恐惧与胜负的执念，宁宁全心全意地享受舞台，唱出了久违的动人歌声，令同伴们惊叹不已。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "メリー・クリスマス！",
+      "title_cn": "圣诞快乐！",
+      "summary_cn": "正式演出中，宁宁全身心投入表演，发自内心地唱出了动人的歌声，不仅引发了奇迹般的降雪，更打动了台下的樱子，使其流泪并正式认可WxS为劲敌。数周后的中间发表显示，凭借此次精彩演出，单次排名荣获第一。宁宁感谢伙伴们帮她找回了歌唱的快乐，视其为最好的礼物。众人深受感动，决定前往“世界”向初音未来等人报告喜讯并举办圣诞派对。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_nijiiro_2020/event_nijiiro_2020_08.webp"
+    }
+  ]
+}

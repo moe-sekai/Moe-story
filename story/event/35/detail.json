@@ -1,0 +1,74 @@
+{
+  "event_id": 35,
+  "title_jp": "灯のミラージュ",
+  "title_cn": "灯火的蜃楼",
+  "outline_jp": "奏の曲を聴いて笑った日から、なぜ自分が笑顔になったのかを考えるまふゆ。\n４人でその答えを探そうと話す奏達だったが、まふゆが体調不良になり——",
+  "outline_cn": "自从听了奏的曲子露出笑容的那天起,真冬便开始思考自己为何会笑。虽然奏等人提议四个人一起去寻找这个答案,真冬却身体不适——",
+  "summary_cn": "真冬因无法理解奏的曲子带来的温暖而困惑，在发烧中试图通过旧相册寻找线索。因维持优等生形象而体力透支晕倒后，真冬被奏带回家照料。在奏笨拙却温柔的护理下，真冬重温了幼时被母亲关爱的记忆，终于明白曲中的温暖源于“被珍视的感觉”。得知奏的心愿是让自己展露笑容后，真冬深受触动，将这份痛楚中蕴含的温暖化作歌词。尽管现实的苹果依旧无味，但凭借这道微弱的光芒，真冬决定继续前行。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "見つからない鍵穴",
+      "title_cn": "找不到的锁孔",
+      "summary_cn": "真冬独自思考为何听了奏的曲子会感到温暖并露出笑容，却始终找不到答案。来到“无人的世界”后，奏希望能传达作曲意图以完善作品。面对心不在焉的真冬，流歌指出她“虽持有钥匙却找不到锁孔”。真冬坦白了自己的困惑，奏提议大家一起寻找原因。此时真冬因发烧身体不适，众人决定暂停讨论让她休息，但真冬内心仍急切地想要找到答案。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "私のアルバム",
+      "title_cn": "我的相册",
+      "summary_cn": "真冬因头痛回家休息，发现父母正在翻看她小时候的相册。母亲提起曾因不满便替换了真冬出演话剧的服装，并叮嘱她为考医学部努力学习。看着照片，真冬感到胸口作痛。回房听着奏的曲子入睡后，醒来的真冬发觉看照片时的心痛与听曲时的感觉相似。深夜，她试图拿出相册探究原因时被母亲发现并催促去睡觉。感到在家中无法冷静思考，真冬决定带着相册前往“无人的世界”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "いつかの記憶",
+      "title_cn": "往日的记忆",
+      "summary_cn": "瑞希在“无人的世界”偶遇带病前来的真冬，得知她想探究看相册时胸口作痛的原因，便与铃一起查看相册。瑞希敏锐地发现真冬幼时的笑容与现在的“好孩子”面具截然不同，这让真冬意识到过去的记忆中或许藏着她对奏的曲子产生共鸣的线索。因真冬身体虚弱，瑞希劝她回去休息，随后向铃透露自己擅长察觉他人隐藏的真心，并衷心希望迷失自我的真冬能早日找到真正的自己。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "忙しさの中で",
+      "title_cn": "第4章[忙碌之中]",
+      "summary_cn": "真冬强忍头痛应对繁忙的一天,母亲虽叮嘱她若太累可推掉委员会工作专注于学习,却让她倍感压力。在学校,真冬为维持优等生形象,牺牲午休处理各种杂务,导致病情加重。放学途中,体力透支的真冬晕倒在公园长椅上。恰巧路过的奏发现高烧的真冬,得知她家中无人,便决定将她带回自己家照顾。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "りんごの夢",
+      "title_cn": "苹果之梦",
+      "summary_cn": "奏将高烧的真冬带回家中照料,虽然有些手忙脚乱,但仍努力模仿母亲的做法为真冬冷敷并磨碎苹果喂食。当奏打算换水时,真冬恳求她不要离开,奏便握着她的手承诺陪伴。真冬在梦中回忆起幼时生病被母亲温柔照顾、喂食兔子苹果并握手哄睡的往事。醒来后真冬意识到,奏的曲子带给她的温暖,正如当年那份被关爱的感觉,而这也正是她看相册时感到胸口作痛的原因。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "笑ってほしいから",
+      "title_cn": "因为想让你展露笑容",
+      "summary_cn": "真冬在奏的家中醒来,得知奏一直在照料自己并喂食了苹果,意识到之前的梦境其实是现实的投射。面对真冬的询问,奏坦白那首曲子融入了自己与父母的回忆:父亲曾希望用音乐让家人展露笑容,而奏也怀着同样的心愿,希望真冬能像当年的自己一样笑出来。这番话让真冬再次感到内心涌起暖意。身体好转后,奏送真冬回家,两人约定在Nightcord再会。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "辿り着きたい場所",
+      "title_cn": "想要抵达的地方",
+      "summary_cn": "真冬退烧后回想起奏希望她展露笑容的心愿，试图将感受到的温暖转化为歌词，却受内心杂念干扰无法下笔。深夜，真冬看到Nightcord成员们的关心留言，镜音铃也现身屏幕，别扭地传达了“世界”中大家的挂念。感受到这份心意的真冬向铃致谢，思绪也随之豁然开朗。铃离开后，真冬决心不再受束缚，尝试用自己的语言将这份未名的温暖心情谱写成词。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "ほんの少しの灯",
+      "title_cn": "微弱的光芒",
+      "summary_cn": "真冬回到“无人的世界”展示新歌词，大家惊讶地发现其中痛苦之下蕴含着温暖。真冬坦言是奏的曲子唤起了她关于“苹果”的记忆，虽不完全理解但仍想将其记录。奏感谢流歌的指引，而流歌与MEIKO关于不同助人理念的对话，让奏明白前路需独自摸索。次日，真冬吃着母亲切的苹果，尽管依旧没有味道，但想起奏的承诺，她感到自己或许能借着这点微光继续前行。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_mirage_2021/event_mirage_2021_08.webp"
+    }
+  ]
+}

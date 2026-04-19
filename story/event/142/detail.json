@@ -1,0 +1,74 @@
+{
+  "event_id": 142,
+  "title_jp": "鍛えてFLY！Muscle Training！",
+  "title_cn": "锻炼FLY！Muscle Training！",
+  "outline_jp": "運動に苦手意識のあるファンのために、何か出来ることはないかと考える遥。そんな時、偶然出会った司から『SHINOBI-BATTLE』なるアスレチックイベントへ参加しないかと誘われるが……。",
+  "outline_cn": "遥在思考能为那些不擅长运动的粉丝做些什么。就在这时,她偶遇了司,并被邀请参加名为『SHINOBI-BATTLE』的运动竞技活动……",
+  "summary_cn": "桐谷遥因组合工作空窗期感到焦虑，在MEIKO的指引下决定专注于当下。为激励体力不足的粉丝，遥接受天马司邀请，与东云彰人组队参加“SHINOBI-BATTLE”竞技赛。遥制定了魔鬼般的特训计划，三人通过严苛训练提升了实力并建立了默契。比赛当日，司与彰人凭借特训成果克服了失误与道具故障，将接力棒交予遥。面对强风阻碍，遥在队友与粉丝的声援下突破极限，成功完赛。虽未夺冠，但遥不仅收获了健身房体验券，更得到了粉丝的真挚感谢。赛后，遥拒绝了庆祝聚餐，坚持继续跑步锻炼，其永无止境的自律精神也深深感染了身边的伙伴。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "今、できることを",
+      "title_cn": "现在能做的事",
+      "summary_cn": "遥在晨跑时因担心组合在演出大获成功后却没有任何工作邀约而分心。MEIKO察觉到她的不安,现身安慰她,建议她不要过度焦虑,专注于眼前能做的事。受到鼓舞的遥决定延长跑步路线转换心情,途中偶遇了同样在锻炼的天马司和东云彰人。三人交流了对于体能训练的看法,互相激励。看到大家都在为梦想努力,遥也重拾干劲,继续投入训练。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "SHINOBI-BATTLE",
+      "title_cn": "SHINOBI-BATTLE",
+      "summary_cn": "遥在直播中意识到部分粉丝因体能不足难以跟上舞蹈，决定以此为契机策划锻炼特辑。次日晨练时，她偶遇了正寻找队友的司和彰人。司邀请二人组队参加名为“SHINOBI-BATTLE”的运动竞技赛，并透露冠军奖励是可供四人使用的健身房通行证。为了能与队友共享训练设施并以自身的挑战激励粉丝，遥决定在征询队友意见后考虑是否参赛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "迷いと覚悟",
+      "title_cn": "迷茫与觉悟",
+      "summary_cn": "遥向队友表明想通过参赛激励不擅长运动的粉丝。尽管爱莉担心偶像参加公开活动有风险,但在实乃里的支持和雫关于直播训练过程的建议下,遥下定决心参赛。数日后,遥与司、彰人汇合,确认了各自负责的关卡。为了确保夺冠,遥拿出了自己精心制定的特训计划,其内容令司与彰人大惊失色。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "完璧なトレーニングメニュー",
+      "title_cn": "完美的特训菜单",
+      "summary_cn": "遥展示了精确到分且涵盖饮食起居的严苛特训计划。虽然司与彰人对高强度内容感到震惊,但在得知这是遥与MEIKO针对各人体质精心设计的方案后,两人接受了挑战。训练中,遥通过增加负重不断提升难度,同时也坚持直播训练以激励粉丝。数周后特训结束,感受到显著成长的司和彰人向遥致谢,三人信心满满地准备迎接明日的正式比赛。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "開幕！",
+      "title_cn": "开幕！",
+      "summary_cn": "比赛当日，遥、司与彰人抵达现场，发现对手实力强劲。作为第九组出场的他们决定利用顺位优势观察局势。杏特意赶来为遥加油，转达了粉丝们的热烈支持，令遥备受鼓舞。比赛开始后，前序队伍创下了极快纪录，三人意识到必须分秒必争。司率先出战，虽在“圆木渡”中失误滑落，但他凭借特训练就的惊人臂力倒挂在圆木上坚持前行并未落水，随后以爆发性的速度攻克“蜘蛛步”，成功弥补时间损失并将接力棒交给了彰人。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "まるで、SHINOBI",
+      "title_cn": "宛如忍者",
+      "summary_cn": "彰人接过接力棒，凭借特训练就的跳跃力一次性通过了“跳树苗”关卡。但在随后的“水蜘蛛”项目中，他脚下的道具带子意外断裂。危急时刻，遥大声建议他将脱落的水蜘蛛当作船桨划水。彰人采纳建议，凭借惊人的平衡感像忍者般单脚渡河，成功将接力棒交给遥。遥为了回应队友的努力，在“攀岩”关卡中展现出极快的速度与精准的路线判断，令观众惊叹不已。在队友的注视下，遥顺利通过攀岩，迎来了最后的难关“跳铁杠”。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "後悔のないように",
+      "title_cn": "为了不留遗憾",
+      "summary_cn": "遥迎来了最终难关“跳铁杠”。尽管她凭借出色的身体控制力通过了前段，但突如其来的强风多次打断了她的摆动节奏，导致她体力严重流失且无法借力。面对最后距离两米多的跳跃，遥一度因风险而犹豫。关键时刻，杏大喊鼓励她不要留下遗憾，司、彰人以及现场观众也纷纷声援。承载着大家的期待与特训的成果，遥重拾信念，拼尽全力摆动身体完成惊险一跃。成功落地后，她冲向终点按下了按钮，等待最终成绩的揭晓。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "ストイックは永遠に",
+      "title_cn": "严于律己永无止境",
+      "summary_cn": "比赛虽未夺冠，但遥与队友顺利完赛。直播结束后，三人不仅收获了健身房体验券作为特别奖励，遥还受到了曾因不擅运动而苦恼的粉丝的当面感谢，对方表示被遥的身姿鼓舞，这让遥更加坚定了信念。庆祝环节，杏提议去吃烤肉，遥却以“疲劳时正是突破自我的良机”为由拒绝，坚持要完成例行的傍晚跑步。司与彰人对此深表赞同并各自离去继续锻炼。被这份永无止境的自律精神所震撼，杏与实乃里最终也决定咬牙跟上遥的步伐一同奔跑。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_muscle_2024/event_muscle_2024_08.webp"
+    }
+  ]
+}

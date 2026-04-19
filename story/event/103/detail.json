@@ -1,0 +1,74 @@
+{
+  "event_id": 103,
+  "title_jp": "On Your Feet",
+  "title_cn": "重新振作",
+  "outline_jp": "伝説の夜に秘められた真実を知り、RAD WEEKENDを超えるという想いを強くしたVivid BAD SQUAD。今はやれることをやっていこうと話し合うが、こはねは大河の歌が頭から離れず……。",
+  "outline_cn": "Vivid BAD SQUAD得知传说之夜的真相后,超越RAD WEEKEND的信念愈发坚定。尽管众人商议着从力所能及之事做起,但心羽的脑海中始终挥之不去大河的歌声……",
+  "summary_cn": "得知传说之夜的真相与大河的实力差距后，Vivid BAD SQUAD虽受挫但信念更坚。面对伙伴离去与外界嘲笑，众人在“世界”中特训，心羽更是在虚拟歌手引导下，将对大河的恐惧转化为作为歌者的“不甘心”。最终，四人赶往机场向即将出国的大河宣战，誓言超越他与传说。见证了这份觉悟，谦决定休业对众人进行严酷指导，VBS怀揣自尊与羁绊，从起点重新踏上超越传说的征途。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "今はできることから",
+      "title_cn": "现在先做力所能及的事",
+      "summary_cn": "杏决心超越RAD WEEKEND,心羽虽被大河的实力震慑,仍决定与伙伴共同前行。四人商议后认为需提升实力并尝试召回离去的伙伴,彰人主动负责联系。为增加练习时间,大家各自调整了委员会工作或辞去了兼职。杏也提及与父亲的谈话,虽无法原谅隐瞒凪死讯之事,但她并不后悔这段经历。尽管目前仅收到冈崎需要时间的回复,四人仍决定先在MEIKO的咖啡馆集中精力特训。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "今日も練習！",
+      "title_cn": "今天也要练习！",
+      "summary_cn": "VBS众人在“世界”中接受虚拟歌手的指导进行高强度特训，心羽努力找回与大河对决时的感觉。练习结束后，冬弥收到远野新的搭档飒真的联络。次日，四人在去见飒真的途中，遭遇路人嘲笑他们惨败给大河、无法超越传说。尽管有些受挫，大家仍决定前行。Crawl Green的老板喝止了嘲笑者，随后与COL老板感慨虽对隐瞒真相心怀愧疚，但也欣慰杏继承了凪的心愿。到达目的地时，心羽发现了洸太郎的身影。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "思いがけない再会",
+      "title_cn": "意想不到的重逢",
+      "summary_cn": "众人偶遇试图避开他们的洸太郎,杏希望能将传说的真相告诉他以挽回信念,但洸太郎因无法承受挫败感拒绝倾听并逃离。伙伴们意识到仅凭言语无法取信于人,唯有获得足以匹敌大河的实力,证明超越传说并非空谈,才能让大家归来。随后,冬弥带大家去医院探望远野新的搭档飒真。飒真性格开朗,并透露曾指导冬弥制作伴奏。然而谈及新时,飒真表示新曾神情阴郁地来找过他,并告知众人新已经离开了这座城市。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "あいてしまった距離",
+      "title_cn": "拉开的距离",
+      "summary_cn": "数日前，新向飒真坦白因败给大河并得知传说之夜是凪的绝唱，决定放弃超越传说并离开城市。回到现在，飒真询问众人新是否有隐情，心羽等人因涉及新“未能真正背负梦想”的心结而犹豫，飒真察觉后不再追问。杏表明队伍继承了凪的心愿决不放弃，飒真虽感叹新或许因此获得了自由，但独自一人时，仍对着那首无法再由搭档演唱的乐曲感到落寞。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "このままでいいのかな",
+      "title_cn": "就这样下去吗",
+      "summary_cn": "探望飒真后，冬弥担心新可能再也不会回到这条街，心羽对无力改变现状感到迷茫，彰人虽感前路受阻，仍主张通过加倍努力来突破困境。为了转换心情，四人前往“世界”。得知新离开的消息，KAITO惋惜大家原本已成为了优秀的团队。这句话触动了心羽，她坦言自己非常不甘心：虽然大河实力超群，但她忍不住想，如果当时自己没有被震慑住而是尽力歌唱，或许能改变结局，挽留住离去的伙伴。看着流露出强烈不甘的心羽，初音感叹她真的改变了。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "掴んできたもの",
+      "title_cn": "紧握在手中的东西",
+      "summary_cn": "初音指出心羽因败给大河而感到“不甘心”，正是她萌生了歌手自尊心的证明。MEIKO建议众人不要纠结于失去的事物，而应关注一路走来的收获。冬弥、彰人和杏分别回顾了自身在表达情感、信赖伙伴及建立羁绊方面的成长。心羽意识到这一切源于众人的陪伴，同时也回想起大河曾给予的指导与严厉，认定大河是教会自己歌唱真谛的“老师”。怀揣着感激与不甘交织的复杂心情，心羽似乎找到了打破僵局的答案。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "この気持ちを握りしめて",
+      "title_cn": "紧握这份心情",
+      "summary_cn": "大河即将回国，谦在机场送别时提及杏已接受凪的心愿，自己也将继续为后辈尽责。就在大河准备离开时，VBS四人逃课赶来。杏坦言虽无法原谅大河，但决心带领队伍前往梦想彼端，通过超越他来实现“复仇”；彰人和冬弥也郑重宣战。心羽向大河致谢，感谢他教会自己面对歌唱，更重要的是让自己察觉到了“不甘心”这份情感。她宣誓将紧握这份心情跨越恐惧，最终超越大河与传说。面对众人的决心，大河留下一句“试试看吧”后离去。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "この場所からもう一度",
+      "title_cn": "从此处重新开始",
+      "summary_cn": "送别大河后,众人决定前往WEEKEND GARAGE。谦得知大家逃课是为了表明决心后并未责怪,反而宣布将暂时休业,只为全身心投入指导四人。他表示这是为了见证凪的梦想并对过去做了断,但警告训练将极其严酷,甚至需要赌上一切。四人毫不犹豫地接受了这份提议。心羽回想起初次在此被杏的歌声打动的瞬间,决心怀揣着作为歌者的自尊与不甘,从这个起点重新出发,与伙伴们共同超越传说。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_onyourfeet_2023/event_onyourfeet_2023_08.webp"
+    }
+  ]
+}

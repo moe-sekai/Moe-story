@@ -1,0 +1,90 @@
+{
+  "event_id": 112,
+  "title_jp": "水底に影を探して",
+  "title_cn": "寻找水底的影子",
+  "outline_jp": "まふゆが奏の元へ身を寄せてから、再び４人そろってナイトコードで活動を再開した奏達。各々がこれからの自分に想いを馳せている中、誰もいないセカイでは変化が起こり始めていて——。",
+  "outline_cn": "真冬寄身于奏处后，奏等人再次四人齐聚，重启了在Nightcord的活动。就在各自畅想未来的自己时，“无人的世界”中也开始发生了变化——。",
+  "summary_cn": "真冬寄宿于奏家后，25时虽重启活动，但真冬仍深受母亲带来的心理阴影折磨，“无人的世界”中也随之出现了神秘的湖泊。在此期间，瑞希意识到自己的话语成为了真冬的力量，决心面对自我；绘名发现自己的画作真正传达给了真冬，重拾前行的勇气；奏也确认了自己的音乐确实能给予真冬安宁。最终，众人在湖中打捞出象征真冬记忆与痛楚的物品，真冬接受了这份痛苦，众人承诺将陪伴她一同寻找开启心门的方法，湖畔悄然萌发了希望的嫩芽。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "25時、ナイトコードで。",
+      "title_cn": "25时，在Nightcord。",
+      "summary_cn": "25时，成员们齐聚Nightcord。真冬完成了乐曲混音，瑞希感叹既然真冬住在奏家，便能像以前一样负责混音了，绘名也称赞其风格突出了奏的旋律。随后真冬开始作词，但奏察觉到她似乎因回想起母亲的事而感到痛苦。此时初音未来加入通话关心众人，真冬表示与大家共事能让自己分心。初音内心感叹，虽然真冬仍未完全走出痛苦，但在大家的陪伴下已比濒临崩溃时平静许多，只愿她此刻能保持安稳。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "進みたい、進めない",
+      "title_cn": "想前进，却无法前行",
+      "summary_cn": "真冬的父亲来访，确认真冬仍无法回家后，再次拜托奏照顾她。奏用穗波送的茶安抚真冬后外出探病。独自写词的真冬陷入瓶颈，回想起数周前父亲初次来访时，自己虽理智上想回家与母亲沟通，身体却因恐惧产生强烈排斥。此刻，对未来的焦虑与母亲带来的心理阴影令真冬感到窒息，她逃入“无人的世界”寻找初音未来，却在痛苦中听到了某人的呼唤。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "水底に沈むもの",
+      "title_cn": "沉入水底之物",
+      "summary_cn": "真冬在“无人的世界”中感到极度痛苦，镜音连试图关心她。KAITO现身告诫真冬不要逃避当下的负面情绪，因为那是找回“真正的自己”所必需的。随后，众人循着类似奏的温暖歌声来到一处新出现的湖泊，初音未来推测这是由真冬的心愿诞生的场所。真冬从湖中发现了绘本，却紧接着看到了医学参考书，瞬间被对母亲的恐惧与窒息感吞噬。真冬痛苦地想要逃离不再回来，初音虽未阻拦，但嘱咐她终有一日要在此处寻回对自己重要的事物。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "逃げた、その先は",
+      "title_cn": "逃避的前方",
+      "summary_cn": "瑞希在制作MV时思考真冬的处境，虽然庆幸真冬选择了逃避，却因自己也从未正视逃避后的现实，而对如何继续支持真冬感到迷茫。为转换心情，瑞希进入“无人的世界”并向MEIKO倾诉。MEIKO指出，若不知逃避后该如何是好，不如试着停止逃避去直面问题，这或许能化作帮助真冬的力量。瑞希联想到一直在等待自己的绘名，虽仍不确定能否做到，但心中稍感释然。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "やさしい言葉",
+      "title_cn": "温柔的话语",
+      "summary_cn": "瑞希向MEIKO倾诉后感到舒畅，拉着她前往新出现的湖泊，发现初音未来和镜音铃正在阅读一本从湖中出现的绘本。绘本讲述了一只为了让父母开心而努力却迷失自我的兔子，最终被狗的音乐、刺猬的画和猫的“温柔话语”所拯救的故事。瑞希意识到猫代表自己，原来自己的话语确实成为了真冬逃离痛苦的力量。受到鼓舞的瑞希向MEIKO道谢，下定决心也要像真冬一样，不再逃避，开始去面对真正的自己。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "目指したい場所",
+      "title_cn": "想要以此为目标的地方",
+      "summary_cn": "绘名在绘画教室专心练习,虽觉画技有所回升,却仍感落后于人。镜音铃和镜音连在旁观察,感叹绘名不再像从前般痛苦作画,而是变得坚强且认真。课后,绘名与朋友二叶谈及报考美术大学的话题,因觉得自己能力不足,绘名对未来产生了动摇。归途中,现身的铃称赞直面绘画与痛苦的绘名很坚强,绘名虽表感谢,却仍对自己是否有资格以此为目标感到迷茫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "届いていたもの",
+      "title_cn": "传达到的事物",
+      "summary_cn": "铃指出绘名因对未来感到迷茫而失去了往日的果断，连见状主动提议当模特，并带她前往“无人的世界”中的湖泊写生。绘名在湖中听到了奏的歌声，更惊讶地看到了自己曾为真冬画的素描。铃解释道，这或许是因为那幅画真正触动了真冬的内心，才会映照在这个由真冬心愿诞生的湖中。意识到自己的画确实传达给了他人，绘名深受鼓舞，决心不再迷茫，一步一个脚印地继续前行。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "もどかしい想い",
+      "title_cn": "焦躁的心绪",
+      "summary_cn": "穗波完成家务并为奏和真冬准备了饭菜，她回忆起奏告知真冬将长期留宿时，自己虽未深究但承诺会全力支持。穗波离开后，奏看着熟睡的真冬，深知真冬终须面对父母，不禁开始自我怀疑：仅凭作曲无法改变现状，也无法真正拯救真冬。怀着这份焦躁，奏应巡音流歌之邀进入“无人的世界”散心。流歌带她来到新场所，指出这里流淌着奏的歌声，证明真冬需要她。然而流歌突然消失，奏在寻找时意外发现了一名正在哭泣的神秘小女孩。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_08.webp"
+    },
+    {
+      "chapter_no": 9,
+      "title_jp": "一緒に探そう",
+      "title_cn": "一起寻找吧",
+      "summary_cn": "奏在“无人的世界”偶遇一名寻找玩偶的迷路女孩，女孩表示听到了温暖的音乐。两人循声至湖边，奏试图打捞湖中黑影时险些落水，女孩为保奏的安全想要放弃，奏却承诺定会陪她一同找回失物。梦醒后，奏发现真冬也在哼唱同一旋律，并表示梦中被此曲抚慰。意识到女孩可能是真冬的投射，且自己的音乐确实能给予其安宁，奏坚定了继续创作以拯救真冬的决心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_09.webp"
+    },
+    {
+      "chapter_no": 10,
+      "title_jp": "いつか、進むために",
+      "title_cn": "为了终有一日的前行",
+      "summary_cn": "奏完成新曲后，众人前往“无人的世界”试听并探查湖泊。流歌指出湖中沉睡着构筑真冬的事物，且只有真冬能触碰。在奏的鼓励下，真冬克服恐惧，从湖中捞出了绘名的素描、旧乐谱以及一个苹果。苹果唤起了真冬关于母亲既温暖又窒息的回忆，但也让她联想到奏的照顾，意识到这份痛楚也是自己的一部分。随后湖边出现了一扇无法打开的门，众人推测这与真冬的心境有关，奏承诺会陪她一同面对改变，湖边也悄然萌发了嫩芽。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_underwater_2023/event_underwater_2023_10.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 104,
+  "title_jp": "あたしたちのハッピーエンド",
+  "title_cn": "我们的圆满结局",
+  "outline_jp": "合同公演が終わり、それぞれ夢への想いを新たにするワンダーランズ×ショウタイム。\n別れを予感しているえむが『笑顔でバイバイ』するため気持ちを整理しようとする中、類がえむの兄達にある提案を持ち掛け——？",
+  "outline_cn": "联合公演结束后,Wonderlands×Showtime的各位对自己梦想的想法焕然一新。预感到离别的笑梦为了能「笑着说拜拜」而试图整理心情,此时类却向笑梦的哥哥们提出了某个提案——？",
+  "summary_cn": "联合公演后，司与宁宁渴望前往更广阔的世界，笑梦虽感寂寞但决心独自留守乐园。类为维系组合，向笑梦兄长提议将WxS转为自由剧团，然而笑梦仍坚持留下。在虚拟歌手改编剧目的鼓励下，以及兄长们建议她“外出积累经验以更好守护乐园”的支持下，笑梦终于解开心结。四人坦诚相待，在奇幻舞台完成最后的谢幕演出后，怀揣着未来重聚的约定，一同踏上了将笑容带向世界的全新旅途。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "笑顔でバイバイ",
+      "title_cn": "笑着说拜拜",
+      "summary_cn": "联合公演大获成功,笑梦在家中与哥哥们查看反馈,意识到司和宁宁因成长而即将飞向更广阔的世界。虽然内心寂寞,但笑梦决心届时要笑着送别同伴。排练时,司和宁宁也表达了渴望更多外部经验的想法,却苦于机会难得。类私下询问笑梦若两人离开是否会跟随,笑梦坚定地表示要留下来守护爷爷的乐园。看着已有觉悟的笑梦,类内心却无法放弃,以有要事为由提前离开了练习。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "どちらも手放せないから",
+      "title_cn": "因为两者都无法放手",
+      "summary_cn": "类趁笑梦不在拜访其兄长,提出让WxS独立为自由剧团。为了既能支持司和宁宁去外部闯荡,又能维持四人共演,类希望独立活动并保留定期回乐园公演的契约。哥哥们虽有顾虑但答应积极考虑。随后,类请求允许邀请身为经营者家族的笑梦一同离开,哥哥们最终默许,认为这应由笑梦自己决定。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "相容れなかった夢",
+      "title_cn": "无法相容的梦想",
+      "summary_cn": "类向众人坦白，他已独自拜访笑梦的哥哥们，提议将WxS转为自由剧团，这样既能支持成员向外发展，又能维持在乐园的演出。虽然这一方案有望通过，但当类再次邀请笑梦一同离开，指出她“让全世界绽放笑容”的梦想可以与大家共同实现时，笑梦依然婉拒。她坚持要亲手守护爷爷留下的乐园，避免这里再次失去笑容。尽管笑梦强颜欢笑地祝福大家，但众人意识到这意味着彼此的道路终将分岔，司也感叹难以笑着离别。此时，类接到电话，得知自由剧团的提议已正式获批。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "最後の公演",
+      "title_cn": "最后的公演",
+      "summary_cn": "类告知笑梦的哥哥们笑梦决定留下，哥哥们批准了WxS的独立化提案，并委托他们在合约解除前进行最后一次乐园周年庆公演。为了驱散谈及离别时的感伤氛围，笑梦提议演出对大家意义重大的《旅途的一座的故事》，众人欣然同意。然而，类因该剧原本“四人永远在一起”的结局与现状不符而心事重重。察觉此事的MEIKO提议虚拟歌手们也排演这部剧，并以此改编出一个适合现在的“圆满结局”来鼓励大家。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "在りし日の思い出",
+      "title_cn": "昔日的回忆",
+      "summary_cn": "笑梦在独自练习时回想起过去大家誓言永远在一起的时光,心中虽感寂寞却仍强颜欢笑。面对姐姐日向的关心,笑梦回忆起儿时与爷爷在奇幻舞台观看演出的往事,正是那里赋予了她笑容与力量。为了守护爷爷留下的乐园,笑梦向姐姐重申了留下的决心,并坚称自己能笑着送别同伴。然而日向察觉到笑梦其实在强忍泪水并告知了哥哥们,大哥庆介听后似乎决定采取某种行动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "あなた達のためのショー",
+      "title_cn": "献给你们的演出",
+      "summary_cn": "次日清晨，笑梦因哭肿了眼睛，为掩饰红肿在MEIKO的建议下穿着玩偶装进入“世界”。MEIKO召集众人观看虚拟歌手们特意准备的《旅途的一座的故事》。演出修改了结局：剧中的四人虽为追求各自梦想而分道扬镳，但约定未来重聚，最终他们确实带着成就回到乐园再次共演。看着这个即使分离也能延续羁绊的结局，躲在玩偶装里流泪的笑梦深受鼓舞，决心与伙伴们一起完成最后那场最棒的演出。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "みんなで夢を",
+      "title_cn": "与大家共逐梦想",
+      "summary_cn": "为了让伙伴无牵挂地离开，笑梦强颜欢笑，却在独自一人时忍不住落泪。折返的司、类和宁宁撞见这一幕，宁宁劝慰笑梦要分担痛苦，司也“批准”众人宣泄不舍，四人坦诚相对。此时笑梦的哥哥们现身，表示为了乐园的未来，笑梦应像爷爷当年那样去外面的世界积累经验，并承诺会替她守护乐园。在哥哥们的支持与伙伴们的再次邀请下，笑梦终于答应同行，决心与大家一起去广阔的世界闯荡，为了将来更好地守护乐园。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "最後の挨拶",
+      "title_cn": "最后的致意",
+      "summary_cn": "两个月后,Wonderlands×Showtime迎来了在奇幻舞台的最后一场公演。剧目结局被改写为村里人鼓励主角团前往外面的世界,这也映射了现实,让饰演小丑的笑梦能毫无保留地踏上旅途。看着台下观众洋溢的笑容,笑梦坚定了将笑容带向世界的决心。演出结束后,笑梦的哥哥们前来道别,二哥晶介利用人脉为众人介绍了外部剧团作为践行礼物。临行前,四人向承载了无数回忆的奇幻舞台郑重致谢,怀揣着梦想与未来回归的约定,在这个新篇章的起点一同喊出了响亮的「Wonderhoy」。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ourhappy_2023/event_ourhappy_2023_08.webp"
+    }
+  ]
+}

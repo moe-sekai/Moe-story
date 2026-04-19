@@ -1,0 +1,74 @@
+{
+  "event_id": 161,
+  "title_jp": "Unreliable Notes",
+  "title_cn": "不可靠的音符",
+  "outline_jp": "奏は、まふゆを救う曲を作るために『まふゆが感じているあたたかさ』の正体を深堀っていく。そしてそれが母親との思い出に関係があるとわかり、早速曲を作ろうとするのだが——。",
+  "outline_cn": "为了创作出能够拯救真冬的乐曲，奏开始深入探寻「真冬所感受到的温暖」的真面目。当她明白这与真冬和母亲的回忆有关后，便立刻着手作曲，然而——。",
+  "summary_cn": "为了创作拯救真冬的歌曲，奏试图捕捉真冬记忆中关于母亲的“温暖”，却因无法将其与现实中感受到的“冰冷”统合而陷入严重瓶颈，甚至因过度焦虑而倒下。与此同时，真冬父亲的劝导唤醒了妻子对女儿原本的爱意与初衷。醒来的奏意识到必须亲自去了解真冬的母亲才能完成乐曲，真冬也鼓起勇气决定不再逃避。最终，在父亲的撮合下，真冬收下母亲织的围巾，并请求奏陪同自己与母亲进行对话，两人决心共同面对这一核心心结。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "あたたかい思い出",
+      "title_cn": "温暖的回忆",
+      "summary_cn": "奏的新曲虽让真冬感到“温暖”，但奏认为这不足以彻底拯救她，于是询问这种感觉的来源。真冬回忆起儿时生病时，忙碌的母亲难得陪在身边照顾、喂她吃兔子苹果并哼唱摇篮曲的往事。瑞希意识到这便是真冬曾觉得奏的曲子像苹果的原因，奏随即决定以此回忆为意象作曲。现实中，真冬的父亲告知妻子真冬并不想当医生，并决定支持女儿的选择；母亲听后陷入了深深的自我怀疑，动摇着自己一直以来的所作所为是否正确。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "イメージ",
+      "title_cn": "意象",
+      "summary_cn": "奏告诉前来探望的铃，虽然理解真冬口中的“温暖”，但因曾亲身感受到真冬母亲的“冰冷”，无法将两者联系起来从而建立作曲意象。铃指出既然真冬拥有那份回忆，母亲或许确有温暖的一面。随后奏偶遇真冬的父亲，告知他真冬因感受到父亲的支持而逐渐安心，并提到自己正为真冬作曲。面对想要回报的父亲，奏请求对方告诉自己关于真冬母亲的事情。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "『愛情』",
+      "title_cn": "爱情",
+      "summary_cn": "奏向真冬的父亲询问关于真冬母亲的事。父亲表示妻子是一位深爱女儿、倾注所有的母亲，并回忆起真冬婴儿时期发高烧的大雪天，平时冷静的妻子不顾一切护着孩子奔向医院的往事。父亲认为那份爱意至今未变，但也承认正是这份过于强烈的“为了真冬”的念头让他们走偏了路，忽视了真冬真正的心情，才导致了奏眼中的“冰冷”。他还透露妻子深受打击，正独自在黑暗中思考，最后再次拜托奏照顾真冬。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "変わらない想い",
+      "title_cn": "不变的心意",
+      "summary_cn": "真冬父亲告诉妻子偶遇奏的事，并转达了真冬至今仍珍视生病时母亲照顾她的那份温暖。母亲虽受触动，却仍纠结于真冬受奏影响后的“变坏”，质疑奏的正确性。父亲温柔地提起真冬出生时的往事，两人回忆起取名“真冬”是为了铭记那日的感动与温暖，以及想要守护女儿笑容的初衷。母亲意识到这份爱意从未改变，痛哭着表示想与真冬对话。另一边，奏下定决心，为了拯救真冬开始作曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "焦燥",
+      "title_cn": "焦躁",
+      "summary_cn": "奏意识到真冬记忆中的“温暖”源于母亲的爱，便试图将其转化为音乐。然而，她发现若以真冬母亲为意象音色会变冷，若代入自己母亲的温暖又与真冬的感受不符，创作因此陷入僵局。奏开始废寝忘食地逼迫自己，不仅敷衍真冬的劝食，甚至在真冬父亲来访时因脸色极差被强制要求休息。即便躺在床上，奏仍无法停止思考乐曲，陷入了无视铃的呼唤、近乎病态的焦躁与执念之中。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "極限の果てに",
+      "title_cn": "在极限的尽头",
+      "summary_cn": "绘名与瑞希担心着闭关作曲的奏,真冬透露奏几乎不进食且对外界毫无反应。琳也现身指出奏因无法确立意象而陷入僵局。此时真冬那边突然传来巨响,原来是奏在极度焦虑中产生了试图阻止年幼的真冬被母亲带走的幻觉,最终体力不支倒下。醒来后的奏面对众人的担忧感到抱歉,真冬劝她不要勉强并主动去煮粥。在被强制休息期间,瑞希提出想趁机与奏谈谈。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "前に進むため",
+      "title_cn": "为了向前迈进",
+      "summary_cn": "醒来的奏向绘名等人坦白，因曾目睹真冬母亲的冷漠且受噩梦影响，无法信任对方，导致无法谱写出真冬记忆中的“温暖”。绘名指出视角差异很正常，建议奏亲自去确认并建立属于自己的理解。奏意识到为了作曲必须去了解真冬的母亲。在被强制休息前，奏向真冬表明决心，真冬也坦言虽害怕但想确认记忆的真伪，两人约定共同探寻真相。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "決意",
+      "title_cn": "决心",
+      "summary_cn": "真冬父亲看到奏对真冬的付出,回家见妻子正为女儿织围巾,便决定促成母女和解。数日后,父亲将围巾转交给真冬并提议对话。尽管内心仍对母亲感到恐惧,但为了回应奏的决心,真冬鼓起勇气同意了提议,并请求奏一同出席。父亲欣然应允,奏也决心以此为契机守护真冬,同时深入了解真冬母亲以便完成乐曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_notes_2025/event_notes_2025_08.webp"
+    }
+  ]
+}

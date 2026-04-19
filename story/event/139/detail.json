@@ -1,0 +1,74 @@
+{
+  "event_id": 139,
+  "title_jp": "鳴らせビューティフルサウンド！",
+  "title_cn": "奏响吧！美妙之音！",
+  "outline_jp": "RAD WEEKEND超えを果たし、しばし穏やかな時を過ごす冬弥。何か新しいことをしてみたいと考えていたところ、お世話になっている楽器店の店長から、楽器イベントのための接客を頼まれて……！？",
+  "outline_cn": "实现了超越RAD WEEKEND的目标后，冬弥度过了一段平静的时光。正当他想尝试些新事物时，平时受关照的乐器店店长拜托他在乐器活动中帮忙接待客人……！？",
+  "summary_cn": "青柳冬弥为了积累新经验，答应协助乐器店店长在“涩谷乐器DAY”展销会上接待客人。在白石杏的特训与天马咲希的鼓励下，冬弥逐渐适应了工作。与此同时，宵崎奏与朝比奈真冬偶遇了一位因无法吹好小号而懊悔的少年，并将他带至冬弥的摊位寻求指导。面对屡遭挫折想要放弃的少年，冬弥结合自身经历耐心劝导，奏也分享了“在脑海中描绘音色”的技巧。最终，少年在众人的守望下成功奏出美妙音色。这段经历不仅鼓舞了少年，也让冬弥与奏重温了初次触碰乐器时的感动，找回了对音乐最初的憧憬与喜悦。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "シブヤ楽器DAY",
+      "title_cn": "涩谷乐器DAY",
+      "summary_cn": "青柳冬弥因习惯早到练习场地，便打算利用这段空闲时间尝试以前没做过的新事物。偶遇白石杏与乐器店店长后，得知店长正为即将举办的乐器展销会“涩谷乐器DAY”人手不足而发愁。由于其他伙伴各有安排，店长便邀请冬弥帮忙。冬弥为了报答店长的关照并借机积累新经验，尽管担心自己缺乏接待客人的经验，还是答应了请求。在得知店长此次将展出其梦寐以求的管乐器后，冬弥决心全力以赴协助活动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "接客特訓！",
+      "title_cn": "接待特训！",
+      "summary_cn": "冬弥在“街头的世界”向伙伴们说明了将协助乐器展销会的事。因担心自己缺乏待客经验，杏提议进行交换特训：她教冬弥接待技巧，冬弥则教她乐器知识。尽管起初冬弥表现僵硬，但在众人帮助下逐渐掌握了要领，他甚至为了能指导初学者而专门练习吹奏小号吹嘴，尽显责任感。另一边，奏与真冬在购物归途中参加抽奖，意外赢得了该展销会的双人入场券，两人决定一同前往体验。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "好きだという気持ち",
+      "title_cn": "这份喜爱的心情",
+      "summary_cn": "活动前夜,冬弥因担心接待工作而独自练习时偶遇咲希。咲希提起冬弥儿时听司弹琴时眼中闪烁的光芒,鼓励他只要怀着对音乐的喜爱,就能将快乐传达给客人。活动当天,冬弥在镜音连与镜音铃的声援下放松心态投入工作。面对一对想尝试乐器的老夫妇,冬弥结合自身经历热情推荐了萨克斯,不仅消除了客人的顾虑,更因言语间流露出的快乐感染了对方,成功引导客人试奏,圆满完成了接待。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "少年とトランペット",
+      "title_cn": "少年与小号",
+      "summary_cn": "奏与真冬在欣赏完演奏会后,偶遇了一位含泪的少年。少年并非迷路,而是因自己在行进乐队中总是吹不好小号、无法参加合奏,在看到刚才精彩的演出后深感懊悔与羡慕。奏对这种想变强的心情感同身受,真冬则提议去管乐器体验摊位寻求指导。尽管少年起初因缺乏自信而犹豫,但在奏的温柔鼓励与两人愿意陪伴的支持下,他最终决定鼓起勇气前往摊位尝试。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "みんなで挑戦！",
+      "title_cn": "大家一起挑战！",
+      "summary_cn": "奏与真冬带着少年来到摊位寻求指导,虽然店长忙碌且活动临近结束,但冬弥主动提出教授少年吹出稳定声音的方法。为了给少年壮胆,杏邀请奏与真冬一同使用吹嘴尝试。在冬弥的指导下,真冬与杏逐渐掌握了技巧,但奏与少年却迟迟无法吹出声音。尽管冬弥耐心调整少年的嘴型,少年仍未成功,而此时广播提醒活动仅剩30分钟,情况变得紧迫。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "音楽はいつか",
+      "title_cn": "音乐终有一日",
+      "summary_cn": "随着活动临近尾声，屡次失败的少年因自认缺乏天赋打算放弃。冬弥挽留了他，分享自己曾因无法弹奏出理想音色而痛苦，但只要不放弃，音乐终有一日会给予回应。少年被冬弥的真诚打动，决定再次尝试。此时，奏受冬弥的话语启发，回忆起演奏中“想象”的重要性，并尝试该方法成功吹出了声音。冬弥对此深表赞同，众人随即引导少年通过在脑海中描绘理想的音色来进行挑战。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "美しい音",
+      "title_cn": "美妙的音色",
+      "summary_cn": "少年不再执着于“必须吹好”，而是专注于想象理想的音色，终于用吹嘴吹出了稳定的声音。冬弥随即鼓励他相信自己，怀着喜爱的心情尝试吹奏小号。在众人的守望下，少年成功奏出了美妙的音色。他激动地向大家道谢，承诺未来会参加演奏会后便开心地奔向朋友。事后，冬弥感慨少年的笑容让他想起了自己初次触碰钢琴时的喜悦，奏也表示同感，回忆起第一次弹奏父亲键盘时的感动。随着活动结束，双方互道感谢后告别。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "憧れと喜び",
+      "title_cn": "憧憬与喜悦",
+      "summary_cn": "活动圆满结束,杏与冬弥一边品尝店长请客的章鱼烧,一边回顾这一天。面对冬弥对自己接待表现的担忧,杏称赞他真诚地传达了音乐的乐趣。镜音铃与连也现身夸赞冬弥帮助了那位少年。冬弥感慨道,这次经历让他重拾了学习音乐的初心——那份憧憬以及奏出美妙音色时的喜悦。他决心铭记这份心情,与伙伴们一同克服未来的困难。此时店长发来消息邀请吃烤肉,两人便愉快地讨论起菜单。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_beautifulsound_2024/event_beautifulsound_2024_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 5,
+  "title_jp": "ここからRE:START！",
+  "title_cn": "从这里RE:START！",
+  "outline_jp": "MORE MORE JUMP！として活動することになった愛莉達。\nさっそく所属する事務所を探し始めるが……。",
+  "outline_cn": "爱莉等人决定作为MORE MORE JUMP!展开活动。她们立刻开始寻找所属事务所，然而……",
+  "summary_cn": "MORE MORE JUMP!决定正式展开活动，却在寻找事务所时遭遇重重困难。她们不仅因实乃里的素人身份被大型事务所拒绝，更因业界忌惮遥等人前东家的势力而处处碰壁。爱莉尝试独自与原事务所谈判也以失败告终，陷入了深深的无力感。然而，在「世界」中受到镜音铃的启发后，爱莉意识到偶像活动不应受限于场所。与此同时，实乃里也萌生了利用网络发布视频的想法。最终，四人打破常规，决定不再依附事务所，而是作为“自由身”偶像，通过网络视频等新形式，共同迈出重新出发的一步。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "わたしもアイドルに！",
+      "title_cn": "我也要成为偶像！",
+      "summary_cn": "幼时的爱莉为了保护妹妹与坏孩子打架而受伤，母亲在为她处理伤口时感叹她过于顽皮。此时，爱莉被电视上刚出道的偶像吸引，母亲便建议她尝试像偶像一样变得可爱。数日后，爱莉看到偶像在综艺节目中活跃的身姿，感叹偶像既能歌善舞又能给大家带来笑容。在被妹妹称赞“看着姐姐就能露出笑容”后，爱莉意识到自己或许适合这份工作，决心成为一名能给大家带来元气的偶像。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "４人でスタート",
+      "title_cn": "4人的出发",
+      "summary_cn": "爱莉回顾过去,决心作为组合一员再次努力。四人前往遥联系的大型事务所洽谈所属事宜,实乃里因被职员误认为是参观者而感到自卑,但在伙伴的鼓励下重拾信心。然而面试时,社长虽欢迎遥、雫和爱莉,却因实乃里是素人而拒绝让四人作为同一组合出道。尽管爱莉拼命维护实乃里的潜力与努力,社长仍不松口。最终,遥果断拒绝了该事务所的提议,四人遗憾离开。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "不穏なウワサ",
+      "title_cn": "不安的传闻",
+      "summary_cn": "实乃里因自己导致洽谈失败而深感自责,但在遥和爱莉的鼓励下决定继续尝试。然而数日过去,四人处处碰壁,不仅大多事务所只想单独签约有经验的三人,最近甚至连面谈的机会都难以获得。就在众人困惑时,她们偶遇一位熟识的制作人。经询问得知,业界正流传着她们寻找事务所的消息,而中小事务所因忌惮遥等人前东家的势力,担心接纳她们会被视为恶意挖角从而遭到打压,因此纷纷避而远之。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "最終手段",
+      "title_cn": "最终手段",
+      "summary_cn": "众人意识到因受业界施压的传闻影响，没有任何事务所敢接收她们，雫更是担心若强行所属会连累事务所的其他偶像。解散休息后，爱莉独自采取了“最终手段”——回到自己曾退出的事务所请求社长收留四人。为此，她甚至承诺不再抱怨，愿意无条件接受任何综艺或艺人活动安排。然而，社长虽认可她的决心，却因顾忌风险拒绝接收遥和雫，只愿重新签下爱莉一人。谈判破裂，爱莉失去了最后的希望，尽管强打精神，内心却充满了无力感。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "理想と現実",
+      "title_cn": "理想与现实",
+      "summary_cn": "爱莉独自在房间苦恼能否再次成为偶像,为了振作心情,她回想起幼时从偶像那里获得的勇气与笑容,这正是她梦想的初衷。面对残酷的现实,爱莉决定前往「世界」寻找线索。镜音铃敏锐地察觉到爱莉情绪低落,便用玩笑缓和气氛。爱莉坦承遭遇挫折,请求铃演唱一首能让人展露笑容的歌曲。铃欣然应允,决心用歌声帮助爱莉找回元气与笑容。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "どんな時も、笑顔で",
+      "title_cn": "无论何时都要保持笑容",
+      "summary_cn": "爱莉在「世界」观看铃的表演后重拾笑容，意识到偶像必须时刻积极向前。她向铃倾诉了自己从顽皮孩童努力成为偶像的过往，以及如今因找不到事务所而感到无法传达希望的苦恼。铃不仅肯定了爱莉的偶像身份，还天真地提出“偶像为何非进事务所不可”的疑问，坚信她们无论身在何处都能传递希望。这番话让爱莉联想到实乃里的信念，她深受启发，决定打破常规，开始调查不依赖事务所、作为“自由身”偶像开展活动的可能性。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "新たな選択肢",
+      "title_cn": "新的选择",
+      "summary_cn": "实乃里在打工时偶然看到路人拍摄视频,萌生了通过网络发布视频来进行偶像活动的念头。次日她在天台尝试拍摄自我介绍和舞蹈,却因缺乏经验导致画面模糊、角度不佳。路过的雫得知后不仅没有嘲笑,反而认为这是个好主意,提议集合四人之力共同尝试。另一边,遥再次遭到新事务所的拒绝,正当她看着自由职业者的联系方式,犹豫团队是否能不依附事务所独立活动时,突然收到了爱莉的消息。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "わたし達の選ぶ道",
+      "title_cn": "我们选择的道路",
+      "summary_cn": "爱莉提议大家不依赖事务所，作为“自由身”偶像开展活动。虽然遥担心管理和宣传问题，但爱莉展示了详细的调研资料并表示愿共同分担幕后工作。实乃里也提出通过网络发布视频来获取曝光，雫对此表示支持。见证了伙伴们的决心与准备，遥意识到自己思维受限，最终认同了这一新方向。四人决定放学后尝试拍摄视频，正式作为MORE MORE JUMP!开启了偶像活动。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_restart_2020/event_restart_2020_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 93,
+  "title_jp": "ボク達の生存逃走",
+  "title_cn": "我们的生存逃亡",
+  "outline_jp": "『ニーゴでの活動を制限されつつあるまふゆのためにできることはないか』と模索する奏達。その中で瑞希は、まふゆが心を安らかにできるよう、一緒に作業できる時間を作ろうとするが——。",
+  "outline_cn": "奏等人为了活动渐受限制的真冬，摸索着能做些什么。其中，瑞希为了让真冬内心安宁，试图创造能一起工作的时间，然而——。",
+  "summary_cn": "面对真冬母亲日益严苛的监视与手段切断，瑞希虽尝试利用午休时间协助真冬创作，但现状仍急剧恶化。看着无法反抗母亲而崩溃的真冬，瑞希联想到自己通过“逃避”来保护心灵的过往，意识到这或许是真冬唯一的生路。瑞希带真冬外出散心，郑重告诉她为了生存可以选择“逃跑”。最终，25时全员决心支持这一选择，随时准备接纳逃离绝境的真冬，共同守护她的自我。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "無意識のうちに",
+      "title_cn": "在无意识中",
+      "summary_cn": "瑞希、奏和绘名讨论真冬已两周未上线工作，推测是受其母亲监视。奏曾目睹真冬母亲否定音乐对真冬的意义，但考虑到真冬潜意识里仍想相信母亲，若此刻告知真相只会令其崩溃，众人决定暂时隐瞒并寻找对策。为了转换心情并向虚拟歌手同步现状，瑞希提议众人前往“无人的世界”聚会。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "自分らしくいられるように",
+      "title_cn": "为了能做自己",
+      "summary_cn": "奏一行人在“无人的世界”谈及现状：虽通过增加线下见面和加快创作来帮助真冬，但这并非长久之计。流歌指出必须让真冬认清母亲真意并反抗，但奏担心真冬无法承受残酷真相而拒绝。回到现实，瑞希收到真冬无法工作的消息，联想到家曾是自己唯一的避风港，而真冬却无处可逃。为了给真冬创造短暂的“做自己”的时间，瑞希想到了一个主意并立刻联系了同伴。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "安心できる時間",
+      "title_cn": "能够安心的时间",
+      "summary_cn": "瑞希提议利用真冬在学校的午休时间进行创作,以避开家中母亲的监视。具体方案是真冬躲在自习室假装学习,听着语音并通过打字参与讨论。次日,真冬婉拒了老师的事务委托,成功在无人的自习室上线。久违的共同作业让大家找回了熟悉的氛围,工作进展顺利,真冬虽然只能发文字,但也能感觉到她的开心。午休结束时,真冬表示希望能再次这样聚会。瑞希为此感到欣慰,觉得成功为真冬创造了短暂却能感到安心的时光。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "迫る足音",
+      "title_cn": "逼近的脚步声",
+      "summary_cn": "真冬回家后,母亲告知已丢弃其合成器,并借口弄坏电脑将其送修,彻底切断了真冬的创作手段。真冬虽察觉异样却不敢反抗。次日午休,真冬向大家坦白现状,瑞希意识到其母正试图将真冬与众人隔离,便约定若失联则在线下见面。绘名激愤地劝真冬为了保护自我必须对母亲发火,但真冬崩溃地大喊自己因深植内心的恐惧而绝对无法做到。随后真冬被迫断开连接,瑞希在她离开时大喊会继续等她。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "向き合えないまま",
+      "title_cn": "仍旧无法面对",
+      "summary_cn": "绘名为刚才的冲动发言感到后悔，奏虽安慰了她，但众人对打破真冬被母亲孤立的现状仍束手无策。放学路上，同学邀请瑞希游玩并无意间提到希望其能“合群”，瑞希意识到对方虽无恶意却无法理解“合群”对自己的痛苦，最终还是选择了拒绝与逃避。回家后，瑞希感慨真冬连个安心之所都没有，进而自责自己始终在逃避，连对现在的同伴都无法坦诚面对自己的秘密，质疑这样的自己是否有资格成为真冬的避风港。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "ボクの方法",
+      "title_cn": "我的方法",
+      "summary_cn": "瑞希在“无人的世界”独自苦恼，自嘲只会逃避且无法向同伴坦诚秘密，不像奏和绘名那样拥有觉悟，质疑自己是否有资格成为真冬的避风港。流歌虽直言瑞希胆小，却指出正因瑞希一直都在逃避，才拥有唯独以此能做到的事。在流歌的引导下，瑞希回忆起自己曾因逃离学校才保护了破碎的心灵，进而遇见了大家。瑞希终于找到了答案，决定告诉真冬“逃避也可以”，因为逃跑的前方或许就有属于她的容身之所。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "生きるために",
+      "title_cn": "为了生存",
+      "summary_cn": "真冬在家中倍感压抑，收到瑞希想见面的消息后，决定逃掉补习班前往赴约。瑞希并未直接切入正题，而是带真冬去游乐中心滑旱冰、玩游戏，随后又去逛街购物。在这些娱乐活动中，真冬紧绷的神经终于稍有放松。此时瑞希才坦白用意：在极度痛苦时，为了防止内心崩溃，通过转移注意力来“逃避”是必要的。瑞希结合自己曾因受排挤而逃离学校的过往，告诉真冬为了活下去并积蓄对抗的能量，在无法承受时选择逃跑并没有错。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "怖いけど、それでも",
+      "title_cn": "虽然害怕，即便如此",
+      "summary_cn": "瑞希在分别前再次嘱咐真冬，若真正被逼入绝境，要记得还有“逃避”这一选项。真冬虽尚存迷茫，但久违的重逢让她向瑞希表达了谢意。随后，瑞希在“无人的世界”向奏和绘名坦白自己擅自建议真冬逃跑，两人对此表示理解与支持，甚至提出愿意提供住所作为避难所。KAITO与流歌也在旁见证了众人的决心。瑞希深知这一建议背负着沉重的责任，虽然内心感到害怕，但为了让真冬能活出自我，决心即便如此也要倾尽全力。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_runaway_2023/event_runaway_2023_08.webp"
+    }
+  ]
+}

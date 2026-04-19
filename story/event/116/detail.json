@@ -1,0 +1,74 @@
+{
+  "event_id": 116,
+  "title_jp": "あの日、奏でた音色を",
+  "title_cn": "那一日,奏出的音色",
+  "outline_jp": "まふゆを救うために曲を作り続ける奏。そんな奏の元へ、祖母から連絡が入る。進級したこともあり、そろそろ奏自身のことを考えてみてほしいと言われた奏は、自分の今後のことを改めて考えてみるが——。",
+  "outline_cn": "为了拯救真冬,奏持续创作着乐曲。此时,祖母联系了她。鉴于奏已经升学,祖母希望她也能考虑一下自己的事情。于是,奏开始重新思考自己的未来——。",
+  "summary_cn": "祖母关于未来的询问让奏陷入迷茫，她发现自己除了“必须创作救人的曲子”外无法想象其他出路。在绘名、瑞希及虚拟歌手的引导下，奏追溯记忆，重拾了童年单纯喜爱音乐、渴望通过创作带给父母笑容的初心。尽管仍背负着导致父亲倒下的愧疚，但在众人的劝导下，奏意识到不能为了赎罪而扼杀自己的真心，只有正视自身感受才能真正拯救他人。最终，奏创作出一首充满幸福感的乐曲，并在探望沉睡的父亲时许下心愿：在拯救真冬的同时，也允许自己怀抱希冀，期待父亲醒来再次夸奖自己。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "進む先は",
+      "title_cn": "前行的方向",
+      "summary_cn": "真冬的父亲来探望时带了蛋糕,真冬坦白自己其实不喜欢,且近期尝不出味道。父亲虽惊讶但表示愿倾听,奏为此感到欣慰。真冬去休息后,奏接到祖母电话。祖母关心现状之余,提到奏已升学,希望能考虑一下毕业后的出路与自己的未来。奏答应后,开始独自思索今后的方向。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "やりたいこと",
+      "title_cn": "想做的事",
+      "summary_cn": "奏独自思考祖母的话，发现自己除了“必须创作救人的曲子”外，无法想象具体的未来。真冬去洗澡后，绘名察觉奏心不在焉，奏便透露了关于毕业后出路的烦恼。绘名坦言自己也在为是否读美大而犹豫。瑞希询问奏是否有“想做的事”而非“必须做的事”，奏却答不上来。绘名和瑞希表示，很高兴看到总是优先他人的奏终于开始考虑自己的事情，并鼓励她去寻找自己真正想做和感到快乐的事。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "わたしにとっての音楽",
+      "title_cn": "对我而言的音乐",
+      "summary_cn": "成员们下线休息后，奏回想起祖母与绘名的话，试图寻找自己真正想做的事。她忆起过去纯粹因喜爱和向往父亲而作曲的时光，虽如今只剩下“必须救人”的念头，但隐约感觉音乐对她而言不仅是义务。为转换心情，奏前往“无人的世界”。在那里，KAITO正思考真冬的变化，见奏到来，为了解她为何能创作出传达给真冬的歌曲，决定观察她。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "辿る、記憶の先は",
+      "title_cn": "追溯记忆的彼端",
+      "summary_cn": "奏在“无人的世界”听着以前创作的歌，意识到自己一直在作曲。镜音铃察觉奏的思绪，表示也想成为奏的力量。奏坦白虽然觉得“必须救人”，但隐约感到音乐对自己还有别的意义。面对铃关于“为何开始作曲”的提问，奏回忆起童年：她曾无比喜爱父亲的音乐，因为那能让母亲展露笑容。那段单纯向往父亲、渴望通过音乐带给他人笑容的温暖记忆逐渐浮现。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "あたたかい音色",
+      "title_cn": "温暖的音色",
+      "summary_cn": "回忆中，年幼的奏为了给父亲庆生，除了与母亲一同制作蛋糕外，还悄悄找出了旧电子琴，模仿父亲工作的样子尝试作曲，并将母亲想对父亲说的话编成了歌词。生日当天，奏演奏了这首原创歌曲，即便演奏中途忘谱，她也能凭直觉弹出和谐的旋律继续下去。父母对奏展现出的音乐天赋感到震惊与欣喜，父亲更是称赞那是“非常温暖的好曲子”。看到父母因自己的音乐而展露笑容，年幼的奏心中萌生了想要通过创作让他人快乐的纯粹愿望。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "優しい思い出と現実",
+      "title_cn": "温柔的回忆与现实",
+      "summary_cn": "奏告诉琳，自己曾为了让父母幸福而创作，那段充满音乐的时光非常温暖，让她意识到自己其实深爱着音乐。然而，当回忆触及父亲倒下的创伤时，奏强行压抑情感，以“必须创作救人的曲子”为由匆匆离开。在一旁观察的KAITO意识到，正是这份回忆让奏的歌能传达给真冬，但也看穿了奏刚刚扼杀了自己的真实心意。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "願い",
+      "title_cn": "愿望",
+      "summary_cn": "奏虽意识到曾深爱音乐,却仍因对父亲的愧疚,决定扼杀这份心情,只为赎罪和救人而创作。绘名指出正是那份爱让曲子变得温暖,并强烈反对奏牺牲自己的幸福。KAITO也现身斥责奏在扼杀真心,指出若无视自身感受便无法真正拯救真冬。绘名坦言自己被奏的歌所救,真心希望奏也能获得幸福。面对两人的劝导,奏内心动摇,开始思考自己是否也能被允许去追求曾经渴望的幸福。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "あの日の音色を",
+      "title_cn": "那一日的音色",
+      "summary_cn": "奏在“无人的世界”向虚拟歌手们展示了一首充满幸福感的曲子，这是她回想初次作曲时的心情创作的。她坦言虽无法改变过去，但想允许自己怀抱“若能回到当初”的念头。在铃和米库的鼓励下，奏决定让成员们也聆听此曲。随后，奏探望沉睡的父亲，讲述了新曲及自己救人的决心。她内心萌生愿望：若能拯救真冬并带给他人幸福，希望父亲能醒来像过去那样夸奖她。奏决定暂时允许自己怀抱这份希冀，继续前行。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_tone_2023/event_tone_2023_08.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "event_id": 150,
+  "title_jp": "傷だらけの手で、私達は",
+  "title_cn": "用满是伤痕的手，我们……",
+  "outline_jp": "文化祭以降、瑞希と連絡が取れず、会うこともできていない絵名。『あの時』のことを後悔し、悩みながらも「会ってもう一度話がしたい」という想いで瑞希を探すが——。",
+  "outline_cn": "自文化祭以来，绘名一直无法联系上瑞希，也没能见到面。她对“那时”的事感到后悔，虽然烦恼，但怀着“想见面再聊一次”的想法寻找着瑞希，然而——。",
+  "summary_cn": "文化祭后，瑞希因害怕面对绘名而断绝联系，甚至旷课逃避。绘名虽对之前的犹豫感到后悔，但在MEIKO与神代类等人的鼓励下，坚定了“想继续做朋友”的决心。奏与真冬得知后也加入现实世界的搜寻。最终，绘名在街头找到了试图逃跑的瑞希。面对瑞希的自我厌恶与拒绝，绘名愤怒而真挚地表明心意：比起世俗眼光，失去朋友才更可怕。瑞希终于卸下心防，哭诉着不想分开，两人在相互理解中重归于好。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "後悔",
+      "title_cn": "后悔",
+      "summary_cn": "绘名因文化祭后瑞希一直未读消息且旷课而无法专心绘画，她回想起瑞希在学校遭遇的非议以及此前的求救信号，后悔当时没能更坦诚地面对瑞希。到了25点，绘名上线与奏和真冬进行创作交流。奏因瑞希（Amia）长期缺席且无法制作MV而感到寂寞，绘名虽欲言又止，但认为不能由自己揭露瑞希的秘密，只能掩饰过去。看着自然的两人，绘名不禁自责：如果当时在场的是奏和真冬而非自己，或许瑞希现在还会留在大家身边。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "託された願い",
+      "title_cn": "被托付的心愿",
+      "summary_cn": "绘名在“无人的世界”寻找瑞希未果，MEIKO也表示瑞希似乎切断了外界联系。绘名深知瑞希渴望普通的日常，但也坦诚自己在知晓秘密后难免会顾虑重重，担心这份小心翼翼反而会伤害瑞希，因此对是否该去见面感到迷茫。MEIKO指出若维持现状一切终将结束，并将绘名的心意视为打破僵局的微光，鼓励她遵从内心。绘名最终下定决心，要再次见到瑞希并传达“想继续做朋友”的心愿。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "迷う心",
+      "title_cn": "迷茫的心",
+      "summary_cn": "绘名因无法联系瑞希而苦恼,彰人见状建议向瑞希的其他朋友打听。绘名通过彰人见到白石杏,得知瑞希虽旷课但仍回复杏的消息,从而确信瑞希唯独在回避自己。杏提议帮忙传话,但绘名担心这会导致瑞希也切断与杏的联系而犹豫不决。正当绘名因被瑞希拒绝沟通而陷入自我怀疑时偶遇神代类,类察觉绘名的烦恼与瑞希有关,便主动提出倾听。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "信じたい未来",
+      "title_cn": "想要相信的未来",
+      "summary_cn": "绘名向类倾诉瑞希唯独回避自己,虽担心纠缠会招致反感,但因害怕瑞希彻底消失而渴望沟通。类分享自身曾被强行介入心扉的经历,但也坦言中学时的瑞希极度孤独且抗拒他人,若在当时会被彻底拒绝。绘名听后痛心于瑞希曾经的遭遇。类指出瑞希在结识25时大家后真心展露笑容并找到了归宿,他愿相信瑞希仍渴望那个未来,以此鼓励绘名。绘名深受触动,坚定了不想结束、要继续与瑞希做朋友的决心。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "仲間だから",
+      "title_cn": "因为是伙伴",
+      "summary_cn": "瑞希依旧缺席,真冬察觉绘名与其发生了争执。奏表示大家都是重要的伙伴,主动提出帮忙,真冬、KAITO与虚拟歌手们也纷纷响应。绘名担心通过瑞希的其他朋友联系会将其逼入绝境,便请求大家一起在现实中寻找。随后众人分头行动:奏在琳的指引下搜寻布料店,真冬去学校蹲守却从冬弥处得知瑞希缺席,绘名在品牌新品发售处苦等无果。尽管大家竭尽全力,却始终未能找到瑞希。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "怖い",
+      "title_cn": "害怕",
+      "summary_cn": "瑞希为了逃避现实沉迷动漫,虽无意轻生却也失去了生活的动力,面对MEIKO的呼唤仍表示无法回到大家身边。MEIKO将瑞希闭门不出的现状告知绘名等人,真冬通过冬弥得知瑞希面临补习,推测不想给他人添麻烦的瑞希可能会现身学校。绘名决定赌上这个可能性,与奏、真冬在补习日前往学校蹲守。然而在教室等待时,绘名内心充满不安与自我怀疑,最终在最后关头向同伴提出了一个新的请求。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "逃走",
+      "title_cn": "逃走",
+      "summary_cn": "瑞希虽打算参加补习,但因害怕遇到绘名或被朋友询问而感到生理性恶心,甚至产生了放弃一切的念头。途中,瑞希被喜爱的品牌新品吸引驻足,却被预判到如果不去补习就会来此的绘名当场找到。极度恐慌的瑞希甩开绘名转身逃跑,MEIKO提醒这或许是最后面对绘名的机会。瑞希在剧烈的痛苦与呕吐感中哭喊着无法做出选择,就在此时,绘名的呼唤声再次逼近。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "友達",
+      "title_cn": "朋友",
+      "summary_cn": "绘名追上瑞希，坦承因珍视朋友才会顾虑重重。瑞希试图推开绘名，表示无法坦然接受温柔，只会因自我怀疑而痛苦。绘名反驳称比起外界眼光，失去瑞希才更可怕，并怒斥朋友间不存在“是否允许”的问题，自己的心意从未改变。面对这份真挚，瑞希终于卸下心防，哭喊着即使害怕未来，也依然想和大家在一起。绘名让瑞希自己决定，在瑞希表达心意后温柔地接纳了她，告诉她大家都在等候。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_scratch_2024/event_scratch_2024_08.webp"
+    }
+  ]
+}
