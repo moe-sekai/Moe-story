@@ -38,7 +38,7 @@ jobs:
         run: |
           git clone --depth 1 https://github.com/ci-ke/ProjectSekai-story.git upstream
           # Copy upstream story files, overwriting existing ones
-          for dir in story_unit story_event story_card story_area story_self story_special; do
+          for dir in story_cn story_jp; do
             if [ -d "upstream/$dir" ]; then
               rm -rf "$dir"
               cp -r "upstream/$dir" .
@@ -49,12 +49,12 @@ jobs:
 
       - name: Run migrate_story_paths.py
         if: steps.check_upstream.outputs.changed == 'true'
-        run: python migrate_story_paths.py
+        run: python migrate_story_paths.py --skip-area-split
 
       - name: Clean old directory structure
         if: steps.check_upstream.outputs.changed == 'true'
         run: |
-          for dir in story_unit story_event story_card story_area story_self story_special cn jp; do
+          for dir in story_cn story_jp; do
             if [ -d "$dir" ]; then
               echo "Removing old directory: $dir"
               rm -rf "$dir"
