@@ -49,7 +49,7 @@ jobs:
 
       - name: Run migrate_story_paths.py
         if: steps.check_upstream.outputs.changed == 'true'
-        run: python migrate_story_paths.py --skip-area-split
+        run: python migrate_story_paths.py
 
       - name: Clean old directory structure
         if: steps.check_upstream.outputs.changed == 'true'

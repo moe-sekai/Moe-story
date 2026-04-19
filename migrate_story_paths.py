@@ -242,55 +242,34 @@ def migrate_area(repo_dir: Path, dry_run: bool, skip_split: bool):
                     shutil.copy2(str(txt_file), str(new_path))
                 count += 1
             else:
-                # 拆分合并文件为按 actionSetId 独立的文件
-                # 文件内容格式: "{index} {actionSetId}{talk_type} [{area_name}]\n\n{text}\n\n\n"
+                # 拆分合并文件为按 scenarioId 独立的文件
+                # 文件内容格式: "{id} {scenarioId}\n\n【地点】\n\n（登场角色：...）\n\n对话内容...\n\n\n"
                 content = txt_file.read_text(encoding='utf-8')
                 
-                # 按空行分段，每段以 "{index} {actionSetId}" 开头
-                # 使用正则匹配每个 actionSet 的开头
+                # 按三个连续换行符分段
                 segments = re.split(r'\n\n\n', content)
                 
-                current_action_id = None
-                current_content_lines = []
-                
                 for seg in segments:
-                    if not seg.strip():
+                    seg = seg.strip()
+                    if not seg:
                         continue
-                    # 检查是否是新 actionSet 的开头
-                    # 格式: "{index} {actionSetId}{talk_type} [{area_name}]\n\n{text}"
-                    first_line_match = re.match(r'^\d+\s+(\d+)', seg.strip())
+                    
+                    # 提取第一行的 id 和 scenarioId
+                    # 格式: "{id} {scenarioId}"
+                    first_line_match = re.match(r'^(\d+)\s+(\S+)', seg)
                     if first_line_match:
-                        action_id = first_line_match.group(1)
+                        scenario_id = first_line_match.group(2)  # 使用 scenarioId 作为文件名
                         
-                        # 写入上一个 actionSet 的内容
-                        if current_action_id is not None and current_content_lines:
-                            new_path = repo_dir / 'story' / 'area' / category / f'{current_action_id}.txt'
-                            if not dry_run:
-                                new_path.parent.mkdir(parents=True, exist_ok=True)
-                                new_path.write_text(''.join(current_content_lines), encoding='utf-8')
-                            else:
-                                print(f'[DRY-RUN] [{lang}] ... → {new_path.relative_to(repo_dir)}')
-                            count += 1
-                        
-                        current_action_id = action_id
-                        current_content_lines = [seg + '\n']
-                    else:
-                        # 续接内容
-                        if current_action_id is not None:
-                            current_content_lines.append(seg + '\n')
+                        new_path = repo_dir / 'story' / 'area' / category / f'{scenario_id}.txt'
+                        if not dry_run:
+                            new_path.parent.mkdir(parents=True, exist_ok=True)
+                            new_path.write_text(seg, encoding='utf-8')
+                        else:
+                            print(f'[DRY-RUN] [{lang}] ... → {new_path.relative_to(repo_dir)}')
+                        count += 1
                 
-                # 写入最后一个 actionSet
-                if current_action_id is not None and current_content_lines:
-                    new_path = repo_dir / 'story' / 'area' / category / f'{current_action_id}.txt'
-                    if not dry_run:
-                        new_path.parent.mkdir(parents=True, exist_ok=True)
-                        new_path.write_text(''.join(current_content_lines), encoding='utf-8')
-                    else:
-                        print(f'[DRY-RUN] [{lang}] ... → {new_path.relative_to(repo_dir)}')
-                    count += 1
-                
-                if dry_run:
-                    print(f'[DRY-RUN] [{lang}] {txt_file.relative_to(repo_dir)} → {count} files in story/area/{category}/')
+                if dry_run and count > 0:
+                    print(f'[DRY-RUN] [{lang}] {txt_file.relative_to(repo_dir)} → split into files in story/area/{category}/')
     
     print(f'[DONE] Migrated {count} area files')
 
