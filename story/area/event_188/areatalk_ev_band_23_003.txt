@@ -1,4 +1,4 @@
-2770 areatalk_ev_band_23_003
+3 2770:areatalk_ev_band_23_003
 
 [センター街]
 

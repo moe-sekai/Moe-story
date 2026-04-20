@@ -1,4 +1,4 @@
-2834 areatalk_ev_shuffle_62_001
+1 2834:areatalk_ev_shuffle_62_001
 
 [スクランブル交差点]
 

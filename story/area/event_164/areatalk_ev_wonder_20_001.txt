@@ -1,4 +1,4 @@
-2619 areatalk_ev_wonder_20_001
+1 2619:areatalk_ev_wonder_20_001
 
 [センター街]
 

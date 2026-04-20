@@ -1,4 +1,4 @@
-900 areatalk_ev_street_02_001
+1 900:areatalk_ev_street_02_001
 
 【街头「世界」 - 咖啡厅】
 

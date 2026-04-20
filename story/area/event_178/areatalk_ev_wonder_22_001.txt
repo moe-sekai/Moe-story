@@ -1,4 +1,4 @@
-2704 areatalk_ev_wonder_22_001
+1 2704:areatalk_ev_wonder_22_001
 
 [センター街]
 

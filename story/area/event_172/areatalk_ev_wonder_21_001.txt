@@ -1,4 +1,4 @@
-2669 areatalk_ev_wonder_21_001
+1 2669:areatalk_ev_wonder_21_001
 
 [スクランブル交差点]
 

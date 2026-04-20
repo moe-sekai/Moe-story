@@ -1,4 +1,4 @@
-2766 areatalk_ev_street_23_003
+3 2766:areatalk_ev_street_23_003
 
 [神山高校]
 

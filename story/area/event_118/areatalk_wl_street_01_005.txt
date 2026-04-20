@@ -1,4 +1,4 @@
-2130 areatalk_wl_street_01_005
+5 2130:areatalk_wl_street_01_005
 
 【神山高校】
 

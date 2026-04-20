@@ -1,4 +1,4 @@
-1518 areatalk_ev_street_10_003
+3 1518:areatalk_ev_street_10_003
 
 【全向十字路口】
 

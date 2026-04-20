@@ -1,4 +1,4 @@
-2828 areatalk_ev_band_24_003
+3 2828:areatalk_ev_band_24_003
 
 [音楽ショップ]
 

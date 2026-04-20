@@ -1,4 +1,4 @@
-2644 areatalk_ev_street_21_001
+1 2644:areatalk_ev_street_21_001
 
 [ストリートのセカイ - 広場]
 

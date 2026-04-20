@@ -1,4 +1,4 @@
-2743 areatalk_ev_band_22_001
+1 2743:areatalk_ev_band_22_001
 
 [スクランブル交差点]
 

@@ -1,4 +1,4 @@
-2895 areatalk_ev_street_25_003
+3 2895:areatalk_ev_street_25_003
 
 [ストリートのセカイ - 広場]
 

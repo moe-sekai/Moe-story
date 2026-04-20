@@ -1,4 +1,4 @@
-2126 areatalk_wl_street_01_001
+1 2126:areatalk_wl_street_01_001
 
 【街头「世界」 - 咖啡厅】
 

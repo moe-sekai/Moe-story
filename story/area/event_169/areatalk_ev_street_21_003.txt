@@ -1,4 +1,4 @@
-2646 areatalk_ev_street_21_003
+3 2646:areatalk_ev_street_21_003
 
 [ストリートのセカイ - 広場]
 

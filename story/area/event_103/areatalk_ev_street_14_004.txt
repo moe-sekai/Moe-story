@@ -1,4 +1,4 @@
-1784 areatalk_ev_street_14_004
+4 1784:areatalk_ev_street_14_004
 
 【全向十字路口】
 

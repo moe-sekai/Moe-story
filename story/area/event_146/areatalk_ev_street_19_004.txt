@@ -1,4 +1,4 @@
-2380 areatalk_ev_street_19_004
+4 2380:areatalk_ev_street_19_004
 
 【神山高校】
 

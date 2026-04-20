@@ -1,4 +1,4 @@
-2835 areatalk_ev_shuffle_62_002
+2 2835:areatalk_ev_shuffle_62_002
 
 [センター街]
 

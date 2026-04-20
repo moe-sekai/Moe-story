@@ -1,4 +1,4 @@
-2767 areatalk_ev_street_23_004
+4 2767:areatalk_ev_street_23_004
 
 [センター街]
 

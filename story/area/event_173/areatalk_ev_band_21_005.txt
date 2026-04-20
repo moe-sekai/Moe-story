@@ -1,4 +1,4 @@
-2678 areatalk_ev_band_21_005
+5 2678:areatalk_ev_band_21_005
 
 [教室のセカイ - 学校]
 

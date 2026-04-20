@@ -1,4 +1,4 @@
-2765 areatalk_ev_street_23_002
+2 2765:areatalk_ev_street_23_002
 
 [ストリートのセカイ - カフェ]
 

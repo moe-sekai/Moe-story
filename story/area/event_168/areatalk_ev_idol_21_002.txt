@@ -1,4 +1,4 @@
-2640 areatalk_ev_idol_21_002
+2 2640:areatalk_ev_idol_21_002
 
 [ステージのセカイ - ステージ]
 

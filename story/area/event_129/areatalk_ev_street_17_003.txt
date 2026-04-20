@@ -1,4 +1,4 @@
-2250 areatalk_ev_street_17_003
+3 2250:areatalk_ev_street_17_003
 
 【中央街】
 

@@ -1,4 +1,4 @@
-2659 areatalk_wl_band_02_001
+1 2659:areatalk_wl_band_02_001
 
 [教室のセカイ - 駅]
 

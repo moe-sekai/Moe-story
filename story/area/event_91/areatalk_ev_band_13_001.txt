@@ -1,4 +1,4 @@
-1702 areatalk_ev_band_13_001
+1 1702:areatalk_ev_band_13_001
 
 【全向十字路口】
 

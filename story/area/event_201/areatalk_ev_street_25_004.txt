@@ -1,4 +1,4 @@
-2896 areatalk_ev_street_25_004
+4 2896:areatalk_ev_street_25_004
 
 [ストリートのセカイ - カフェ]
 

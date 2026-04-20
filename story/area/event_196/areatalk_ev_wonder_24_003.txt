@@ -1,4 +1,4 @@
-2832 areatalk_ev_wonder_24_003
+3 2832:areatalk_ev_wonder_24_003
 
 [センター街]
 

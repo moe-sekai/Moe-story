@@ -1,4 +1,4 @@
-2780 areatalk_ev_idol_24_001
+1 2780:areatalk_ev_idol_24_001
 
 [スクランブル交差点]
 

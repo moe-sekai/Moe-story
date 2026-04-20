@@ -1,4 +1,4 @@
-1069 areatalk_ev_street_04_002
+2 1069:areatalk_ev_street_04_002
 
 【中央街】
 

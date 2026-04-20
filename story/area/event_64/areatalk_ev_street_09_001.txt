@@ -1,4 +1,4 @@
-1470 areatalk_ev_street_09_001
+1 1470:areatalk_ev_street_09_001
 
 【中央街】
 

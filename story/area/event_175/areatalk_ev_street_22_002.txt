@@ -1,4 +1,4 @@
-2685 areatalk_ev_street_22_002
+2 2685:areatalk_ev_street_22_002
 
 [テーマパーク]
 

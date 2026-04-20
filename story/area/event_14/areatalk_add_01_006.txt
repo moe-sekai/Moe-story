@@ -1,4 +1,4 @@
-977 areatalk_add_01_006
+10 977:areatalk_add_01_006
 
 【全向十字路口】
 

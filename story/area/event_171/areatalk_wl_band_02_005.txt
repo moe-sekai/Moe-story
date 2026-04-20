@@ -1,4 +1,4 @@
-2663 areatalk_wl_band_02_005
+5 2663:areatalk_wl_band_02_005
 
 [教室のセカイ - 駅]
 

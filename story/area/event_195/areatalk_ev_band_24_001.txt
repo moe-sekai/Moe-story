@@ -1,4 +1,4 @@
-2826 areatalk_ev_band_24_001
+1 2826:areatalk_ev_band_24_001
 
 [スクランブル交差点]
 

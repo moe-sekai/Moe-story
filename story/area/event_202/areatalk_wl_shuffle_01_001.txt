@@ -1,4 +1,4 @@
-2897 areatalk_wl_shuffle_01_001
+1 2897:areatalk_wl_shuffle_01_001
 
 [スクランブル交差点]
 

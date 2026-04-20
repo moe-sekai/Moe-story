@@ -1,4 +1,4 @@
-2768 areatalk_ev_band_23_001
+1 2768:areatalk_ev_band_23_001
 
 [ショッピングモール]
 

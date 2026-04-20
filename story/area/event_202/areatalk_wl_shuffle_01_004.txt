@@ -1,4 +1,4 @@
-2900 areatalk_wl_shuffle_01_004
+4 2900:areatalk_wl_shuffle_01_004
 
 [音楽ショップ]
 

@@ -1,4 +1,4 @@
-2746 areatalk_ev_band_22_004
+4 2746:areatalk_ev_band_22_004
 
 [ショッピングモール]
 

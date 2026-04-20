@@ -1,4 +1,4 @@
-2639 areatalk_ev_idol_21_001
+1 2639:areatalk_ev_idol_21_001
 
 [ショッピングモール]
 

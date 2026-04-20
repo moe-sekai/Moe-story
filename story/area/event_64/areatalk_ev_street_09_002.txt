@@ -1,4 +1,4 @@
-1471 areatalk_ev_street_09_002
+2 1471:areatalk_ev_street_09_002
 
 【全向十字路口】
 

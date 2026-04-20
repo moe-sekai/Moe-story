@@ -1,4 +1,4 @@
-1000 areatalk_ev_street_03_002
+2 1000:areatalk_ev_street_03_002
 
 【中央街】
 

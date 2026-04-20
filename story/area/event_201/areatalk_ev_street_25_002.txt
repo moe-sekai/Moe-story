@@ -1,4 +1,4 @@
-2894 areatalk_ev_street_25_002
+2 2894:areatalk_ev_street_25_002
 
 [ストリートのセカイ - 広場]
 

@@ -1,4 +1,4 @@
-2620 areatalk_ev_wonder_20_002
+2 2620:areatalk_ev_wonder_20_002
 
 [スクランブル交差点]
 
