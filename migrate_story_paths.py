@@ -35,26 +35,6 @@ if sys.platform == 'win32':
     sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'ignore')
 
 
-# 角色名 → charaId 映射（从 gameCharacters.json 获取）
-CHARA_NAME_TO_ID = {
-    # CN names
-    '星乃一歌': 1, '天马咲希': 2, '望月穗波': 3, '日野森志步': 4,
-    '花里实乃理': 5, '桐谷遥': 6, '桃井爱莉': 7, '日野森雫': 8,
-    '小豆泽心羽': 9, '白石杏': 10, '东云彰人': 11, '青柳冬弥': 12,
-    '天马司': 13, '凤笑梦': 14, '草薙宁宁': 15, '神代类': 16,
-    '宵崎奏': 17, '朝比奈真冬': 18, '东云绘名': 19, '晓山瑞希': 20,
-    '初音未来': 21, '镜音铃': 22, '镜音连': 23, '巡音流歌': 24,
-    'MEIKO': 25, 'KAITO': 26,
-    # JP names
-    '星乃一歌': 1, '天馬咲希': 2, '望月穂波': 3, '日野森志歩': 4,
-    '花里みのり': 5, '桐谷遥': 6, '桃井愛莉': 7, '日野森雫': 8,
-    '小豆沢こはね': 9, '白石杏': 10, '東雲彰人': 11, '青柳冬弥': 12,
-    '天馬司': 13, '鳳えむ': 14, '草薙寧々': 15, '神代類': 16,
-    '宵崎奏': 17, '朝比奈まふゆ': 18, '東雲絵名': 19, '暁山瑞希': 20,
-    '初音ミク': 21, '鏡音リン': 22, '鏡音レン': 23, '巡音ルカ': 24,
-}
-
-
 def migrate_main(repo_dir: Path, dry_run: bool):
     """迁移主线剧情: story_{lang}/main/{seq} {name}/{scenarioId} {title}.txt → story/unit/{seq}/{scenarioId}.txt
 
@@ -139,7 +119,7 @@ def migrate_event(repo_dir: Path, dry_run: bool):
 
 
 def migrate_card(repo_dir: Path, dry_run: bool):
-    """迁移卡牌剧情: story_{lang}/card/{unit}_{chara}/{cardId} {rest}.txt → story/card/{cardId}.txt
+    """迁移卡牌剧情: story_{lang}/card/{id:02d} {unit}_{chara}/{cardId} {rest}.txt → story/card/{cardId}.txt
 
     合并策略：先迁移 jp，再迁移 cn（cn 覆盖 jp 同名文件，实现 cn 优先）
     """
@@ -154,6 +134,10 @@ def migrate_card(repo_dir: Path, dry_run: bool):
         for chara_dir in lang_dir.iterdir():
             if not chara_dir.is_dir():
                 continue
+            
+            # 目录名格式: "{id:02d} {unit}_{chara}"
+            # 例如: "01 Ln_星乃一歌"
+            # 不需要再从目录名提取 id，直接从文件名提取 cardId
             
             for txt_file in chara_dir.iterdir():
                 if not txt_file.is_file() or not txt_file.name.endswith('.txt'):
@@ -194,10 +178,10 @@ def migrate_area(repo_dir: Path, dry_run: bool, skip_split: bool):
             if not txt_file.is_file() or not txt_file.name.endswith('.txt'):
                 continue
             
-            filename = txt_file.name  # e.g. "talk_event_002.txt" or "talk_grade1.txt"
+            filename = txt_file.name  # e.g. "talk_event_002.txt" or "talk_grade1.txt" or "talk_limited_14 恶之大罪系列「世界」.txt"
             
             # 提取 category: "talk_{rest}.txt"
-            match = re.match(r'^talk_(.+)\.txt$', filename)
+            match = re.match(r'^talk_(.+?)(?:\s|\.txt$)', filename)
             if not match:
                 print(f'[WARN] Cannot parse area file: {filename}')
                 continue
@@ -256,7 +240,7 @@ def migrate_area(repo_dir: Path, dry_run: bool, skip_split: bool):
 
 
 def migrate_self(repo_dir: Path, dry_run: bool):
-    """迁移自我介绍: story_{lang}/self/{unit}_{chara}.txt → story/self/{charaId}.txt
+    """迁移自我介绍: story_{lang}/self/{id:02d} {unit}_{chara}.txt → story/self/{charaId}.txt
 
     合并策略：先迁移 jp，再迁移 cn（cn 覆盖 jp 同名文件，实现 cn 优先）
     """
@@ -272,14 +256,14 @@ def migrate_self(repo_dir: Path, dry_run: bool):
             if not txt_file.is_file() or not txt_file.name.endswith('.txt'):
                 continue
             
-            filename = txt_file.name  # e.g. "Ln_天马咲希.txt"
+            filename = txt_file.name  # e.g. "01 Ln_星乃一歌.txt"
             
-            # 提取角色名: "{unitAbbr}_{charaName}.txt"
-            chara_info = filename[:-4]  # 去除 .txt
-            chara_name = chara_info.split('_', 1)[1] if '_' in chara_info else chara_info
-            chara_id = CHARA_NAME_TO_ID.get(chara_name)
-            if chara_id is None:
-                print(f'[WARN] Cannot find charaId for: {chara_name} in {filename}')
+            # 提取 charaId: "{id:02d} {rest}.txt"
+            chara_id_str = filename.split(' ')[0]
+            try:
+                chara_id = str(int(chara_id_str))  # 去除前导零
+            except ValueError:
+                print(f'[WARN] Cannot parse charaId from file: {filename}')
                 continue
             
             new_path = repo_dir / 'story' / 'self' / f'{chara_id}.txt'
