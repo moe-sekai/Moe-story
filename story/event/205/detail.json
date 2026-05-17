@@ -1,0 +1,155 @@
+{
+  "event_id": 205,
+  "title_jp": "Great Yell for Dreamers！",
+  "title_cn": "为梦想者呐喊！",
+  "outline_jp": "セカイで出会った志歩、みのり、杏、司、リン、レン。ある想いの欠片をきっかけに、夢を諦めるかどうかの瀬戸際にいる青年と出会う。夢を追う者同士、ひと肌脱ぐことになるが——！？",
+  "outline_cn": "在「世界」中相遇的志步、实乃里、杏、司、铃、连。因某个思念碎片为契机，他们遇到了一位在放弃梦想边缘的青年。同为追梦者，他们决定伸出援手，但——！？",
+  "summary_cn": "在共鸣形成的新「世界」中，来自不同组合的成员们与镜音铃、连相遇，并发现了一颗不属于任何人的思念碎片。碎片引导他们遇见了因与父母约定而将舞蹈选秀视为最后机会的青年舞者Rise。众人为他加油，助其通过二次审查，并通过碎片看到的记忆了解了他对舞蹈最初的热爱。在志步等人的鼓励和竞争对手Minato的组队邀请下，Rise决心在最终审查跳出真正热爱的舞蹈。尽管审查因故中止，但在天马司等人的努力下，转为举办舞蹈秀。Rise与Minato在大家的支持下成功演出，让观众们也展露笑容，梦想得以延续。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "導かれた出会い",
+      "title_cn": "被引导的相遇",
+      "summary_cn": "在「世界」中，镜音铃和连发现树木异常并听到人声，随后一道强光闪过。光芒消散后，来自不同组合的星乃一歌、天马咲希、望月穗波、日野森志步（Leo/need）、花里实乃里、桐谷遥、桃井爱莉、日野森雫（MORE MORE JUMP!）、小豆泽心羽、白石杏、东云彰人、青柳冬弥（Vivid BAD SQUAD）、天马司、凤笑梦、草薙宁宁、神代类（Wonderlands×Showtime）以及宵崎奏、朝比奈真冬、东云绘名、暁山瑞希（25时，Nightcord见。）的成员们意外聚集到了同一个新生的「世界」。他们通过对话确认彼此都拥有各自的「世界」，并意识到这个新「世界」是由大家相似的思念共鸣而形成的。随后，他们发现了一颗不属于在场任何人的思念碎片，推测它可能被众人的强烈思念吸引而来。",
+      "character_ids": [
+        22,
+        23,
+        21,
+        25,
+        24,
+        26,
+        13,
+        10,
+        5,
+        4,
+        184,
+        9,
+        11,
+        12,
+        6,
+        7,
+        8,
+        14,
+        15,
+        16
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ビシバシポジティブ！",
+      "title_cn": "积极向上！",
+      "summary_cn": "在乃木公园，众人发现了正在参加“第10回铁笼昭·新人发掘舞蹈选秀”二次审查的青年舞者“Rise”。实乃里等人为他加油打气，帮助他缓解紧张并成功通过审查。随后，他们与青年交谈，得知他因与父母的约定而将此次选秀视为成为职业舞者的最后机会，长期的压力和孤独使他陷入焦虑。实乃里感同身受，分享了自己多次落选仍坚持偶像梦想的经历，并主动提出要帮助他练习，希望协助他克服不安、实现梦想。",
+      "character_ids": [
+        5,
+        13,
+        10,
+        4,
+        184,
+        22,
+        23,
+        185
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "記憶に触れて",
+      "title_cn": "触碰记忆",
+      "summary_cn": "在「世界」中，镜音铃和连回顾了与众人分别后的情况，推测是这个新生的「世界」主动召唤了大家，而那颗思念碎片可能是为了求助才将众人引来。随后，碎片再次发光，向他们展示了记忆片段：青年在高中后夜祭看到舞蹈部表演后心生向往，决定高考后开始学舞；之后是他初学舞蹈时，虽然生涩但充满热情地练习的场景。这与之前选秀中他“痛苦”的舞蹈形成对比，让铃和连更想了解他转变的原因。记忆结束时，他们听到实乃里等人呼唤青年的声音。",
+      "character_ids": [
+        22,
+        23,
+        184,
+        185,
+        4,
+        13,
+        5,
+        10
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "想いと熱",
+      "title_cn": "思念与热情",
+      "summary_cn": "在练习室，志步等人观看Rise的舞蹈后，发现他虽然技巧娴熟但失去了与实乃里共舞时的快乐。练习前，志步直接询问Rise现在跳的是否是他真正想跳的舞蹈。Rise承认不同，但认为这是最后机会，必须以此一搏。志步转达了镜音铃和连的鼓励，希望他能遵从内心，在最后机会跳自己真正热爱的舞蹈。Rise回忆起最初跳舞的纯粹快乐，但困惑于如何将这份“思念”融入现在的舞蹈中。众人理解其难处，实乃里再次提议一起跳舞寻找灵感。",
+      "character_ids": [
+        4,
+        5,
+        13,
+        10,
+        184,
+        22,
+        23,
+        185
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "受け止めて、一緒に",
+      "title_cn": "接受它，一起",
+      "summary_cn": "在练习室，Rise的竞争对手Minato突然出现，并郑重邀请Rise与他组队参加最终审查。Minato解释已获得审查员和其他参赛者的许可，并坦言自己虽以角色扮演展现表现力，但内心渴望跳出让观众也想尝试的舞蹈，而Rise与孩子们共舞时的样子正是他的理想。得知Rise处于追梦的紧要关头后，Minato决定不再犹豫，发出邀请。Rise深受感动，但请求给予三天时间互相确认能否成为真正的团队。Minato同意后，两人决定以Minato为上次审查准备的双人舞为基础，共同创作“让人想跳的舞蹈”，并开始热烈讨论改编细节，杏等人则在一旁支持。",
+      "character_ids": [
+        184,
+        185,
+        10,
+        5,
+        4,
+        13,
+        9
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "重なる想い、そして……",
+      "title_cn": "重叠的思念，然后……",
+      "summary_cn": "镜音铃和连再次来到「世界」，发现大家都不在。他们正讨论着要守护思念碎片时，树木和Rise的碎片突然发光，紧接着天空中竟有新的思念碎片坠落，引起一阵骚动。随后，实乃里、志步、司和杏等人赶到。众人确认新碎片完好无损，并推测它可能与树木及Rise的碎片产生了共鸣。杏等人向铃和连解释了Rise与竞争对手Minato组队参加最终审查，但团队磨合尚不顺利的现状。大家开始思考，这片新碎片究竟是谁的，又为何会与这个「世界」产生共鸣。",
+      "character_ids": [
+        23,
+        22,
+        10,
+        5,
+        4,
+        13,
+        185,
+        184
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "ピンチをチャンスに！",
+      "title_cn": "化危机为机遇！",
+      "summary_cn": "最终审查当天，司、实乃里、杏和志步在会场入口前集合。司透露这场选秀规模很大，历届获奖者都很活跃，还有知名导演担任特别评审。实乃里注意到有电视工作人员。司想起特别评审中有大原导演，想去打招呼。志步庆幸Rise和Minato能顺利迎来最终审查，司也表示他们克服了团队磨合的困难。此时，司突然感应到「世界」的召唤，推测Rise和Minato可能去了「世界」。司决定在会场外等待，并反思没有向他们透露「世界」的事或许是正确的。他决心全力为两人应援。杏提醒司休息室的方向，司却说想先看看会场。就在这时，他们突然听到Rise大喊“中止是什么意思！？”的声音。",
+      "character_ids": [
+        13,
+        5,
+        10,
+        4,
+        184,
+        185
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "夢は続く",
+      "title_cn": "梦想延续",
+      "summary_cn": "最终审查因故中止，但天马司等人争取到播放参赛者表演视频并举办舞蹈秀的机会。在大原导演的指导下，司带领参赛者们利用40分钟紧急排练无台词、仅用舞蹈叙事的表演。众人分工合作，杏借来服装，志步协调音响，实乃里则用幽默缓解了Rise和Minato的紧张。在大家的支持下，Rise和Minato充满感激地登上舞台。最终，舞蹈秀大获成功，不仅表演者，连观众们都露出了笑容。",
+      "character_ids": [
+        13,
+        4,
+        5,
+        10,
+        185,
+        184,
+        22,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026_08.webp"
+    }
+  ]
+}
