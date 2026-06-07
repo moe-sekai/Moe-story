@@ -1,0 +1,112 @@
+{
+  "event_id": 206,
+  "title_jp": "最果てへと飛ぶキミへ",
+  "title_cn": "致飞向远方的你",
+  "outline_jp": "ある日、MORE MORE JUMP！のブライダル配信用衣装を作る手伝いをすることになった瑞希。しかしそんな中、瑞希達は迷子の小鳥と出会う。みんなで探した甲斐あって、どうにか飼い主を見つけることができるが——。",
+  "outline_cn": "某天，瑞希决定帮忙制作MORE MORE JUMP！的婚纱直播用服装。然而在此期间，瑞希等人遇到了一只迷路的小鸟。在大家共同努力寻找下，总算找到了它的主人，但是——。",
+  "summary_cn": "瑞希在帮忙制作MORE MORE JUMP！的婚纱服装期间，与朋友们捡到一只迷路的小鸟“小梦”，并悉心照顾。在寻找主人的过程中，她们通过社交媒体和传单联系上了鸟主人柴山女士。然而，当大家重逢时，却得知小梦已在睡梦中安详离世。瑞希起初难以接受，后在奏的建议下，通过编织蕾丝盖布将悲伤转化为创作，以此纪念小梦，并在葬礼前将作品送给柴山女士，共同缅怀这段短暂而温暖的缘分。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "花嫁さん風衣装を作ろう！",
+      "title_cn": "制作新娘风服装吧！",
+      "summary_cn": "瑞希在购物后心情愉悦，感叹今天是美好的一天，不仅买到了心仪的衣服，还赶上了限时特卖。她特别高兴能与爱莉和雫一同逛街，但被同行的绘名吐槽自己也在场，瑞希则开玩笑说因为绘名总是在所以没什么特别感。",
+      "character_ids": [
+        20,
+        7,
+        8,
+        19
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "ようこそ小鳥さん",
+      "title_cn": "欢迎小鸟君",
+      "summary_cn": "瑞希在房间内为捡到的小鸟准备了食物、水和栖木，并确认了室温适宜，还预先登记了动物医院的电话。她决定在找到主人前暂时照顾它，并尝试为小鸟起昵称。小鸟模仿着说出“小梦好可爱！小梦最喜欢了！”等话语，瑞希推测它是在重复主人的话，于是将小鸟命名为“小梦”。瑞希向小鸟承诺会努力寻找它的主人。此时爱莉打来电话，告知已在走失宠物数据库登记，瑞希表示感谢并说自己会在社交媒体上发布寻主信息，同时保证婚纱服装的制作也会同步进行，爱莉感到安心并道谢。",
+      "character_ids": [
+        20,
+        7,
+        26,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "織り成す日々",
+      "title_cn": "交织的日常",
+      "summary_cn": "瑞希在社交媒体上发布了寻找小梦主人的信息，并开始制作婚纱服装。她首先处理实乃里的服装，但发现布料较硬，考虑是否改用缝纫机。期间，她按照指南让小梦出笼活动，却因忘记收好布料而紧张地阻止小梦可能弄脏。瑞希一边工作，一边表达希望服装能传达婚礼的幸福与闪耀感，让粉丝感动。小梦突然模仿说出“可爱！可爱！”，让瑞希感到惊喜。",
+      "character_ids": [
+        20,
+        8,
+        7
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "見つけた手がかり",
+      "title_cn": "找到的线索",
+      "summary_cn": "奏在回家路上遇到一位正在分发寻鸟传单的老妇人，她答应帮忙留意。回到家中，奏与正在工作的瑞希线上通话，瑞希提到自己正在照顾一只迷路的小鸟。通话期间，小鸟突然发出“小梦！最喜欢！”的声音，让奏感到惊讶，瑞希这才解释自己暂时收留了这只迷鸟。",
+      "character_ids": [
+        17,
+        20
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "最後のひと時",
+      "title_cn": "最后的时光",
+      "summary_cn": "在宫益坂，瑞希带着小梦与爱莉和雫会合。她解释了为减少外界刺激而用布遮盖鸟笼的做法，并提到本应使用专用运输笼但未能准备。雫称赞瑞希已变得十分了解小鸟，瑞希则表示既然暂时照顾就想认真负责。就在她提及主人即将到来的时刻，一位老妇人突然出现。",
+      "character_ids": [
+        20,
+        7,
+        8
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "キミは静かに",
+      "title_cn": "你悄然离去",
+      "summary_cn": "瑞希向爱莉展示了最终完成的婚纱服装，两人在咖啡厅满意地确认了细节。随后，她们在舞台的世界中交谈时，发现了坐在长椅上神情落寞的柴山女士。上前询问后得知，小梦已于昨夜在睡梦中安详离世。柴山女士感谢瑞希等人让她能在最后时刻陪伴爱莉，并告知次日将举行葬礼。瑞希一时难以接受，回想起小梦的声音，感到悲伤。爱莉也忍不住落泪，感慨小梦对柴山女士而言是无可替代的家人。最后，爱莉强打精神，提醒自己明天还有直播，需要去确认流程。",
+      "character_ids": [
+        20,
+        7,
+        26,
+        6,
+        8,
+        5
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "形に",
+      "title_cn": "赋予形态",
+      "summary_cn": "瑞希向奏倾诉了小梦离世的消息，坦言自己虽只照顾了短短数日，却仍感到难以释怀，且不知能做些什么。奏建议她尝试将无法言喻的心情通过创作（比如作曲）赋予形态，这样或许能稍微整理心绪，甚至可能成为他人的慰藉。瑞希深受启发，决定动手编织些什么。她精心挑选了钩针和颜色，在编织过程中回忆起与小梦相处的快乐时光，并想象着柴山女士与小梦长年相伴的幸福。最终，她完成了作品，心中涌起一份信念——小梦和柴山女士都曾拥有过幸福。",
+      "character_ids": [
+        20,
+        7,
+        17
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "空の向こうでも",
+      "title_cn": "在天空的另一端",
+      "summary_cn": "瑞希根据地址找到了柴山女士的家。柴山女士在门口迎接，感谢她专程来为小梦送行。瑞希表示自己才应感谢对方在如此重要的日子抽空见面。柴山女士说很高兴能有人一起聊聊小梦来送别它，但抱歉因殡仪馆的人即将到来而无法请瑞希进屋。瑞希连忙表示在门口就好，并说明自己有东西想交给小梦和柴山女士。她拿出了一件自己编织的蕾丝盖布，并向柴山女士解释，这是她在照顾小梦期间，受朋友委托制作服装时产生的灵感。",
+      "character_ids": [
+        20,
+        5,
+        8,
+        6,
+        7
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_edge_2026/event_edge_2026_08.webp"
+    }
+  ]
+}
