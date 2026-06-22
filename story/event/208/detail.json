@@ -1,0 +1,126 @@
+{
+  "event_id": 208,
+  "title_jp": "Phantom maze monster",
+  "title_cn": "幻影迷宫怪物",
+  "outline_jp": "会議により自分達の公演をやろうと決めたワンダーランズ×ショウタイム。榊の協力で劇場の確保も叶い順調に初日を迎える。しかし公演後榊から「この公演はまだ良くなる。よければ手伝わせてくれない？」と言われ——。",
+  "outline_cn": "通过会议决定举办属于他们自己公演的Wonderlands×Showtime。在榊的协助下，他们成功确保了剧场并顺利迎来了首日。然而公演结束后，榊却对他们说：“这场公演还能变得更好。如果不介意的话，能让我来帮你们吗？”——",
+  "summary_cn": "Wonderlands×Showtime举办自主公演，并接受了导演榊的指导。为了演好因害怕被遗忘而产生杀意的角色，天马司不断逼迫自己，通过自我孤立和回想痛苦回忆来揣摩角色，导致精神濒临崩溃。在伙伴们的担忧与深情支持下，司在最终公演中将痛苦转化为震撼的演技，令公演大获成功。虽然司精疲力竭，但伙伴们的羁绊让他找回了自我，而榊也准备展开下一步行动。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "オレ達の公演を",
+      "title_cn": "举办我们的公演",
+      "summary_cn": "天马司提前半小时来到乃之木公园，准备主持决定Wonderlands×Showtime未来方针的“超决定会议”。作为座长兼会议议长，他一方面想要履行好整合大家意见的职责，另一方面内心又极度渴望提出自己想做的企划，因此陷入了议长是否应该率先发言的纠结中。这时，凤笑梦、草薙宁宁和神代类突然出现并吓了他一跳。在众人的询问下，司最终决定说出自己真正想做的事情。",
+      "character_ids": [
+        13,
+        14,
+        15,
+        16,
+        25,
+        24,
+        26,
+        21,
+        22,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "天国へのパレード",
+      "title_cn": "通往天国的巡游",
+      "summary_cn": "公演首日，看到观众席坐满的笑梦十分开心，宁宁和类也对演出充满期待。司鼓励大家在接下来的两周公演中全力以赴，随后四人喊出标志性口号，公演《通往天国的巡游》正式开演。剧中，失去记忆的威廉在天国醒来，为了找回记忆，他在年幼神使的帮助下偷偷来到地上的墓前，目睹女儿阿米莉亚在哭泣道歉。威廉因此想起自己是在与女儿争吵推搡时被其杀害的。此时，大神使现身，并质问违反规则的神使。",
+      "character_ids": [
+        14,
+        15,
+        16,
+        13,
+        127
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "課せられたもの",
+      "title_cn": "被赋予的任务",
+      "summary_cn": "几天前，榊向大家提出协助公演的提议，并让他们决定后联系事务所。虽然司和宁宁对此感到惊讶，但认为这是接受世界级导演指导的难得机会，希望能借此成长，而类则指出榊的协助可能会让后续发展产生巨大变化。几天后，大家在休息室等待榊的到来。由于此前只有类直接接受过榊的指导，宁宁感到有些紧张，司则鼓励大家将这次指导转化为成长的养分。",
+      "character_ids": [
+        16,
+        15,
+        14,
+        13,
+        127
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "擦り減る心",
+      "title_cn": "消磨的心灵",
+      "summary_cn": "为了演好角色，天马司在房间里反复想象推下家人的场景。虽然这种生动的想象加深了他对角色的理解，但也给他的心灵带来了巨大的负担，且他依然无法产生真正的杀意。公演结束后，大家在疲惫中准备迎接榊的指导。然而，司展示的表演却被榊评价为“还差得远”，认为他只演出了因害怕被遗忘而产生的愤怒。司虽然受挫，但仍决定重新琢磨。",
+      "character_ids": [
+        13,
+        14,
+        15,
+        16,
+        127
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "記憶の再演",
+      "title_cn": "记忆的重演",
+      "summary_cn": "为了重现被遗忘的感觉以突破演技，天马司特意让父母和咲希外出用餐，独自留在家中集中练习。他尝试回忆小学低年级时的一幕：某天放学回家，家里空无一人且联系不上父母，他猜测是妹妹咲希再次病倒。尽管当时年幼的他心中充满担忧与不安，但他深知因病面临未知明天的咲希才是最害怕的人。然而，当司试图进一步回想自己当时内心深处的真实感受时，却发现怎么也无法顺利想起来。",
+      "character_ids": [
+        2,
+        13,
+        127
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "選んだ孤独",
+      "title_cn": "选择的孤独",
+      "summary_cn": "为了演好角色，天马司请求大家除了必要沟通外不要与他搭话，以体验孤立的痛苦。尽管笑梦和宁宁十分担忧，但在类的劝说下大家还是决定配合。司在排练中通过想象被妹妹咲希遗忘的痛苦，逐渐找到了角色的感觉，并得到了榊的认可。然而，随着司不断逼迫自己，他的脸色变得极差。面对笑梦和宁宁的关心，司依然选择拒绝沟通。类担心司的精神状况试图劝阻榊，但榊却主张继续静观其变。",
+      "character_ids": [
+        15,
+        16,
+        14,
+        13,
+        127,
+        2,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "胸の奥では",
+      "title_cn": "内心深处",
+      "summary_cn": "公演最后一天，天马司因榊的课题而陷入了无法自我控制的疯狂状态。神代类察觉到司的异样，认为不能再这样下去，试图找他谈谈。然而，即将找到角色感觉的司拒绝了沟通，请求大家不要打扰他。看着痛苦挣扎的司，凤笑梦忍不住大声呼喊，表示理解他为了角色不断回想悲伤与痛苦的辛酸，并深情地告诉司，无论如何，他们绝对不会忘记他。",
+      "character_ids": [
+        13,
+        16,
+        14,
+        15
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "浮上",
+      "title_cn": "浮出水面",
+      "summary_cn": "在公演高潮中，威廉企图杀死阿米莉亚，但阿米莉亚深情表白绝不会忘记他，这让司瞬间清醒并展现出震撼的演技，得到了榊的认可。最终，公演在观众的泪水与掌声中大获成功。谢幕后，精疲力竭的司被同伴接住，看着台下观众的笑容，他感到无比欣慰。类在为成功高兴的同时，也因自己无法将司带到如此高度而感到不甘与后怕。而榊则认为时机已到，准备采取行动。",
+      "character_ids": [
+        15,
+        16,
+        13,
+        127,
+        14
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_monster_2026/event_monster_2026_08.webp"
+    }
+  ]
+}
